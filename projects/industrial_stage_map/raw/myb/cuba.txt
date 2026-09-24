@@ -1,0 +1,406 @@
+2022 Minerals Yearbook
+
+CUBA [ADVANCE RELEASE]
+
+U.S. Department of the Interior  March 2025
+U.S. Geological Survey
+U.S. Geological Survey, Reston, Virginia: 2025
+
+For more information on the USGS--the Federal source for science about the Earth, its natural and living
+resources, natural hazards, and the environment--visit https://www.usgs.gov or call 1-888-392-8545.
+For an overview of USGS information products, including maps, imagery, and publications, visit https://store.usgs.gov/
+or contact the store at 1-888-275-8747.
+
+Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the
+U.S. Government.
+Although this information product, for the most part, is in the public domain, it also may contain copyrighted materials
+as noted in the text. Permission to reproduce copyrighted items must be secured from the copyright owner.
+World rankings for mineral production, shares of world production, and reserves presented in this chapter are
+derived from the referenced sources. Production data in this chapter may differ from data in other sources because
+of differences in the date of reporting.
+The Mineral Industry of Cuba
+
+                    By Yadira Soto-Viruet
+
+  In 2022, Cuba was estimated to rank fourth among the              the country's mining policy and legal regulations for the
+world's leading producers of zeolites (accounting for about         development of mineral resources. The Ministerio de Energía y
+9% of world production) and sixth among the world's leading         Minas [Ministry of Energy and Mines] (created by Law Decree
+producers of cobalt (accounting for about 2% of world               No. 301 of 2012) was the entity responsible for establishing
+production). Other nonfuel mineral commodities produced             Government policies for the energy and mining sectors. The
+in the country included bentonite, cement, feldspar, gypsum,        Ley de Inversión Extranjera [Law of Foreign Investment]
+kaolin, lead, lime, limestone, marble, salt, silica sand, raw       (law No. 118 of 2014) established the legal framework for
+steel, sulfuric acid, volcanic ash, and zinc. Cuba also produced    foreign investment in the country. The Government-owned
+mineral fuels, such as crude petroleum, natural gas, and            Unión Cuba Petróleo (CUPET) is responsible for exploring
+petroleum refinery products. Other identified mineral resources     for, producing, refining, and marketing the country's petroleum
+in Cuba included chromium, copper, gold, iron ore, manganese,       and refinery products (Ministerio del Comercio Exterior y la
+silver, and tungsten, as well as industrial minerals, such as       Inversión Extranjera, 2022, p. 15, 221, 271).
+asbestos, barite, basalt, clay, gabbro, garnet, graphite, kyanite,
+magnesite, mica, olivine, phosphate rock, quartz, quartz sand,      Production
+quartzite, and semiprecious stones (table 1; Ministerio del
+Comercio Exterior y la Inversión Extranjera, 2022, p. 271;            In 2022, estimated lead production in the country increased
+Ewing, 2024; Williams, 2024).                                       by 14% to 33,000 metric tons (t) from 29,000 t in 2021,
+                                                                    and estimated zinc production increased by 16% to 52,000 t
+  The country's economic activity was beginning to                  from 45,000 t in 2021. The increases in estimated lead and
+recover after the negative effects caused by the coronavirus        zinc production continued to be attributed to the increase in
+disease 2019 (COVID-19) pandemic. However, on                       production at the Castellanos Mine, which was owned by
+September 27, Cuba's economic growth was suddenly and               Empresa Minera del Caribe Santa Lucía S.A. (Emincar), the
+negatively affected by Hurricane Ian--a storm that made             only producer of lead and zinc in the country. During the year,
+landfall as a Category 3 hurricane in western Cuba. The             the production of raw steel decreased by 13% to 200,000 t from
+storm caused widespread rainfall and flooding, the loss of          231,000 t (revised) in 2021. The industrial minerals for which
+life and loss of electrical power throughout the country, and       output decreased by more than 10% were led by feldspar and
+damage to or destruction of basic infrastructure. All these         marble (production decreased by 67% each), kaolin (64%),
+factors negatively affected most economic activities in Cuba,       silica sand (53%), bentonite (44%), gypsum (38%), calcareous
+including those of the agricultural and fisheries sector. Cuba's    sand and other unspecified crushed stone (33% each), lime
+slow economic growth throughout the year was also in part           (27%), and cement (17%) (Oficina Nacional de Estadística e
+attributed to the prevailing socioeconomic and political crisis in  Información, 2023c). Data on mineral production are in table 1.
+Venezuela--a country that continued to be one of Cuba's main
+trading partners (Economic Commission for Latin America and         Structure of the Mineral Industry
+the Caribbean, 2022, p. 1; Welle, 2022; Bucci and others, 2023,
+p. 3, 6; Oficina Nacional de Estadística e Información, 2023d,        Most mining operations in Cuba were Government owned
+p. 10).                                                             or were joint ventures with the Government. Nickel and
+                                                                    cobalt were produced in the country by Government-owned
+Minerals in the National Economy                                    Empresa de Níquel Comandante Ernesto Che Guevara and
+                                                                    by Moa Nickel S.A., which was a joint venture between
+  In 2022, Cuba's real gross domestic product (GDP) increased       the Government and Sherritt International Corp. of Canada
+by 1.8% compared with an increase of 1.3% in 2021. The              (Sherritt) (50% each). Lead and zinc were produced by
+construction sector and industrial manufacturing sector             Emincar, a joint venture between Government-owned
+(excluding the sugar industry) made up 8% each of the country's     Geominera S.A. (51%) and Trafigura Group Pte. Ltd. of
+GDP, whereas the mining and quarrying sector made only              Singapore (49%). Petroleum refinery products were produced
+a minor contribution of about 0.4%. The country employed            by CUPET at the Camilo Cienfuegos, the Hermanos Díaz, the
+22,000 people in the mining and quarrying sector in 2022, which     Ñico López, and the Sergio Soto refineries. Camilo Cienfuegos
+continued to account for less than 1% of the total employment       was the largest refinery in the country and had the capacity
+in the country (Oficina Nacional de Estadística e Información,      to produce about 23.7 million barrels per year of petroleum
+2023a, p. 10, 13-14; 2023b, p. 11).                                 products. Table 2 is a list of major mineral facilities.
+
+Government Policies and Programs                                                                                                                                12.1
+
+  Cuba's mining sector is regulated by the Ley de Minas
+[Mining law] (law No. 76 of 1994), which established
+
+cuba--2022 [ADVANCE RELEASE]
+Mineral Trade                                                               Industrial Minerals
+
+  In 2022, the total value of Cuba's exports increased to                     Cement.--As of yearend, Empresa de Cemento Siguaney
+about $86.8 million1 from $78.6 million in 2021 and the                     restarted all operations at its Siguaney cement plant, located
+total value of imports increased to about $393.3 million from               in Sancti Spiritus Province. The production of cement was
+$337.2 million in 2021. During the year, mining products                    suspended for about 7 months owing to technical issues with
+accounted for about 44% of Cuba's total exports. Canada                     the plant's kiln. The repair of the kiln was completed by using
+continued to be Cuba's major export partner, receiving 34%                  imported refractory bricks (OnCuba News, 2022; Global
+of the country's total exports (by value) in 2022; followed by              Cement staff, 2023).
+China (19%) and Spain (16%). Venezuela supplied 20% of
+Cuba's total imports, by value, in 2022 (Oficina Nacional de                Outlook
+Estadística e Información, 2023d, p. 8-17).
+                                                                              Cuba's GDP for 2023 was forecasted to increase by about
+Commodity Review                                                            1.8% (Economic Commission for Latin America and the
+                                                                            Caribbean, 2023, p. 3). The expected slowdown in economic
+Metals                                                                      growth was partly attributed to a decrease in economic activity
+                                                                            globally and among Cuba's main trading partners. The country
+  Cobalt and Nickel.--Moa Nickel continued to mine                          is likely to continue to be heavily reliant on imports, such
+lateritic ore by open pit methods and process it into mixed                 as food and fuel, in 2023. The mining and quarrying sector
+sulfide precipitate (MSP) that contains nickel and cobalt at                is expected to continue to be a minor contributor to Cuba's
+its facilities in Holguin Province. The MSP was transported                 economy, mostly from the production of nickel and cobalt.
+by ocean freight to Canada and then by rail to Sherritt's                   Cuba is expected to continue with efforts to seek foreign direct
+refining facilities in Fort Saskatchewan, Alberta, Canada,                  investment (FDI) to further develop of its nonfuel mineral
+to produce cobalt and nickel. As of 2022, Moa Nickel's                      resources, including copper, gold, lead, silver, and zinc
+mined ore came from the Camarioca Norte, Camarioca Sur,                     (Economic Commission for Latin America and the Caribbean,
+Cantarrana, La Delta, Moa Occidental, Moa Oriental, Playa                   2022; 2023, p. 3).
+la Vaca-Zona Septentrional II, Santa Teresita, and Yagrumaje
+Oeste mining concessions, which together cover a total                      References Cited
+area of 12,100 hectares. As of December 31, total proven
+and probable mineral reserves at Moa Nickel were reported                   Bucci, Lisa, Alaka, Laura, Hagen, Andrew, Delgado, Sandy, and Beven, Jack,
+to be 116.0 million metric tons (Mt) at average grades of                      2023, Hurricane Ian (AL092022)--23-30 September 2022: Miami, Florida,
+1.01% nickel and 0.12% cobalt. In 2022, Sherritt's total                       National Oceanic and Atmospheric Administration and the National Weather
+reported production of refined nickel and cobalt from imported                 Service, National Hurricane Center, April 3, 72 p. (Accessed August 9, 2023,
+MSP from Cuba was 32,268 t and 3,368 t, respectively,                          at https://www.nhc.noaa.gov/data/tcr/AL092022_Ian.pdf.)
+compared with 31,184 t and 3,526 t, respectively, in 2021.
+The company also reported that it planned to produce between                Economic Commission for Latin America and the Caribbean, 2022, Preliminary
+30,000 and 32,000 t of refined nickel and between 3,100 and                    overview of the economies of Latin America and the Caribbean--Cuba:
+3,400 t of cobalt from imported MSP from the Moa Mine in                       Santiago, Chile, Economic Commission for Latin America and the Caribbean,
+2023 (Sherritt International Corp., 2022, p. 9; 2023a,                         3 p. (Accessed August 9, 2023, at https://repositorio.cepal.org/bitstream/
+p. 3, 6, 20, 77; 2023b, p. 37).                                                handle/11362/48575/PO2022_Cuba_en.pdf?sequence=82.)
+
+  During the year, Sherritt continued with its expansion                    Economic Commission for Latin America and the Caribbean, 2023, Preliminary
+program at Moa Nickel at an investment cost of about                           overview of the economies of Latin America and the Caribbean--Cuba:
+$77 million. The expansion program, which was expected to                      Santiago, Chile, Economic Commission for Latin America and the Caribbean,
+be completed by 2024, included the expansion of the Moa                        3 p. (Accessed March 11, 2025, at https://repositorio.cepal.org/server/api/
+processing plant, the construction of a new slurry preparation                 core/bitstreams/11636b63-d911-4412-8adb-0b2161b70055/content.)
+plant, and the construction of additional acid storage at the
+site. The company reported that the expansion program                       Ewing, S.M., 2024, Cobalt: U.S. Geological Survey Mineral Commodity
+would increase Moa Nickel's MSP production by up to 20%,                       Summaries 2024, p. 62-63.
+which would result in roughly 6,500 t of additional contained
+nickel and cobalt, as well as extend the life of the mine                   Global Cement staff, 2023, Corporacion cementos Cubanos' Siguaney cement
+beyond the year 2040 (Sherritt International Corp., 2023a,                     plant resumes production: Pro Global Media Ltd., January 4. (Accessed
+p. 3, 7, 10-11, 77).                                                           August 14, 2023, at https://www.globalcement.com/news/item/15107-
+                                                                               corporacion-cementos-cubanos-siguaney-cement-plant-resumes-production.)
+   1Where necessary, values have been converted from Cuban pesos (CUP) to      [In Spanish.]
+U.S. dollars (US$) at the annual average exchange rate of CUP25.00=US$1.00
+for 2022 and 2021.                                                          Ministerio del Comercio Exterior y la Inversión Extranjera, 2022, Cuba--
+                                                                               Cartera de oportunidades de inversion extranjera 2020-2021 [Portfolio of
+                                                                               opportunities for foreign investment 2020-2021]: Havana, Cuba, Ministry of
+                                                                               Foreign Trade and Investments, 353 p. [In Spanish.]
+
+                                                                            Oficina Nacional de Estadística e Información, 2023a, Anuario estadístico de
+                                                                               Cuba 2022--Cuentas nacionales--Edición 2023 [Statistical yearbook of
+                                                                               Cuba 2022--National accounts--Edition 2023]: Havana, Cuba, Oficina
+                                                                               Nacional de Estadística e Información, 21 p. (Accessed August 22, 2023, at
+                                                                               https://www.onei.gob.cu/sites/default/files/publicaciones/2024-03/05-cuentas-
+                                                                               nacionales-2023-mod-20-03-2024.pdf.) [In Spanish.]
+
+                                                                            Oficina Nacional de Estadística e Información, 2023b, Anuario estadístico
+                                                                               de Cuba 2022--Empleo y salarios--Edición 2023 [Statistical yearbook
+                                                                               of Cuba 2022--Employment and salaries--Edition 2023]: Havana,
+                                                                               Cuba, Oficina Nacional de Estadística e Información, 21 p. (Accessed
+                                                                               August 22, 2023 at https://www.onei.gob.cu/sites/default/files/
+                                                                               publicaciones/2023-09/07_empleo-y-salarios_2022.pdf.)
+
+12.2 [ADVANCE RELEASE]U.S. GEOLOGICAL SURVEY MINERALS YEARBOOK--2022
+Oficina Nacional de Estadística e Información, 2023c, Anuario estadístico         Sherritt International Corp., 2023a, 2022 annual information form--For the year
+   de Cuba 2022--Mineria y energia--Edición 2023 [Statistical yearbook of            ended December 31, 2022: Toronto, Ontario, Canada, Sherritt International
+   Cuba 2022--Mining and energy--Edition 2023]: Havana, Cuba, Oficina                Corp., March 31, 81 p. (Accessed August 21, 2023, at https://s2.q4cdn.
+   Nacional de Estadística e Información, 21 p. (Accessed August 22, 2023, at        com/343762060/files/doc_financials/2022/ar/sic-2022-aif-03-31-23-sedar.pdf.)
+   https://www.onei.gob.cu/sites/default/files/publicaciones/2023-08/
+   10_mineria_energia-2022.pdf.) [In Spanish.]                                    Sherritt International Corp., 2023b, 2022 financial results: Toronto, Ontario,
+                                                                                     Canada, Sherritt International Corp., 133 p. (Accessed August 21, 2023, at
+Oficina Nacional de Estadística e Información, 2023d, Sector externo--               https://s2.q4cdn.com/343762060/files/doc_financials/2022/ar/sherritt-annual-
+   Edición 2023 [External sector--Edition 2023]: Havana, Cuba, Oficina               report-2022.pdf.)
+   Nacional de Estadística e Información, 47 p. (Accessed August 22, 2023, at
+   https://www.onei.gob.cu/sites/default/files/publicaciones/2023-08/08_sector_   Welle, D., 2022, Huracán Ian causó estragos en Cuba con cinco muertos y más
+   externo-2023.pdf.) [In Spanish.]                                                  de 100,000 viviendas destruidas [Hurricane Ian wreaked havoc in Cuba with
+                                                                                     five dead and more than 100,000 homes destroyed]: El Diario [New York,
+OnCuba News, 2022, Fábrica de cemento Siguaney reinicia producciones tras            New York], October 2. (Accessed August 9, 2023, at https://eldiariony.
+   siete meses de inactividad [Siguaney cement factory restarts production after     com/2022/10/02/huracan-ian-causo-estragos-en-cuba-con-cinco-muertos-y-
+   seven months of inactivity]: OnCuba News [Miami, Florida], December 30.           mas-de-100000-viviendas-destruidas/.) [In Spanish.]
+   (Accessed August 21, 2023, at https://oncubanews.com/cuba/fabrica-de-
+   cemento-siguaney-reinicia-producciones-tras-siete-meses-de-inactividad/.)      Williams, J.R., 2024, Zeolites: U.S. Geological Survey Mineral Commodity
+   [In Spanish.]                                                                     Summaries 2024, p. 200-201.
+
+Sherritt International Corp., 2022, 2021 annual information form: Toronto,
+   Ontario, Canada, Sherritt International Corp., March 24, 73 p. (Accessed
+   August 21, 2023, at https://s2.q4cdn.com/343762060/files/doc_
+   financials/2021/ar/SEDAR_Sherritt-AIF_v1-(final).pdf.)
+
+cuba--2022 [ADVANCE RELEASE]                                                      12.3
+                                                                         TABLE 1
+                                            CUBA: PRODUCTION OF MINERAL COMMODITIES1
+
+                                            (Metric tons, gross weight, unless otherwise specified)
+
+                           Commodity2                                 2018        2019               2020        2021                           2022
+
+                            METALS
+
+Cobalt, mine, Co contente                                                3,600 r     3,800              3,700 r     4,000 r                        3,700
+Iron and steel, raw steel                                             225,000     230,000            185,000     231,000 r                      200,000
+
+Lead, mine, Pb contente                                               24,000      35,000 r           34,000 r    29,000 r                       33,000
+
+Nickel, Ni content:                                                   52,200      48,900             49,600 r    46,800 r                       46,200
+   Mine, laterite ore
+
+   Intermediate, nickel cobalt sulfidee                               34,800      37,000             34,800 r    34,400 r                       35,200
+Zinc, mine, Zn contente                                               45,000      60,000             60,000      45,000                         52,000
+
+                       INDUSTRIAL MINERALS
+
+Abrasives, volcanic ash                                               93,300      38,800             38,800      17,900                         17,300
+
+Cement, hydraulic                           thousand metric tons      1,590       1,407              1,015       817                                       680
+
+Clay:
+
+Bentonite                                                             630         504                486         517                                       290
+
+Kaolin                                                                2,700       2,100              2,000       1,400                                     500
+
+Feldspar, mine                                                        3,000       2,100              14,100      17,800                         5,900
+
+Gypsum, mine                                thousand metric tons      100         66                 62          53                                        33
+
+Lime                                                                  50,000      40,500             36,900      29,500                         21,600
+
+Salt                                        thousand metric tons      193         210                226         205                                       196
+
+Sand and gravel, industrial, silica sand                              23,200      19,700             22,500      14,600                         6,900
+
+Stone, sand and gravel, construction:
+
+Sand and gravel, sand, calcareous3          thousand metric tons      2,800       2,300              3,300       1,800                          1,200
+
+Stone:
+
+      Crushed:
+
+       Limestone                                             do.      2,100       800                500         400                                         --
+
+       Other, unspecified3                                   do.      6,900       5,400              6,000       4,500 r                        3,000
+
+Other, size and shape unspecified, marble3                            21,000      16,000             18,000      21,000                         7,000
+
+Sulfur, compounds, sulfuric acid            thousand metric tons      945         969                952         853                                       884
+
+Zeolites                                                              52,600      120,800            103,300     83,400                         77,500
+
+       MINERAL FUELS AND RELATED MATERIALS
+
+Natural gas, marketable                     thousand cubic meters     970,100     951,100            894,800     863,500 r                      843,500
+
+Petroleum:
+
+Crude4                                    thousand 42-gallon barrels  18,000      17,000             17,000      18,000 r                       18,000
+
+Refinery5, 6                                                 do.      15,000      9,000 r            11,000 r    8,000 r                                   NA
+
+eEstimated. rRevised. do. Ditto. NA Not available. -- Zero.
+
+1Table includes data available through August 9, 2023. All data are reported unless otherwise noted; totals may include estimated data. Totals, estimated
+
+data, and some reported data are rounded to no more than three significant digits; may not add to totals shown.
+2In addition to the commodities listed, nickel ammoniacal liquor precipitate, nickel oxide sinter, and some additional construction materials may have been
+
+produced, but available information was inadequate to make reliable estimates of output.
+
+3Units of measure were converted to metric tons from cubic meters. Data are rounded to no more than two significant digits.
+4Data may include mixtures of other derivates that are added to crude petroleum to reduce its viscosity.
+5Units of measure were converted to thousand 42-gallon barrels from metric tons. Data are rounded to no more than two significant digits.
+6Data may include production of asphalt, fuel oil, motor gasoline, kerosene, liquefied petroleum gas, lubricants, naphtha, and petroleum coke.
+
+12.4 [ADVANCE RELEASE]U.S. GEOLOGICAL SURVEY MINERALS YEARBOOK--2022
+                                                                                    TABLE 2
+                                                   CUBA: STRUCTURE OF THE MINERAL INDUSTRY IN 2022
+
+                                                            (Thousand metric tons unless otherwise specified)
+
+                    Commodity                          Major operating companies and major equity owners              Location of main facilities   Annual
+Cement, hydraulic                                  Cementos Cienfuegos S.A.                                    Cienfuegos plant, Cienfuegos,       capacitye
+
+   Do.                                             Empresa Mixta Cementos Curazao N.V.                            Cienfuegos Province                  1,700
+   Do.                                                                                                         Mariel plant, Mariel,                   1,500
+   Do.                                             Empresa de Cemento 26 de Julio [Grupo Empresarial de
+                                                      Cemento (GECEM) (Government, 100%)]                         Artemisa Province                       600
+   Do.                          metric tons                                                                    Nuevitas plant, Nuevitas,                  600
+Cobalt, mine, Co content                           Empresa de Cemento Mártires de Artemisa [Grupo
+                                                      Empresarial de Cemento (GECEM) (Government,                 Camaguey Province                       150
+   Do.                                                100%)]                                                   Artemisa plant, Artemisa,                  NA
+   Do.                                                                                                                                                    600
+Gypsum, mine                                       Empresa de Cemento Siguaney [Grupo Empresarial de              Artemisa Province
+Lead, mine, Pb content                                Cemento (GECEM) (Government, 100%)]                                                                    4
+                                                                                                               Siguaney plant, Siguaney,                  NA
+Natural gas, marketable               million      Empresa de Níquel Comandante Ernesto Che Guevara               Sancti Spiritus Province                 35
+                                cubic meters          (Government, 100%)
+                                                      do.                                                      Punta Gorda Mine                        1,000
+Do.                             do.                                                                               Moa, Holguin Province
+                                                   Moa Nickel S.A. (Government, 50%, and Sherritt                                                         NA
+Nickel, mine, Ni content                              International Corp., 50%)                                Punta Gorda Smelter
+   Do.                                                                                                            Moa, Holguin Province                   NA
+   Do.                                             Empresa de Materiales de la Construcción de                                                             31
+                                                      Ciego de Ávila (AVILMAT)                                 Moa Bay Mine and processing plant1          35
+Petroleum:                                                                                                        at Moa, Holguin Province
+   Crude                                           Empresa Minera del Caribe Santa Lucía S.A. (Emincar)                                               10,000
+                                                      [Geominera S.A. (Government, 100%), 51%,                 Mine at Punta Alegre,
+                                                      and Trafigura Group Pte. Ltd., 49%]                         Ciego de Avila Province              5,000
+
+                                                   Empresa de Perforación y Extracción de Petróleo del Centro  Castellanos Mine and processing        23,700
+                                                      (EPEP-C) (Government, 100%)                                 plant, Minas de Matahambre,
+                                                                                                                  Pinar del Rio Province               8,000
+                                                   Sherritt International Corp. (gross working interest
+                                                      in production-sharing contracts with                     Oilfields at the northern coast        16,000
+                                                      the Government)                                             between Havana and                      NA
+                                                                                                                  Cardenas, primarily
+                                                   Empresa de Níquel Comandante Ernesto Che Guevara               Mayabeque Province
+                                                      (Government, 100%)
+                                                      do.                                                      Puerto Escondido and Yumuri2
+                                                                                                                  Oilfields
+                                                   Moa Nickel S.A. (Government, 50%, and Sherritt
+                                                      International Corp., 50%)                                Punta Gorda Mine
+                                                                                                                  Moa, Holguin Province
+
+                                                                                                               Punta Gorda Smelter
+                                                                                                                  Moa, Holguin Province
+
+                                                                                                               Moa Bay Mine and processing plant1
+                                                                                                                  at Moa, Holguin Province
+
+                                         thousand  Empresa de Perforación y Extracción de Petróleo del Centro  Oilfields at the northern coast
+                                42-gallon barrels     (EPEP-C) (Government, 100%)                                 between Havana and
+                                                                                                                  Cardenas, primarily
+Do.                             do.                Sherritt International Corp. (gross working interest           Mayabeque Province
+                                                      in production-sharing contracts with
+Refinery products               do.                   the Government)                                          Puerto Escondido and Yumuri2
+                                                                                                                  Oilfields
+Do.                             do.                Unión Cuba-Petróleo (CUPET) (Government, 100%)
+                                                                                                               Camilo Cienfuegos refinery,
+Do.                             do.                   do.                                                         Cienfuegos, Cienfuegos
+                                                                                                                  Province
+Do.                             do.                   do.
+                                                      do.                                                      Hermanos Díaz refinery,
+                                                                                                                  Santiago de Cuba,
+                                                                                                                  Santiago de Cuba Province
+
+                                                                                                               Ñico López refinery, City
+                                                                                                                  of Havana
+
+                                                                                                               Sergio Soto refinery, Cabaiguan,
+                                                                                                                  Sancti Spiritus Province
+
+See footnotes at end of table.
+
+cuba--2022 [ADVANCE RELEASE]                                                                                                                       12.5
+                                                                         TABLE 2--Continued
+                                               CUBA: STRUCTURE OF THE MINERAL INDUSTRY IN 2022
+
+                                               (Thousand metric tons unless otherwise specified)
+
+                                                                                                                                      Annual
+
+                 Commodity                     Major operating companies and major equity owners     Location of main facilities      capacitye
+
+Raw steel                                      Empresa Siderurgica Jose Marti Grupo (Empresarial     Plant at Cotorro,                170
+
+                                               de la Industria Sidero Mecánica (GESIME)              La Havana Province
+
+                                               (Government, 100%)
+
+Do.                                            Empresa de Aceros Inoxidables de las Tunas            Plant at Las Tunas,              60
+
+                                               (ACINOX) [Grupo Empresarial de la Industria           Las Tunas Province
+
+                                               Sidero Mecanica (GESIME) (Government, 100%)]
+
+Sand, silica                                   Empresa de Materiales de la Construcción de           Algaba Quarry,                   50
+
+                                               Sancti Spíritus (ECMSS)                               Sancti Spiritus Province
+
+Sulfuric acid                                  Moa Nickel S.A. (Government, 50%, and Sherritt        Plant at Moa, Holguin Province                             2
+
+                                               International Corp., 50%)
+
+Zeolites                                       Empresa Geominera Camaguey (Government, 100%)         El Chorillo plant, Camaguey      75
+
+                                                                                                     Province
+
+Do.                                            Empresa Geominera del Centro (Government, 100%)       Tasajeras plant, Villa Clara     75
+
+                                                                                                     Province
+
+Do.                                            Empresa Geominera Oriente (Government, 100%)          San Andres plant, Holguin        75
+
+                                                                                                     Province
+
+Zinc, mine, Zn content                         Empresa Minera del Caribe Santa Lucía S.A. (Emincar)  Castellanos Mine and processing  55
+
+                                               [Geominera S.A (Government, 100%), 51%,               plant, Minas de de Matahambre,
+
+                                               and Trafigura Group Pte. Ltd., 49%]                   Pinar del Rio Province
+
+eEstimated. Do., do. Ditto. NA Not available.
+
+1Included the Camarioca Norte, the Camarioca Sur, the Cantarrana, the La Delta, the Moa Occidental, the Moa Oriental, the Playa La Vaca-Zona Septentrional II, the
+
+Santa Teresita, and the Yagrumaje Oeste mining concessions.
+
+2Crude petroleum and natural gas production ceased on March 20, 2021, after the term of the Puerto Escondido and Yumuri production-sharing contract expired on
+
+March 19, 2021.
+
+12.6 [ADVANCE RELEASE]U.S. GEOLOGICAL SURVEY MINERALS YEARBOOK--2022
+

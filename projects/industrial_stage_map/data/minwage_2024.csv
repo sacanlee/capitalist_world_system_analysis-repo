@@ -1,0 +1,97 @@
+﻿code,entity,category,annual_nom,annual_ppp,wiki_name,eff,note
+IND,India,工业化中期国家,674.0,2516.0,India,2015,
+CHN,China,成熟工业化国家,3014.0,5619.0,China,1 Jan 2025,
+USA,United States,后工业化国家,15080.0,15080.0,United States,1 Jan 2025,
+IDN,Indonesia,工业化起步国家,2449.0,6917.0,Indonesia,1 Feb 2020,
+PAK,Pakistan,准备工业化国家,2762.0,6881.0,Pakistan,1 June 2026,
+NGA,Nigeria,准备工业化国家,2103.0,2641.0,Nigeria,1 May 2024,
+BRA,Brazil,工业化中期国家,3910.0,8163.0,Brazil,1 Jan 2026,
+BGD,Bangladesh,准备工业化国家,212.0,515.0,Bangladesh,1 Dec 2013,
+RUS,Russia,成熟工业化国家,4414.0,,Russia,1 Jan 2026,
+ETH,Ethiopia,准备工业化国家,,,Ethiopia,2017,无法定最低工资/无数据
+MEX,Mexico,工业化中期国家,5020.0,8998.0,Mexico,2025,
+JPN,Japan,后工业化国家,19388.0,20591.0,Japan,31 Mar 2026,
+EGY,Egypt,工业化中期国家,,,Egypt,1 Mar 2025,无法定最低工资/无数据
+PHL,Philippines,工业化起步国家,3405.0,8167.0,Philippines,18 July 2025,
+COD,Democratic Republic of Congo,准备工业化国家,220.0,,Democratic Republic of the Congo,1 Jan 2009,
+VNM,Vietnam,工业化中期国家,2751.0,,Vietnam,1 Jan 2026,
+IRN,Iran,工业化中后期国家,1747.0,,Iran,20 Mar 2024,
+TUR,Turkey,成熟工业化国家,,,,,维基表未列该国
+DEU,Germany,后工业化国家,41033.0,48262.0,Germany,1 Jan 2026,
+THA,Thailand,工业化中期国家,3733.0,11257.0,Thailand,1 Jan 2023,
+GBR,United Kingdom,后工业化国家,36215.0,37685.0,United Kingdom,1 Apr 2025,
+TZA,Tanzania,准备工业化国家,209.0,726.0,Tanzania,1 July 2013,
+FRA,France,后工业化国家,25572.0,29518.0,France,1 Jan 2025,
+ZAF,South Africa,工业化中期国家,4786.0,9139.0,South Africa,1 Mar 2026,
+ITA,Italy,后工业化国家,,,Italy,2019,无法定最低工资/无数据
+KEN,Kenya,准备工业化国家,,,,,维基表未列该国
+MMR,Myanmar,准备工业化国家,691.0,,Myanmar,1 Sep 2015,
+COL,Colombia,工业化起步国家,5638.0,12671.0,Colombia,1 Jan 2025,
+KOR,South Korea,后工业化国家,20990.0,,South Korea,1 Jan 2023,
+SDN,Sudan,准备工业化国家,13.0,,Sudan,2013,
+UGA,Uganda,准备工业化国家,426.0,1167.0,Uganda,1 July 2017,
+ESP,Spain,后工业化国家,17457.0,24282.0,Spain,1 Jan 2023,
+DZA,Algeria,工业化中期国家,2132.0,6900.0,Algeria,1 January 2026,
+IRQ,Iraq,工业化中期国家,2069.0,5495.0,Iraq,2014,
+ARG,Argentina,工业化中期国家,,,,,维基表未列该国
+AFG,Afghanistan,准备工业化国家,858.0,,Afghanistan,2017,
+YEM,Yemen,准备工业化国家,,,Yemen,2013,无法定最低工资/无数据
+CAN,Canada,后工业化国家,24128.0,23927.0,Canada,1 June 2022,
+POL,Poland,工业化中后期国家,14941.0,27953.0,Poland,1 Jan 2026,
+MAR,Morocco,工业化起步国家,3997.0,9076.0,Morocco,1 July 2015,
+AGO,Angola,准备工业化国家,663.0,1149.0,Angola,2022,
+UKR,Ukraine,工业化中期国家,3802.0,8746.0,Ukraine,1 Jan 2026,
+UZB,Uzbekistan,工业化中期国家,1041.0,3090.0,Uzbekistan,1 June 2022,
+MYS,Malaysia,成熟工业化国家,4348.0,12582.0,Malaysia,1 May 2022,
+MOZ,Mozambique,准备工业化国家,906.0,2326.0,Mozambique,1 April 2024,
+GHA,Ghana,准备工业化国家,814.0,901.0,Ghana,1 Jan 2024,
+PER,Peru,工业化中期国家,3495.0,7037.0,Peru,1 June 2022,
+SAU,Saudi Arabia,成熟工业化国家,12800.0,25653.0,Saudi Arabia,2 Feb 2013,
+MDG,Madagascar,准备工业化国家,376.0,1093.0,Madagascar,1 Jan 2015,
+CIV,Cote d'Ivoire,准备工业化国家,792.0,,Côte d'Ivoire,2013,
+NPL,Nepal,准备工业化国家,1986.0,6651.0,Nepal,July 2025,
+CMR,Cameroon,准备工业化国家,785.0,2082.0,Cameroon,30 July 2014,
+VEN,Venezuela,工业化中期国家,10.32,,Venezuela,1 May 2020,
+NER,Niger,准备工业化国家,650.0,1807.0,Niger,17 Aug 2012,
+AUS,Australia,后工业化国家,35810.0,32519.0,Australia,1 July 2024,
+PRK,North Korea,工业化起步国家,,,North Korea,2014,无法定最低工资/无数据
+SYR,Syria,工业化起步国家,96.0,2850.0,Syria,2013,
+MLI,Mali,准备工业化国家,616.0,1766.0,Mali,2014,
+BFA,Burkina Faso,准备工业化国家,750.0,2154.0,Burkina Faso,1 Apr 2012,
+TWN,Taiwan,后工业化国家,11973.0,23432.0,Taiwan,1 Jan 2026,
+LKA,Sri Lanka,准备工业化国家,1629.0,3993.0,Sri Lanka,1 April 2025,
+MWI,Malawi,准备工业化国家,266.0,342.0,Malawi,1 Jan 2016,
+ZMB,Zambia,准备工业化国家,596.0,1421.0,Zambia,10 Sep 2018,
+KAZ,Kazakhstan,工业化中后期国家,,,,,维基表未列该国
+TCD,Chad,准备工业化国家,1298.0,3232.0,Chad,18 Oct 2011,
+CHL,Chile,工业化中期国家,8364.0,13038.0,Chile,1 May 2025,
+ROU,Romania,工业化中期国家,11683.0,22288.0,Romania,1 Jan 2025,
+SOM,Somalia,准备工业化国家,,,Somalia,2013,无法定最低工资/无数据
+SEN,Senegal,准备工业化国家,686.0,1680.0,Senegal,1 Jan 1996,
+GTM,Guatemala,准备工业化国家,3924.0,8838.0,Guatemala,1 Jan 2016,
+NLD,Netherlands,后工业化国家,36187.0,39874.0,Netherlands,1 Jan 2026,
+ECU,Ecuador,工业化中期国家,7124.0,16136.0,Ecuador,1 Jan 2025,
+KHM,Cambodia,准备工业化国家,,,Cambodia,3 Oct 2023,无法定最低工资/无数据
+ZWE,Zimbabwe,准备工业化国家,,,Zimbabwe,2012,无法定最低工资/无数据
+GIN,Guinea,准备工业化国家,,,Guinea,2017,无法定最低工资/无数据
+BEN,Benin,准备工业化国家,865.0,2447.0,Benin,1 Jan 2023,
+RWA,Rwanda,准备工业化国家,,,Rwanda,2013,无法定最低工资/无数据
+BDI,Burundi,准备工业化国家,,,Burundi,2017,无法定最低工资/无数据
+BOL,Bolivia,工业化起步国家,4703.0,12040.0,Bolivia,1 May 2024,
+TUN,Tunisia,工业化起步国家,2000.0,5692.0,Tunisia,2020,
+SSD,South Sudan,准备工业化国家,,,South Sudan,2011,无法定最低工资/无数据
+HTI,Haiti,准备工业化国家,1014.0,678.0,Haiti,1 Aug 2017,
+BEL,Belgium,后工业化国家,28809.0,31562.0,Belgium,1 April 2024,
+JOR,Jordan,工业化中期国家,5408.0,12065.0,Jordan,1 Jan 2025,
+DOM,Dominican Republic,工业化中期国家,2613.0,6279.0,Dominican Republic,2021,
+ARE,United Arab Emirates,成熟工业化国家,,,United Arab Emirates,4 April 2025,无法定最低工资/无数据
+CUB,Cuba,工业化起步国家,44.0,669.0,Cuba,2021,
+HND,Honduras,工业化起步国家,4842.0,9218.0,Honduras,1 Jan 2024,
+CZE,Czechia,后工业化国家,9959.0,,Czech Republic,1 Jan 2026,
+SWE,Sweden,后工业化国家,,,Sweden,2017,无法定最低工资/无数据
+TJK,Tajikistan,工业化中期国家,1061.0,,Tajikistan,1 Sep 2025,
+PNG,Papua New Guinea,准备工业化国家,2086.0,2651.0,Papua New Guinea,1 Aug 2014,
+PRT,Portugal,后工业化国家,11638.0,17122.0,Portugal,1 Jan 2024,
+AZE,Azerbaijan,工业化中期国家,2435.0,7625.0,Azerbaijan,5 Jan 2023[26],
+GRC,Greece,后工业化国家,13738.0,20026.0,Greece,1 Apr 2025,
+ISR,Israel,后工业化国家,23940.0,21152.0,Israel,1 Apr 2026,

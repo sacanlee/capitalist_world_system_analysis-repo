@@ -1,0 +1,1213 @@
+{{Short description|none}}
+{{Update|type=|date=January 2024|inaccurate=yes|reason=policy changes and inflation are not adequately reflected; inconsistent use of current and outdated minimum wages limits the ability to accurately compare countries}}
+
+[[File:General Official Minimum Wage by Territory as of February 2023 in US Dollars new.png|thumb|upright=1.6|General minimum wage by territory, as of February 2023]]
+This is a list of the official [[minimum wage]] rates of the 193 [[United Nations member states]] and former members of the [[United Nations]], also including the following territories and states with limited recognition ([[Northern Cyprus]], [[Kosovo]], etc.) and other independent countries. Some countries may have a very complicated minimum wage system; for example, India has more than 1202 minimum wage rates for different types of industries and skill levels.<ref>{{cite web |url=http://www.paycheck.in/main/salary/minimumwages |title=Minimum Wage in India 2013 |publisher=PayCheck.in |access-date=8 January 2014 |archive-date=26 December 2018 |archive-url=https://web.archive.org/web/20181226013937/https://paycheck.in/salary/minimumwages |url-status=live }}</ref> Meanwhile, other countries may have a national rate which often is superseded by state, provincial, cantonal, county and city minimum wage rates. For example, 33 states in the [[United States]] have higher minimum wages than the federal rate (plus military rates on federal bases) – on top of this an additional 42 city-level subdivisions having different minimum wage rates and 53 countries.<ref>{{Cite journal | doi=10.1257/jep.35.1.27 | title=City Limits: What do Local-Area Minimum Wages Do? | year=2021 | last1=Dude | first1=Arindrajit | last2=Lindner | first2=Attila | journal=Journal of Economic Perspectives | volume=35 | pages=27–50 | s2cid=234098666 | doi-access=free }}</ref> In effect, the United States has over 100 different minimum wages across the nation. This is common in [[Federalism|federalist]] nations such as [[Canada]],<ref>{{Cite web | url=https://www.retailcouncil.org/resources/quick-facts/minimum-wage-by-province/ | title=Minimum Wage by Province | date=17 October 2023 | access-date=4 December 2021 | archive-date=4 December 2021 | archive-url=https://web.archive.org/web/20211204175709/https://www.retailcouncil.org/resources/quick-facts/minimum-wage-by-province/ | url-status=live }}</ref> and [[minimum wage in China]] also has numerous different rates. In the table below, only the lowest minimum wage is cited, or the highest-level subdivision where it applies.
+
+== Methodology ==
+The minimum wages listed refer to a [[gross income|gross]] amount, that is before [[tax deduction|deduction of taxes]] and [[social security]] contributions, which vary from one country to another. Also excluded from calculations are regulated paid days off, including public holidays, sick pay, annual leave and [[social insurance]] contributions paid by the employer.
+
+For comparison, an annual wage column is provided in [[Geary–Khamis dollar|international dollars]], a hypothetical unit of [[currency]] calculated based on the [[purchasing power parity]] (PPP) of [[household final consumption expenditure]]. For calculating the annual wage, the lowest general minimum wage was used.
+
+== List ==
+{{update|date=January 2026}}
+{{mw-datatable}}{{static row numbers}}{{sticky header}}{{table alignment}}{{sort under}}
+{| class="wikitable sortable mw-datatable static-row-numbers sticky-header-multi sort-under col1left col2left" style="text-align:center; vertical-align:middle"
+|+ Minimum wages by country or region. [[USD]] and [[Int$]] [[Purchasing power parity|PPP]].
+|- class="static-row-header"
+! rowspan="2" | Country&Region
+! rowspan="2" class="unsortable" | Notes
+! colspan="2" | Annual
+! rowspan="2" | Work<br>week (hours)<ref>The workweek is the country's legal workweek in hours, above which is considered overtime and is often paid premium pay. See notes for variations on this definition. The main source for workweek data is: [https://2009-2017.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm#wrapper the Country Reports on Human Rights Practices for 2017 by the US Department of State] {{Webarchive|url=https://web.archive.org/web/20180521170415/https://2009-2017.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm#wrapper |date=2018-05-21 }}.</ref>
+! colspan="2" | Hourly
+! rowspan="2" | % of GDP per capita<ref>The percentage was calculated by dividing the minimum wage (PPP) by the GDP per capita (PPP) from 2018 – obtained from the World Bank's [http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD GDP per capita, PPP (current international $), World Development Indicators database] {{Webarchive|url=https://web.archive.org/web/20190622102516/https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD |date=2019-06-22 }}.</ref>
+! rowspan="2" | Effective<br>date
+|- class="static-row-header"
+! Nominal (US$)<ref>Annual wages were calculated by multiplying monthly wages by 12, weekly wages by 52, daily wages by 5x52 and hourly wages by Wx52, where W is the legal maximum (or the practical, if lower) workweek length in hours. A US$ conversion rate from 2017 – obtained from the World Bank's [http://data.worldbank.org/indicator/PA.NUS.FCRF Official exchange rate (LCU per US$, period average), World Development Indicators database] {{Webarchive|url=https://web.archive.org/web/20170725150635/http://data.worldbank.org/indicator/PA.NUS.FCRF |date=2017-07-25 }} – was used to convert the annual wage from national currency to US dollars. The template [[Template:To USD/data/2018|To US$]] was used to convert the annual wage from national currency to US dollars.</ref>
+! PPP ([[Geary-Khamis dollar|Int$]])<ref>Annual wages were calculated by multiplying monthly wages by 12, weekly wages by 52, daily wages by 5x52 and hourly wages by Wx52, where W is the legal maximum (or the practical, if lower) workweek length in hours. A [[purchasing power parity]] (PPP) conversion rate from 2016 – obtained from the World Bank's [http://data.worldbank.org/indicator/PA.NUS.PRVT.PP PPP conversion factor, private consumption (LCU per international $), World Development Indicators database] {{Webarchive|url=https://web.archive.org/web/20170708075304/http://data.worldbank.org/indicator/PA.NUS.PRVT.PP |date=2017-07-08 }} – was used to convert the annual wage from national currency to [[international dollar]]s. The template [[Template:International dollars|International dollars]] was used to convert the annual wage from national currency to international dollars.</ref>
+! Nominal (US$)<ref>Hourly wages were calculated by dividing the annual minimum wage (US$) rate by 52 weeks and then by the length of the standard hour workweek.</ref>
+! PPP ([[Geary-Khamis dollar|Int$]])<ref>Hourly wages were calculated by dividing the annual minimum wage (PPP) by 52 weeks and then by the length of the standard workweek.</ref>
+{{List of minimum wages by country/Row|Afghanistan|5500|monthly|40|2017|comment={{Currency|5,500|AFN|}} (US$70) per month for non-permanent private sector (Afs. 66,000 per annum). The minimum wage for permanent government workers was {{Currency|6,000|AFN|linked=no}} (US$76.3) per month (Afs. 72,000 per annum). There was no minimum wage for permanent workers in the private sector.<ref name="CRHRP-2012">{{cite web |url=https://2009-2017.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm#wrapper |title=Country Reports on Human Rights Practices for 2017 |publisher=State.gov |access-date=23 Apr 2018 |archive-date=21 May 2018 |archive-url=https://web.archive.org/web/20180521170415/https://2009-2017.state.gov/j/drl/rls/hrrpt/humanrightsreport/index.htm#wrapper |url-status=live }}</ref>
+|effective citation=
+}}
+
+{{List of minimum wages by country/Row|Albania|40000|monthly|40|1 Jan 2026
+|comment={{Currency|50,000|ALL}} (US$610) per month (600,000 lek per annum). The law establishes a 40-hour workweek, but the actual workweek is typically set by individual or collective-bargaining agreement.<ref name="CRHRP-2012"/><ref>{{cite web|url=http://www.bb2day.eu/portal/albania/economy/19642-albania-instat-labour-force-3rd-quarter-2013 |archive-url=https://web.archive.org/web/20140311162557/http://www.bb2day.eu/portal/albania/economy/19642-albania-instat-labour-force-3rd-quarter-2013 | title = Albania, INSTAT: Labour Force, 3rd Quarter 2013| date=11 Mar 2014 |archive-date=Mar 11, 2014 |author1=Spirilfleg }}</ref><ref>{{Citation|url=http://aida.gov.al/wp-content/uploads/2012/12/Labour-Costs-and-Regulations.pdf|title=Labour Costs And Regulations|publisher=Albanian Investment Development Agency|access-date=2 Jan 2013|archive-url=https://web.archive.org/web/20140311163344/http://aida.gov.al/wp-content/uploads/2012/12/Labour-Costs-and-Regulations.pdf|archive-date=11 Mar 2014|url-status=dead}}</ref><ref name="albania">{{Cite web|url=https://albaniandailynews.com/news/minimum-wage-to-be-all-40-000-starting-Apr-1|title=Albania to Increase Minimum Wage starting Apr 01|website=wageIndicator.org|accessdate=Apr 2, 2023|archive-date=Apr 5, 2023|archive-url=https://web.archive.org/web/20230405231349/https://albaniandailynews.com/news/minimum-wage-to-be-all-40-000-starting-Apr-1|url-status=live}}</ref>
+|effective citation=}}
+
+{{List of minimum wages by country/Row|Algeria|138.46|hourly|40|1 January 2026
+|comment={{Currency|24,000.00|DZD}} (US$185.05) per month, DA 138.46 per hourly, nationally (DA 288,000 per annum).<ref>{{cite web|url=http://magharebia.com/cocoon/awi/xhtml1/en_GB/features/awi/features/2011/10/05/feature-04|title=البيان الكامل لاجتماع مجلس الوزراء|trans-title=Full statement from the Cabinet meeting|date=1 December 2025|access-date=13 December 2025}}</ref><ref>{{Cite web|author=Pierric Grenier(ピエリック・グルニエ)|url=https://www.jetro.go.jp/biznews/2025/12/7a2877cba95d61af.html|title=アルジェリア法定最低賃金、2026年1月から20％引き上げ（アルジェリア）|trans-title=Algeria's legal minimum wage to increase by 20% from January 2026(Algeria)|date=11 December 2025|publisher=Japan External Trade Organization（日本貿易振興機構）|accessdate=13 December 2025}}</ref>
+|effective citation=}}
+|-
+| {{flag | Andorra }}
+|{{Currency|7.70|€}} (US$8.33) hourly.<ref>{{cite web|url=http://www.treball.ad/salari-minim-i-festius|title=Salari mínim i festius nacionals i parroquials|work=Treball i Ocupació – Govern d'Andorra|date=7 Dec 2022|access-date=9 Jan 2016|archive-date=2 Jan 2016|archive-url=https://web.archive.org/web/20160102194350/http://www.treball.ad/salari-minim-i-festius|url-status=live}}</ref>
+|{{nts|{{To USD|{{#expr:7.42*40*52}} | Andorra |round=yes}} | year=2016}}
+|{{nts|{{International dollars | {{#expr:7.42*40*52}} | Andorra |round=yes | year=2014 }} }}
+|40
+|{{nts|{{To USD|7.42 | Andorra |round=yes | year=2020}} }}
+|{{nts| {{International dollars | {{#expr:7.42}} | Andorra |round=yes | year=2014}} }}
+|{{nts| {{#expr: (10400*100/{{GDP (PPP) per capita|Andorra|year=2014}} )round1 }} }}%
+|{{dts|format=dmy|1 Jan 2023}}
+
+{{List of minimum wages by country/Row|Angola|32181|13 times annually|44|2022
+|comment= {{Currency|32,181|AOA}} (US$61) per month; paid thirteen times a year (Kz. 418,353 per annum)<ref>{{cite web|url=https://novojornal.co.ao/economia/interior/governo-aprova-aumento-do-salario-minimo-nacional-e-reajustamentos-nos-vencimentos-da-funcao-publica---conselho-de-ministros-da-corpo-a-anuncio-de-joao-lourenco-106627.html|title=Governo aprova aumento do salario minimo nacional|date=31 Jan 2022|publisher=Novo Jornal|language=pt|access-date=4 Feb 2022|archive-date=4 Feb 2022|archive-url=https://web.archive.org/web/20220204025301/https://novojornal.co.ao/economia/interior/governo-aprova-aumento-do-salario-minimo-nacional-e-reajustamentos-nos-vencimentos-da-funcao-publica---conselho-de-ministros-da-corpo-a-anuncio-de-joao-lourenco-106627.html|url-status=live}}</ref><ref name=wageindicator>{{cite web|title=Minimum Wages Around The World|url=https://wageindicator.org/salary/minimum-wage|publisher=WageIndicator Foundation|access-date=1 Aug 2015|archive-date=1 September 2022|archive-url=https://web.archive.org/web/20220901062833/https://wageindicator.org/salary/minimum-wage|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Antigua and Barbuda|8.20|hourly|40|1 Nov 2014
+|comment={{Currency|8.20|XCD}} per hour (US$3.03).<ref name="CRHRP-2012"/><ref>{{cite web|url=http://www.ilo.org/dyn/travail/docs/476/The%20Minimum%20Wage%20Order_2008.pdf|title=The Minimum Wage Order, 2008|work=Government Printing Office, Antigua and Barbuda|date=2 Jan 2008|access-date=2 Oct 2013|archive-date=3 Mar 2016|archive-url=https://web.archive.org/web/20160303213054/http://www.ilo.org/dyn/travail/docs/476/The%20Minimum%20Wage%20Order_2008.pdf|url-status=live}}</ref><ref>{{Cite web|url=http://antiguaobserver.com/minimum-wage-increase-takes-effect-in-Nov/|title=Minimum wage increase takes effect in Nov – Antigua Observer|accessdate=Apr 2, 2023|archive-date=Nov 3, 2014|archive-url=https://web.archive.org/web/20141103170154/http://antiguaobserver.com/minimum-wage-increase-takes-effect-in-Nov/|url-status=dead}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Armenia|75000|monthly|40|15 Nov 2022
+|comment={{Currency|75,000|AMD}} (US$190) per month.<ref name="CRHRP-2012"/><ref>{{cite web|url=https://news.am/eng/news/730308.html/|title=Minimum wage to rise in Armenia|work=news.am|access-date=15 Nov 2022|archive-date=15 Nov 2022|archive-url=https://web.archive.org/web/20221115144934/https://news.am/eng/news/730308.html|url-status=live}}</ref>}}
+
+{{List of minimum wages by country/Row|Australia|915.90|weekly|38|1 July 2024
+|comment=Most workers are covered by an [[Industrial award|award]], which may vary by employee age, geographical location and industry. Workers receive mandatory employer loadings such as penalty rates or leave loading. Minimum wages are set federally by the [[Fair Work Commission]].<br /><br />
+For those 21 and older, not covered by an award or other instrument, (as of July 1, 2024) - the minimum wage is [[Australian Dollar|$A]]&nbsp;915.90 (US$622.17) per week, or [[Australian Dollar|$A]]&nbsp;24.10 (US$16.37) per hour.<ref>{{Cite web |url=https://www.fairwork.gov.au/pay-and-wages/minimum-wages#:~:text=From%201%20July%202024%2C%20the,or%20after%201%20July%202024. |title=Minimum wages - Fair Work Ombudsman |access-date=2024-08-24 |archive-date=2023-07-26 |archive-url=https://web.archive.org/web/20230726044805/https://www.fairwork.gov.au/newsroom/news/awr-2023#:~:text=From%201%20July%202023%2C%20the,or%20after%201%20July%202023. |url-status=live }}</ref> [[Casual employment (contract)#Australia|Casual workers]] are paid a loading of typically 25%, resulting in a minimum of [[Australian Dollar|A$]]28 (US$18) per hour for those workers.<br /><br />
+Workers under 21, apprentices and trainees not covered by an award, have minimum wages set at a percentage of the ordinary rate.<ref name="Fair Work Ombudsman">{{citation|url=https://www.fairwork.gov.au/pay-and-wages/minimum-wages|title=Minimum wages|access-date=16 Aug 2022|publisher=Australian Government|author=Fair Work Ombudsman|archive-date=16 Aug 2022|archive-url=https://web.archive.org/web/20220816055628/https://www.fairwork.gov.au/pay-and-wages/minimum-wages|url-status=live}}</ref> For those under 16, this is 36.8% or [[Australian Dollar|A$]]7.87 (US$5.25) per hour; [[Australian Dollar|$A]]&nbsp;9.83 (US$6.56) with the casual loading.<ref>{{citation|url=https://mywage.org/australia/salary/minimum-wage/|access-date=16 Aug 2022|title=Minimum Wage - Australia|publisher=MyWage|archive-date=1 Aug 2022|archive-url=https://web.archive.org/web/20220801173902/https://mywage.org/australia/salary/minimum-wage|url-status=live}}</ref>}}
+|-
+| {{flag|Austria}}
+| None: National collective bargaining agreements set minimum wages by job classification for each industry and provide for a minimum wage of [[Euro|€]]1,200 (US${{to USD|1200|EUR|round=yes}}) per month{{dubious|date=August 2018}}. Wages where no such collective agreements exist, such as for domestic workers, janitorial staff and au pairs, are regulated by relevant legislation and are generally lower than those covered by collective bargaining. The national minimum wage legislation has lapsed, although is still in force by convention.<ref>{{cite web |url=http://www.fedee.com/pay-job-evaluation/minimum-wage-rates/ |title=FedEE Review of minimum wage rates |publisher=The Federation of International Employers |access-date=2 Dec 2015 |archive-date=19 Nov 2015 |archive-url=https://web.archive.org/web/20151119104806/http://www.fedee.com/pay-job-evaluation/minimum-wage-rates/ |url-status=live }}</ref><ref name="CRHRP-2012" />
+|
+|
+| 40
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Azerbaijan|345|monthly|40|5 Jan 2023
+|comment= {{Currency|345|AZN}} (US$203) per month.}}<ref>{{Cite news|url=https://en.trend.az/azerbaijan/politics/3691107.html|title=Azerbaijan increases minimum wage following presidential decree|work=Trend News Agency|date=5 Jan 2023|language=en|access-date=6 Jan 2023|archive-date=6 Jan 2023|archive-url=https://web.archive.org/web/20230106171429/https://en.trend.az/azerbaijan/politics/3691107.html|url-status=live}}</ref>
+
+{{List of minimum wages by country/Row|The Bahamas|5.25|hourly|40|15 Aug 2015
+|comment={{Currency|5.25|BSD}} (US$5.25) per hour, {{Currency|42|BSD|linked=no}} (US$42) per day, and {{Currency|210|BSD|linked=no}} (US$210) per week.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.ilocarib.org.tt/cariblex/bahamas_act4.shtml |title=Bahamas: Minimum Wages Act |publisher=Ilocarib.org.tt |date=21 Jan 2002 |access-date=8 Jan 2014 |archive-date=5 October 2013 |archive-url=https://web.archive.org/web/20131005012307/http://www.ilocarib.org.tt/cariblex/bahamas_act4.shtml |url-status=live }}</ref><ref>[http://www.thebahamasweekly.com/publish/bis-news-updates/Bahamas_Government_Increases_National_Minimum_Wage_by_40_Percent43126.shtml Bahamas Government Increases National Minimum Wage by 40 Percent] {{Webarchive|url=https://web.archive.org/web/20200128142741/http://www.thebahamasweekly.com/publish/bis-news-updates/Bahamas_Government_Increases_National_Minimum_Wage_by_40_Percent43126.shtml |date=2020-01-28 }} Lindsay Thompson, BIS, 23 July 2015</ref>}}
+|-
+| {{flag|Bahrain}}
+| None; {{Currency|300|BHD}} (US$800) for the public sector workers (only applies to Bahraini nationals).<ref name="CRHRP-2012" />
+|
+|
+| 48
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Bangladesh|1500|monthly|48|1 Dec 2013
+|comment= {{Currency|1,500|BDT}} (US$13) per month for all economic sectors not covered by industry-specific wages; in the garment industry the minimum wage raised to {{Currency|8,000|BDT|linked=no}} (US$67) per month since 1 Dec 2018,<ref>{{Cite web|url=http://sus-a.com/index.php/new-bangladesh-minimum-wage/2018/|title=New Bangladesh Minimum Wage|first=Sebastian|last=Sime|accessdate=Apr 2, 2023|archive-date=Mar 28, 2023|archive-url=https://web.archive.org/web/20230328031139/https://sus-a.com/index.php/new-bangladesh-minimum-wage/2018/|url-status=dead}}</ref> rising to {{Currency|12,500|BDT|linked=no}} (US$106.40) per month on 1 Dec 2023.<ref>{{cite news|last=Hossain|first=Saddam|title=Minimum wages made official at Tk12,500 per month|url=https://www.dhakatribune.com/business/332234/minimum-wages-made-official-at-tk12-500-per-month|website=Dhaka Tribune|date=26 November 2023|accessdate=5 June 2024}}</ref> The minimum wage is set nationally every five years by the National Minimum Wage Board in a tripartite forum industry by industry.<ref name="CRHRP-2012"/><ref name="wageindicator"/><ref>{{cite web |url=http://www.culaw.ac.bd/files/jurnal-2006/Vol.%20XI,%202006%20(p.1-32%20).pdf |title=Minimumj Wages in bangladesh – Issues and Challenges |publisher=Culaw.ac.bd |access-date=4 Mar 2014 |archive-date=27 Sep 2013 |archive-url=https://web.archive.org/web/20130927050044/http://www.culaw.ac.bd/files/jurnal-2006/Vol.%20XI,%202006%20(p.1-32%20).pdf |url-status=live }}</ref><ref>{{cite web |url=http://www.textiletoday.com.bd/news/551 |title=Garment workers' minimum wage fixed at Tk 3,000 |publisher=Textiletoday.com.bd |date=1 Nov 2010 |access-date=8 Jan 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131202235814/http://www.textiletoday.com.bd/news/551 |archive-date=2 Dec 2013 }}</ref><ref>{{cite web |url=http://www.dhakatribune.com/bangladesh/2013/dec/05/rmg-minimum-wage-gazette-today |title=RMG minimum wage gazette published |publisher=Dhaka Tribune |date=5 Dec 2013 |access-date=8 Jan 2014 |archive-date=8 Jan 2014 |archive-url=https://web.archive.org/web/20140108192319/http://www.dhakatribune.com/bangladesh/2013/dec/05/rmg-minimum-wage-gazette-today |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Barbados|10.50|hourly|40|1 June 2025
+|comment= {{Currency|10.50|BBD}} (US$5.25) per hour for general minimum wage rates. {{Currency|11.43|BBD}} (US$5.71) per hour for security guards.<ref>{{Cite web |title=Proposal to increase the National Minimum Wage effective June 1st, 2025 {{!}} Barbados Digital |url=https://barbadosdigital.com/news/proposal-to-increase-the-national-minimum-wage-effective-june-1st-2025 |access-date=2025-06-01 |website=barbadosdigital.com}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Belarus|554|monthly|40|1 Jan 2023
+|comment= {{Currency|554|BYN}} (US$122) per month.<ref>{{Cite web|title="Об установлении размера месячной минимальной заработной платы"|url=http://www.government.by/upload/docs/fileb8f601f71b59a3e1.PDF|access-date=2021-04-22|archive-date=2021-05-01|archive-url=https://web.archive.org/web/20210501034028/http://www.government.by/upload/docs/fileb8f601f71b59a3e1.PDF|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Belgium|2029.88|monthly|38|1 April 2024|comment=€2,029.88 (US${{to USD|2029.88|EUR|round=yes}}) per month.<ref name=eurostat/><ref name=wageindicator/><ref>{{cite web |url=http://www.emploi.belgique.be/defaultTab.aspx?id=39004 |title=Salaire – Service public fédéral Emploi, Travail et Concertation sociale |publisher=Emploi.belgique.be |date=28 June 2013 |access-date=1 Aug 2018 |archive-date=13 Nov 2013 |archive-url=https://web.archive.org/web/20131113111923/http://www.emploi.belgique.be/defaultTab.aspx?id=39004 |url-status=live }}</ref>|workweek citation=}}
+
+{{List of minimum wages by country/Row|Belize|5|hourly|45|22 July 2022
+|comment= {{Currency|5|BZD}} (US$2.48) per hour.<ref name="CRHRP-2012"/><ref>{{Cite web |url=http://www.belize.gov.bz/public/Data/252813551371.pdf |title=belize.gov.bz |access-date=30 Apr 2013 |archive-date=28 Jan 2020 |archive-url=https://web.archive.org/web/20200128142747/https://www.belize.gov.bz/public/Data/252813551371.pdf |url-status=dead }}</ref><ref>{{cite web |url=http://www.belize.org/tiz/investment-regime |title=The BCCI Trade and Investment Zone |publisher=Belize.org |date=26 May 2012 |access-date=8 Jan 2014 |archive-date=9 Jan 2014 |archive-url=https://web.archive.org/web/20140109002141/http://www.belize.org/tiz/investment-regime |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Benin|40000|monthly|40|1 Jan 2023
+|comment= {{Currency|52,000|XOF}} (US$86.12) per month;<ref>{{cite web|title=Salaires minimums – Bénin|language=fr|url=https://votresalaire.org/benin/salaire/salaire-minimum|website=VotreSalaire|accessdate=5 June 2024}}</ref> the government set minimum wage scales for a number of occupations.<ref name="wageindicator"/><ref name="ilodatabase"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Bhutan|3750|monthly|40|1 Feb 2014
+|comment= {{Currency|3,750|BTN}} per month.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.moaf.gov.bt/moaf/?p=3303 |title=Fixation of National Minimum Wage (NMW) Rate {{pipe}} Ministry of Agriculture and Forests |publisher=Moaf.gov.bt |access-date=8 Jan 2014 |archive-date=15 Jan 2016 |archive-url=https://web.archive.org/web/20160115064910/http://www.moaf.gov.bt/moaf/?p=3303 |url-status=dead }}</ref><ref>{{cite web |url=http://www.kuenselonline.com/national-minimum-wage-revised-to-nu-125-a-day/#.UnIazfmUTEl |title=National minimum wage revised to Nu 125 a day |publisher=KuenselOnline |access-date=8 Jan 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140103104428/http://www.kuenselonline.com/national-minimum-wage-revised-to-nu-125-a-day/#.UnIazfmUTEl |archive-date=3 Jan 2014 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Bolivia|2500|13 times annually|48|1 May 2024
+|comment={{Currency|2,500|BOB}} (US$362) per month.<ref>{{cite news|access-date=27 Apr 2024|date=26 Apr 2023|periodical=[[El Deber]]|title=Gobierno de Bolivia acuerda con la Central Obrera Boliviana el incremento del 3% al haber básico y 5 % al salario mínimo nacional|url=https://www.urgente.bo/noticia/arce-llega-un-acuerdo-con-la-cob-y-define-que-el-salario-m%C3%ADnimo-suba-bs-2500|language=es}}<!-- auto-translated by Module:CS1 translator --></ref> plus an obligatory Christmas bonus equal to one month's pay, prorated for the amount of time the worker has worked in their present position. Plus a second Christmas Bonus if the government decries the economy grew enough, plus an extra month paid in May if the company made a profit for the previous year.<ref>{{cite web|url=http://www.mintrabajo.gob.bo/Upload/Normativa/NOR-32-27112012/Instructivo%20218-12%20Pago%20de%20aguinaldo%20de%20Navidad%202012.pdf|title=Instructivo No. 218/12 – Pago del Aguinaldo de Navidad Gestión 2012|language=es|trans-title=Instruction No. 218/12 – Christmas Bonus Payment Arrangement 2012|access-date=27 July 2013|archive-date=3 Apr 2018|archive-url=https://web.archive.org/web/20180403113616/http://www.mintrabajo.gob.bo/Upload/Normativa/NOR-32-27112012/Instructivo%20218-12%20Pago%20de%20aguinaldo%20de%20Navidad%202012.pdf|url-status=dead}}</ref><ref>[http://www.la-razon.com/economia/Acuerdo-salario-minimo-subira-haber_basico-aumentara_0_2480151989.html El salario mínimo subirá a Bs 1.805 y el haber básico aumentará en 6% |publisher= La Razón] {{Webarchive|url=https://web.archive.org/web/20160430044543/http://www.la-razon.com/economia/Acuerdo-salario-minimo-subira-haber_basico-aumentara_0_2480151989.html |date=2016-04-30 }}. In Spanish.</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Bosnia and Herzegovina|543|monthly|40|2022
+|comment= {{Currency|543|BAM}} (US$269) net per month.<ref>[https://wageindicator.org/salary/minimum-wage/minimum-wages-news/2022/minimum-wage-updated-in-the-federation-of-bosnia-and-herzegovina-Feb-23-2022. In English. 23 February 2022.]{{Dead link|date=March 2024|bot=InternetArchiveBot |fix-attempted=yes }}</ref>}}
+
+{{List of minimum wages by country/Row|Botswana|1786|monthly|48|2022
+|comment= {{Currency|7.34|BWP}} (US$0.62) an hour for most full-time labour in the private sector; {{Currency|1,786|BWP|linked=no}} (US$152) per month.<ref>[https://www.facebook.com/BotswanaGovernment/photos/4625631960852759 Press Release – Adjustment of Minimum Wages for 2021/2022] {{Webarchive|url=https://web.archive.org/web/20211218161756/https://www.facebook.com/BotswanaGovernment/photos/4625631960852759 |date=2021-12-18 }}.</ref>
+| workweek citation=}}
+
+{{List of minimum wages by country/Row|Brazil|1621|13 times annually|44|1 Jan 2026
+|comment={{Currency|1,621|BRL}} per month (US$291.78), paid 13 times a year.<ref>{{cite web |url=https://www.camara.leg.br/noticias/957339-medida-provisoria-aumenta-salario-minimo-para-r-1-320-a-partir-de-maio/ |title=Medida provisória aumenta salário mínimo para R$ 1.320 a partir de maio |work=Agência Câmara de Notícias |language=pt |date=2 May 2023 |access-date=2 May 2023 |archive-date=2 May 2023 |archive-url=https://web.archive.org/web/20230502162254/https://www.camara.leg.br/noticias/957339-medida-provisoria-aumenta-salario-minimo-para-r-1-320-a-partir-de-maio/ |url-status=live }}</ref> The Brazilian minimum wage is adjusted annually by the federal government, but each [[States of Brazil|Brazilian state]] has the option to either follow the national minimum wage or to set its own minimum wage, which cannot be lower than the federal minimum wage. In 2022, five states ([[Rio Grande do Sul|RS]], [[Santa Catarina (state)|SC]], [[Paraná (state)|PR]], [[São Paulo (state)|SP]] and [[Rio de Janeiro (state)|RJ]]) decided to stick with the latter option in order to have higher state minimum wages.<ref>{{cite web |url=https://www.istoedinheiro.com.br/cinco-estados-tem-salario-minimo-proprio-confira-os-valores/ |title=Cinco estados têm salário mínimo próprio; confira os valores |work=[[Istoé]] |language=pt |date=1 Jan 2022 |access-date=2 Jan 2022 |archive-date=2 Jan 2022 |archive-url=https://web.archive.org/web/20220102021244/https://www.istoedinheiro.com.br/cinco-estados-tem-salario-minimo-proprio-confira-os-valores/ |url-status=live }}</ref>}}
+|-
+| {{flag|Brunei}}
+| None<ref name="CRHRP-2012" />
+|
+|
+|
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Bulgaria|6.49|hourly|40|1 Jan 2025
+|comment= {{Currency|1077|BGN}} (€550) per month, {{Currency|6.49|BGN}} (€3.32) per hour.<ref name=eurostat>{{cite web|title=Minimum wages|url=https://ec.europa.eu/eurostat/databrowser/view/tps00155/default/table?lang=en|publisher=EuroStat|access-date=21 Mar 2024|archive-date=24 Dec 2023|archive-url=https://web.archive.org/web/20231224143639/https://ec.europa.eu/eurostat/databrowser/view/tps00155/default/table?lang=en|url-status=live}}</ref><ref>{{cite web|url=http://www.kik-info.com/useful_info/mrz.php|title=Минимална работна заплата за страната по години в лева|date=21 Mar 2024|access-date=21 Mar 2024|archive-date=26 Dec 2018|archive-url=https://web.archive.org/web/20181226014334/https://www.kik-info.com/spravochnik/mrz.php|url-status=live}}</ref><ref>{{Cite news|url=https://bnt.bg/news/minimum-wage-in-bulgaria-goes-up-to-933-bgn-as-of-Jan-1-2024-324466news.html|title=Minimum wage in Bulgaria goes up to 933 BGN as of Jan 1, 2024|work=BNT News|language=en|access-date=21 Mar 2024|archive-date=21 Mar 2024|archive-url=https://web.archive.org/web/20240321055719/https://bnt.bg/news/minimum-wage-in-bulgaria-goes-up-to-933-bgn-as-of-Jan-1-2024-324466news.html|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Burkina Faso|34664|monthly|40|1 Apr 2012
+|comment= {{Currency|34,664|XOF}} (US$59) per month.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.patronat.bf/Telechargements/Autres/modalite%20d'application%20du%20protocole%20d'accord%20patronat%20_syndicat%202012.pdf |title=Commission Mixte Paritaire de Négociations Salariales du Secteur Prive |publisher=Patronat.bf |access-date=4 Mar 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160115064908/http://www.patronat.bf/Telechargements/Autres/modalite%20d%27application%20du%20protocole%20d%27accord%20patronat%20_syndicat%202012.pdf |archive-date=15 Jan 2016 }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Burundi}}
+| None; in the past the government set the minimum wage, but during the year the minimum wage was set by market forces.<ref name="CRHRP-2012" /><ref name="ilodatabase" />
+|
+|
+|40
+|
+|
+|
+| {{dts|2017}}
+|-
+| {{flag|Cambodia}}
+| [[Cambodian riel|៛]] 818,800 (US$200) per month, for the textile and shoe industries.<ref>{{cite web|url=https://www.reuters.com/article/cambodia-economy-garmentworkers-wages/cambodia-hikes-minimum-wage-for-textiles-workers-by-11-pct-from-2018-idUSL4N1MG1Q6|title=Cambodia hikes minimum wage for textiles workers by 11 pct from 2018|publisher=Reuters|date=5 October 2017|access-date=1 Aug 2018|archive-date=1 Aug 2018|archive-url=https://web.archive.org/web/20180801064042/https://www.reuters.com/article/cambodia-economy-garmentworkers-wages/cambodia-hikes-minimum-wage-for-textiles-workers-by-11-pct-from-2018-idUSL4N1MG1Q6|url-status=live}}</ref><ref name="CRHRP-2012" /><ref name="wageindicator" /><ref>{{Cite web |date=2022-10-03 |title=Cambodia Increases Minimum Wage for Textile and Garment Sectors for 2023 |url=https://www.aseanbriefing.com/news/cambodia-increases-minimum-wage-for-textile-and-garment-sectors-for-2023/ |access-date=2023-10-08 |website=ASEAN Business News |language=en-US |archive-date=2023-10-06 |archive-url=https://web.archive.org/web/20231006063947/https://www.aseanbriefing.com/news/cambodia-increases-minimum-wage-for-textile-and-garment-sectors-for-2023/ |url-status=live }}</ref>
+|
+|
+| 48
+|
+|
+|
+|  {{dts|3 Oct 2023}}
+
+{{List of minimum wages by country/Row|Cameroon|36270|monthly|40|30 July 2014
+|comment= {{Currency|36,270|XOF}} (US$62) per month.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.votresalaire.org/cameroun/page-daccueil/salaire/salaire-minimum |title=Votresalaire.org/cameroun – Cameroun, Salaire Minimum, SMIG, Salaire Minimum Interprofessionnel Garanti |publisher=Votresalaire.org |access-date=8 Jan 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140108234007/http://www.votresalaire.org/cameroun/page-daccueil/salaire/salaire-minimum |archive-date=8 Jan 2014 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Canada|14.50|hourly|40|1 June 2022
+|comment=The [[minimum wage in Canada]] is set federally and by each province and territory; ranges from {{Currency|13|CAD}} to {{Currency|16|CAD|linked=no}} (US$9.69 to US$11.93) per hour. The minimum wage calculated here is a weighted average based on the relative population in each province.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx?lang=eng |title=Current And Forthcoming Minimum Hourly Wage Rates For Experienced Adult Workers in Canada |date=13 December 2013 |publisher=Srv116.services.gc.ca |access-date=23 Apr 2017 |archive-date=26 Dec 2018 |archive-url=https://web.archive.org/web/20181226014255/http://srv116.services.gc.ca/dimt-wid/sm-mw/rpt1.aspx?lang=eng |url-status=live }}</ref><ref>Standard workweek hours vary by province; ranges from 40 hours to 48 hours per week. [http://www.payworks.ca/payroll-legislation/Overtime.asp Canadian Payroll Legislation] {{Webarchive|url=https://web.archive.org/web/20180823174351/http://www.payworks.ca/payroll-legislation/Overtime.asp |date=2018-08-23 }}</ref>}}
+
+{{List of minimum wages by country/Row|Cape Verde|13000|monthly|44|1 Jan 2018
+|comment= {{Currency|13,000|CVE}} (US$141) per month.<ref>{{cite web |title = Cape Verde government raises minimum wage to 13,000 escudos |date = 8 Jan 2018 |url = https://macauhub.com.mo/2018/01/08/pt-governo-de-cabo-verde-aprova-aumento-do-salario-minimo-para-13-mil-escudos/ |access-date = 23 Apr 2018 |archive-date = 10 Aug 2018 |archive-url = https://web.archive.org/web/20180810072602/https://macauhub.com.mo/2018/01/08/pt-governo-de-cabo-verde-aprova-aumento-do-salario-minimo-para-13-mil-escudos/ |url-status = dead }}</ref><ref>{{cite web |title = Governo vai aumentar salário mínimo nacional de 11 para 13 mil escudos |url = http://asemana.publ.cv/?Governo-vai-aumentar-salario-minimo-nacional-de-11-para-13-mil-escudos |date = 6 Jan 2018 |publisher = A Semana |language = pt |access-date = 8 Jan 2018 |archive-date = 8 Jan 2018 |archive-url = https://web.archive.org/web/20180108142029/http://asemana.publ.cv/?Governo-vai-aumentar-salario-minimo-nacional-de-11-para-13-mil-escudos |url-status = live }}</ref>}}
+
+{{List of minimum wages by country/Row|Central African Republic|218.75|hourly|40| 2011
+|comment= {{Currency|35,000|XAF}} per month, {{Currency|218.75|XAF|linked=no}} per hour.<ref>{{cite web|url=http://www.izf.net/ancien/entreprise/num-5378 |title=Izf, investir en zone francophone |access-date=26 May 2015 |url-status=live |archive-url=https://web.archive.org/web/20160425023849/http://www.izf.net/ancien/entreprise/num-5378 |archive-date=25 Apr 2016 }}</ref><ref>[http://www.mays-mouissi.com/2015/03/19/salaire-minimum-en-afrique-dans-quels-pays-paie-t-on-le-mieux/ Salaire minimum en Afrique, dans quels pays paie-t-on le mieux ? – Mays Moussi] {{Webarchive|url=https://web.archive.org/web/20180525004304/http://www.mays-mouissi.com/2015/03/19/salaire-minimum-en-afrique-dans-quels-pays-paie-t-on-le-mieux/ |date=2018-05-25 }}. In French.</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Chad|355|hourly|39|18 Oct 2011
+|comment= {{Currency|59,995|XAF}} (US$110) per month, {{Currency|355|XAF|linked=no}} (US$0.60) per hour.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://fromchad.blogvie.com/2012/07/16/tchad-salaire-minimum-interprofessionnel-garanti-smig-et-du-salaire-minimum-agricole-garanti-smag/ |title=» Tchad: Salaire Minimum Interprofessionnel Garanti (SMIG) et du Salaire Minimum Agricole Garanti (SMAG) FROM CHAD |publisher=Fromchad.blogvie.com |access-date=4 Mar 2014 |archive-url=https://web.archive.org/web/20151117035335/http://fromchad.blogvie.com/2012/07/16/tchad-salaire-minimum-interprofessionnel-garanti-smig-et-du-salaire-minimum-agricole-garanti-smag/ |archive-date=17 Nov 2015 |url-status=dead }}</ref><ref>{{cite web |url=http://www.afriquinfos.com/articles/2012/9/3/tchad-crise-sociale-senlise-209147.asp |title=Tchad: la crise sociale s'enlise |publisher=Afriquinfos |access-date=4 Mar 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140304145923/http://www.afriquinfos.com/articles/2012/9/3/tchad-crise-sociale-senlise-209147.asp |archive-date=4 Mar 2014 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Chile|529000|monthly|42|1 May 2025
+|comment= {{Currency|529,000|CLP}} (US$553 per month for workers aged 18–65; or {{Currency|394,622|CLP|linked=no}} (US$412) per month for workers younger than 18 and older than 65; and {{Currency|340,988|CLP|linked=no}} (US$356) per month for 'non remunerative' purposes.<ref>{{cite web |url=https://www.bcn.cl/leychile/navegar?idNorma=1214530|title=Ley 21751 Firma electrónica REAJUSTA EL MONTO DEL INGRESO MÍNIMO MENSUAL, LA ASIGNACIÓN FAMILIAR Y MATERNAL, EL SUBSIDIO ÚNICO FAMILIAR, Y MODIFICA OTRAS LEYES QUE INDICA|language=es|publisher=Biblioteca del Congreso Nacional de Chile |date=28 June 2025 |access-date=12 July 2025 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|China|1620|monthly|40|1 Jan 2025
+|comment= [[List of minimum wages in People's Republic of China|The minimum wage in China]] is set locally; ranges from {{Currency|1,620|CNY}} (US$222.75) per month, or {{Currency|16.10|CNY|linked=no}} (US$2.21) per hour in [[Guangdong]](Lowest Region); to {{Currency|2,690|CNY|linked=no}} (US$369.88) per month, or {{Currency|24|CNY|linked=no}} (US$3.30) per hour in [[Shanghai]].<ref name=wageindicator/><ref>{{cite web |url=https://www.china-briefing.com/news/minimum-wages-china/ |title=A Guide to Minimum Wages in China (As of February 5, 2025)|publisher= Qian Zhou |date=5 Feb 2025 |access-date=6 Feb 2025|archive-date=8 Jan 2025 |archive-url=https://web.archive.org/web/20250108223606/https://www.china-briefing.com/news/minimum-wages-china/|url-status=live}}</ref><ref name=mohrss_month>{{cite web |url=https://www.mohrss.gov.cn/SYrlzyhshbzb/laodongguanxi_/fwyd/202501/t20250114_534601.html |title=全国各地区月最低工资标准情况（截至2025年1月） |trans-title=Minimum Wage Rates by region in January, 2025 |publisher=Mohrss.gov.cn |date=14 January 2025 |access-date=6 Feb 2025 |language=zh
+
+|archive-date=4 Aug 2018 |archive-url=https://web.archive.org/web/20180804141130/http://www.mohrss.gov.cn/ldgxs/LDGXqiyegongzi/LDGXzuidigongzibiaozhun/201807/t20180731_298258.html |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Colombia|1623500|13 times annually|48|1 Jan 2025
+|comment={{Currency|1,423,500|COP}} + {{Currency|200,000|COP|linked=no}} by transportation subsidy (US$350) per month<ref>{{cite web|date=24 Dec 2024|periodical=El Colombiano|title=Atención, Por decreto del gobierno, el salario mínimo para el 2025 aumentó en 9.54 %, así quedaron las cuentas|url=https://www.elcolombiano.com/negocios/aumento-salario-minimo-colombia-JG26207284}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Comoros|55000|monthly|40|2017
+|comment= {{Currency|55,000|KMF}} (US$129) per month.<ref name="CRHRP-2012"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Democratic Republic of the Congo|1680|daily|45|1 Jan 2009|comment= 
+{{Currency|1,680|CDF}} (US$1.83) per day.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.ilo.org/dyn/natlex/docs/SERIAL/79340/92928/F691772525/ORDONNANCE%20%202008%20SMIG.pdf |title=Journal Officiel de la Republique Democratique du Congo |publisher=Ilo.org |access-date=4 Mar 2014 |archive-date=3 Mar 2016 |archive-url=https://web.archive.org/web/20160303214414/http://www.ilo.org/dyn/natlex/docs/SERIAL/79340/92928/F691772525/ORDONNANCE%20%202008%20SMIG.pdf |url-status=live }}</ref>
+|workweek citation=<ref>The law defines different standard workweeks, ranging from 45 to 72 hours, for various jobs and prescribes rest periods and premium pay for overtime.</ref>}}
+
+{{List of minimum wages by country/Row|Republic of the Congo|90000|monthly|40|2017
+|comment= {{Currency|90,000|XAF}} (US$170) per month in the formal sector.<ref name="CRHRP-2012"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Costa Rica|358609.50|monthly|48|1 Jan 2024
+|comment=Varies for specified industries from {{Currency|11,953.65|CRC}} (US$23.21) per 8-hour work day for all workers to {{Currency|15,613.91|CRC|linked=no}} (US$30.32) per day for specialized workers. All other occupations not explicitly covered fall under the generic scale, which varies from {{Currency|358,609.50|CRC|linked=no}} (US$696.42) per month for unskilled workers to {{Currency|765,985.67|CRC|linked=no}} (US$1,487.54) per month for [[licentiates]].<ref>{{Cite press release|title=Conforme el decreto No. 44293-MTSS Lista de salarios mínimos para el sector privado 2024 （In accordance with decree No. 44293-MTSS List of minimum wages for the private sector 2024）|language=es|publisher=Ministerio de Trabajo y Seguridad Social. Costa Rica|date=20 Dec 2023|url=https://www.mtss.go.cr/temas-laborales/salarios/Documentos-Salarios/lista_salarios_2024.pdf|accessdate=23 Feb 2024|archive-date=17 Jan 2024|archive-url=https://web.archive.org/web/20240117055200/https://www.mtss.go.cr/temas-laborales/salarios/Documentos-Salarios/lista_salarios_2024.pdf|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>}}
+
+{{List of minimum wages by country/Row|Côte d'Ivoire|36607|monthly|40|2013
+|comment= Varies by occupation, with the lowest set to {{Currency|60,000|XOF}} (US$120) per month for the industrial sector; a slightly higher minimum wage rate is applied for construction workers.<ref name="CRHRP-2012"/><ref>{{cite web|url=http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:13100:0::NO::P13100_COMMENT_ID,P13100_LANG_CODE:2272993,fr |archive-url=https://archive.today/20131203110815/http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:13100:0::NO::P13100_COMMENT_ID,P13100_LANG_CODE:2272993,fr |url-status=dead |archive-date=3 December 2013 |access-date=21 Nov 2013 | title= Minimum Wage-Fixing Machinery Convention, 1928 (No. 26) – Côte d'Ivoire (Ratification: 1960)| publisher= [[International Labour Organization]]| language= fr}}</ref><ref>{{cite web |last=Ahad |first=Abdul |url=http://www.brecorder.com/world/global-business-a-economy/145259.html |title=Ivory Coast raises minimum wage by 60 percent |publisher=Brecorder.com |date=21 Nov 2013 |access-date=4 Mar 2014 |archive-date=10 June 2015 |archive-url=https://web.archive.org/web/20150610201255/http://www.brecorder.com/world/global-business-a-economy/145259.html |url-status=dead }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Croatia|840|monthly|40|1 Jan 2024
+|comment= €840 (US$900) per month. |last1=Halar |first1=Ivan |title=Minimalna plaća za 2024. 840 eura bruto |url=https://vlada.gov.hr/vijesti/sjednica-vlade-minimalna-placa-za-2024-godinu-840-eura-bruto/39267?lang=hr |website=[[Večernji list]] |access-date=26 Dec 2018 |location=[[Zagreb]] |language=hr |date=30 Nov 2018 |archive-date=27 Dec 2018 |archive-url=https://web.archive.org/web/20181227040649/https://www.vecernji.hr/vijesti/vlada-o-minimalnoj-placi-bitna-poruka-za-sto-dostojanstveniji-zivot-1285944 |url-status=live }}
+|-
+| {{flag | Cuba }}
+| {{Currency|2,100|CUP}} (US$6.66) per month.<ref>{{cite web |url=https://adncuba.com/noticias-de-cuba/actualidad/cuba-elevara-el-salario-minimo-2100-pesos |title=Cuba elevará el salario mínimo a 2100 pesos |language=es |publisher=ADNCUBA.com |access-date=12 Dec 2020 |archive-date=11 Dec 2020 |archive-url=https://web.archive.org/web/20201211161914/https://adncuba.com/noticias-de-cuba/actualidad/cuba-elevara-el-salario-minimo-2100-pesos |url-status=live }}</ref><ref>{{cite web |url=https://eltoque.com/ |title=Precio del CUP El Toque |language=es |publisher=eltoque.com |access-date=27 Jan 2024 |archive-date=26 Jan 2024 |archive-url=https://web.archive.org/web/20240126204721/https://eltoque.com/ |url-status=live }}</ref> Each citizen is however also given free food to supplement the salary.
+|{{nts|{{To USD|{{#expr:1050}} | Cuba |round=yes}} | year=2021}}
+|{{International dollars | {{#expr:400*25}} | Cuba |round=yes | year=2012}}
+|48
+|{{nts|{{To USD|{{#expr: 2100*12/52/44}} | Cuba |round=no | year=2012}} }}
+|{{nts| {{International dollars | {{#expr:2100*12/52/44}} | Cuba |round=no | year=2012}} }}
+|{{nts| {{#expr: (147*100/{{GDP (PPP) per capita|Andorra|year=2012}} )round1 }} }}%
+|{{dts|2021}}
+|-
+| {{flag|Cyprus}}
+| None; €870 (US$1,006) per month for shop assistants, nurses' assistants, clerks, hairdressers, and nursery assistants; it rises to €924 (US$1,069) after six months' employment. For asylum seekers working as unskilled workers in the agricultural sector, the minimum monthly wage was €425 (US$570) with accommodation and food provided. For skilled workers in the agricultural sector, the minimum salary was €767 (US$1,040) without accommodation and food.<ref name="CRHRP-2012" />
+|
+|
+| 48
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Czech Republic|103.80|hourly|40|1 Jan 2026
+|comment= Czech Republic monthly gross minimum wage is {{Currency|22,400|CZK}} (US$1051), that's 134.40 Kč (US$6.31) per hour. The net wage after tax comes off to {{Currency|19,012|CZK}}, (US$892.21).
+|workweek citation=}}
+|-
+| {{flag|Denmark}}
+| None; instead, negotiated between unions and employer associations; the average minimum wage for all private and public sector collective bargaining agreements was approximately {{Currency|110|DKK}} (nominally US$16) per hour, exclusive of pension benefits.<ref name="CRHRP-2012" /><ref name="CRHRP-2009">{{cite web|url=https://www.state.gov/g/drl/rls/hrrpt/2009/index.htm |archive-url=https://web.archive.org/web/20100314055529/http://www.state.gov/g/drl/rls/hrrpt/2009/index.htm |url-status=dead |archive-date=14 Mar 2010 |title=Country Reports on Human Rights Practices 2009 |publisher=State.gov |date=3 Feb 2010 |access-date=4 Mar 2014}}</ref>
+|
+|
+| 37.5
+|
+|
+|
+| {{dts|2017}}
+|-
+| {{flag|Djibouti}}
+| None; cancelled by the 2006 Labor Code for occupational categories, establishing that wages be set after common agreement between employers and employees. For public sector workers, minimum wage was {{Currency|35,000|DJF}} (US$198) per month.<ref name="CRHRP-2012" /><ref name="CRHRP-2011">{{cite web |url=https://2009-2017.state.gov/j/drl/rls/hrrpt/2011/index.htm |title=Country Reports on Human Rights Practices 2011 |publisher=State.gov |date=22 Mar 2012 |access-date=4 Mar 2014 |archive-date=2 July 2019 |archive-url=https://web.archive.org/web/20190702211530/https://2009-2017.state.gov/j/drl/rls/hrrpt/2011/index.htm |url-status=live }}</ref>
+|
+|
+| 48
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Dominica|4|hourly|40|1 June 2008
+|comment= {{Currency|4.00|XCD}} (US$1.50) per hour.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.caribbean360.com/index.php/news/13307.html#axzz2gfIusOPf |title=Dominicans get higher minimum wage |publisher=Caribbean360 |date=9 May 2008 |access-date=4 Mar 2014 |archive-date=4 Mar 2014 |archive-url=https://web.archive.org/web/20140304141808/http://www.caribbean360.com/index.php/news/13307.html#axzz2gfIusOPf |url-status=dead }}</ref><ref>{{cite web |url=http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=DMA&p_classification=12.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY |title=NATLEX |publisher=Ilo.org |access-date=4 Mar 2014 |archive-date=4 Mar 2014 |archive-url=https://web.archive.org/web/20140304145634/http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=DMA&p_classification=12.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Dominican Republic|11500|13 times annually|44|2021
+|comment= {{Currency|8,310|DOP}} (US$166) per month in the [[Free trade zone|FTZs]] and between {{Currency|9,412|DOP|linked=no}} (US$188) and {{Currency|15,448|DOP|linked=no}} (US$309) outside the FTZs, depending upon the size of the company; {{Currency|5,884|DOP|linked=no}} (US$117) per month for the public sector; {{Currency|320|DOP|linked=no}} (US$6) a day for farm workers who are covered by minimum wage regulations based on a 10-hour day, with the exception of sugarcane workers who received {{Currency|146|DOP|linked=no}} based on an eight-hour workday.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.omlad.gob.do/ResolucionesSalariales.aspx |title=> Resoluciones Salariales |publisher=OMLAD |access-date=4 Mar 2014 |archive-date=21 Feb 2019 |archive-url=https://web.archive.org/web/20190221175124/http://omlad.gob.do/ResolucionesSalariales.aspx |url-status=dead }}</ref><ref>{{cite web |url=http://www.7dias.com.do/el-pais/2013/08/08/i145862_frente-amplio-propone-llevar-salario-minimo-000-para-empleados-publicos.html#.UmCwXtIvrQ0 |title=Frente Amplio propone llevar salario mínimo a 20,000 para empleados públicos – Periódico Digital Dominicano |publisher=7dias.com.do |access-date=4 Mar 2014 |archive-url=https://web.archive.org/web/20131022124108/http://www.7dias.com.do/el-pais/2013/08/08/i145862_frente-amplio-propone-llevar-salario-minimo-000-para-empleados-publicos.html#.UmCwXtIvrQ0 |archive-date=22 Oct 2013 |url-status=dead }}</ref>
+
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Ecuador|548|13 times annually|40|1 Jan 2025
+|comment= [[United States dollar|US$]]594 per month (including mandatory 13th and 14th salaries, minimal 15 days vacation period per year and mandatory reserve funds after one year of continuous work). The minimum wage set by the government for 2025 is $470 per month without social benefits. Workers receive mandatory 13th and 14th salaries, paid vacations and reserve funds equal to an additional salary after one year of continuous work.<ref>{{cite journal|access-date=27 Dec 2022|date=27 Dec 2022|periodical=Euronews|title=Presidente Ecuador fija por decreto salario básico en 450 dólares para 2023|url=https://es.euronews.com/next/2022/12/01/ecuador-salario#:~:text=QUITO%2C%201%20dic%20%E2%80%93%20El%20presidente,sobre%20la%20generaci%C3%B3n%20de%20trabajos.|archive-date=3 Jan 2023|archive-url=https://web.archive.org/web/20230103005705/https://es.euronews.com/next/2022/12/01/ecuador-salario#:~:text=QUITO%2C%201%20dic%20%E2%80%93%20El%20presidente,sobre%20la%20generaci%C3%B3n%20de%20trabajos.|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>
+|workweek citation=}}
+|-
+| {{flag|Egypt}}
+| None; The minimum wage of public sector is [[Egyptian pound|LE]] 6,000 (US$118.4) per month.<ref>{{Cite web|author=Shigeyo Nishizawa(西澤成世)|url=https://www.jetro.go.jp/biznews/2024/04/f97a7074fa804f52.html|title=民間企業の最低賃金、5月から6,000エジプト・ポンドに、1年前から倍増（エジプト）|trans-title=Minimum wage for private companies to double from a year ago to 6,000 Egyptian pounds from May (Egypt)|date=Apr 17, 2024|publisher=Japan External Trade Organization（日本貿易振興機構）|accessdate=Apr 17, 2024}}</ref> The private sector (There are certain grace periods in certain industries such as tourism, retail, and clothing.) is LE 7,000 (US$138.1) per month.<ref>{{Cite web|author=Yuko Shiokawa(塩川裕子)|url=https://www.jetro.go.jp/biznews/2025/02/c122e11a4553b0e8.html|title=民間企業の最低賃金引き上げ、3月から月額7,000エジプト・ポンドに（エジプト）|trans-title=Private sector minimum wage to rise to 7,000 Egyptian pounds per month from March (Egypt)|date=Feb 14, 2025|publisher=Japan External Trade Organization（日本貿易振興機構）|accessdate=Feb 15, 2025}}</ref>
+|
+|
+| 42
+|
+|
+|
+|1 Mar 2025
+
+{{List of minimum wages by country/Row|El Salvador|1.5952972|hourly|44|1 Jan 2018
+|comment=The minimum wage was set by the government at US$304.17 monthly in 2018.<ref name="CRHRP-2012"/><ref name=wageindicator/><ref>{{cite web|url=http://www.mtps.gob.sv/noticias/decreto-no-6-salario-minimo/|format=PDF|title=Decreto No. 6 Salario Mínimo|language=es|trans-title=Decree No. 6 Minimum Wage|access-date=27 Aug 2018|archive-date=28 Aug 2018|archive-url=https://web.archive.org/web/20180828035622/http://www.mtps.gob.sv/noticias/decreto-no-6-salario-minimo/|url-status=live}}</ref>}}
+
+{{List of minimum wages by country/Row|Equatorial Guinea|129035|monthly|48|2017
+|comment= {{Currency|129,035|XAF}} (US$224) per month.<ref name="CRHRP-2012"/>
+|workweek citation=}}
+|-
+| {{flag|Eritrea}}
+| None; {{Currency|360|ERN}} (US$23.3) per month in the public sector.<ref name="CRHRP-2012" />
+|
+|
+| 44.5
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Estonia|4.30|hourly|40|1 Jan 2023
+|comment= €725 (US${{to USD|725|EUR|round=yes}}) per month, or €4.30 (US${{to USD|4.30|EUR|round=no}}) per hour.<ref>{{Cite web|url=https://sm.ee/en/news/minimum-wage-increases-725-euros-2023|title=The minimum wage increases to 725 euros in 2023|website=www.sm.ee|access-date=27 Apr 2023|archive-date=27 Apr 2023|archive-url=https://web.archive.org/web/20230427115408/https://sm.ee/en/news/minimum-wage-increases-725-euros-2023|url-status=live}}</ref><ref name=wageindicator/>| workweek citation=}}
+|-
+| {{flag|Eswatini}}
+| [[Swazi lilangeni|E]]&nbsp;531.6 (US$76.50) per month for a domestic worker; E&nbsp;420 (US$60.50) a month for an unskilled worker; E&nbsp;600 (US$86.50) a month for a skilled worker.<ref name="CRHRP-2011" />
+| {{nts|694}}
+| {{nts|1128}}
+| 48
+| {{nts|0.33}}
+| {{nts|0.54}}
+| {{nts|19}}%
+| {{dts|2011}}
+|-
+| {{flag|Ethiopia}}
+| None; some government institutions and public enterprises set their own minimum wages: public sector employees, the largest group of wage earners, earned a monthly minimum wage of {{Currency|420|ETB}} (US$21); employees in the banking and insurance sector had a minimum monthly wage of {{Currency|336|ETB|linked=no}} (US$18).<ref name="CRHRP-2012" />
+|
+|
+| 48
+|
+|
+|
+| {{dts|2017}}
+|-
+| {{flag|Federated States of Micronesia}}
+| None; [[United States dollar|US$]]2.65 per hour for employment with the national government; all states have a minimum hourly wage for government workers: US$2.00 in [[Pohnpei]], US$1.25 in [[Chuuk State|Chuuk]], US$1.42 in [[Kosrae]], and US$1.60 in [[Yap]]; US$1.75 for private sector workers in Pohnpei.<ref name="CRHRP-2012" />
+|
+|
+| 40
+|
+|
+|
+| {{dts|2015}}
+
+{{List of minimum wages by country/Row|Fiji|4|hourly|48|December 2024
+|comment= {{Currency|2.68|FJD}} per hour.<ref>[http://www.fiji.gov.fj/Media-Center/Press-Releases/FIJIAN-GOVERNMENT-INCREASES-NATIONAL-MINIMUM-WAGE.aspx?feed=news Fijian Government Increases National Minimum Wage] {{Webarchive|url=https://web.archive.org/web/20171108035830/http://www.fiji.gov.fj/Media-Center/Press-Releases/FIJIAN-GOVERNMENT-INCREASES-NATIONAL-MINIMUM-WAGE.aspx?feed=news |date=2017-11-08 }} The Fijian Government</ref><ref>{{Cite web|url=http://fijisun.com.fj/2017/09/10/national-minimum-wage-increase-of-new-rates-fulfilled-by-government-usamate/|title=National Minimum Wage: Increase Of New Rates Fulfilled By Government: Usamate {{!}} Fiji Sun|website=fijisun.com.fj|language=en-US|access-date=29 Nov 2017|archive-date=1 Dec 2017|archive-url=https://web.archive.org/web/20171201041128/http://fijisun.com.fj/2017/09/10/national-minimum-wage-increase-of-new-rates-fulfilled-by-government-usamate/|url-status=live}}</ref>| workweek citation=}}
+|-
+| {{flag|Finland}}
+| None; however, the law requires all employers, including non-unionized ones, to pay minimum wages agreed to in collective bargaining agreements; almost all workers are covered under such arrangements.<ref name="CRHRP-2012" />
+|
+|
+| 40
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|France|11.88|hourly|35|1 Jan 2025
+|workweek citation=
+|comment=The monthly minimum wage in France is 1801€, that is, 11.88€ per hour.}}
+
+{{List of minimum wages by country/Row|Gabon|150000|monthly|40|1 Feb 2010
+|comment= {{Currency|150,000|XAF}} (US$255) per month; government workers received an additional monthly allowance of {{Currency|20,000|XAF|linked=no}} (US$34) per child; government workers also received transportation, housing, and family benefits; the law does not mandate housing or family benefits for private sector workers.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=fr&tl=en&u=http://fr.allafrica.com/stories/201001190467.html&usg=ALkJrhh1HPcb0tEWLtyZqGyj8WoC2759rw |title=Google Translate |publisher=Translate.googleusercontent.com |access-date=4 Mar 2014 |archive-date=1 Feb 2020 |archive-url=https://web.archive.org/web/20200201133432/http://translate.google.com/translate?depth=1&hl=en&rurl=translate.google.com&sl=fr&tl=en&u=http%3A%2F%2Ffr.allafrica.com%2Fstories%2F201001190467.html |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|The Gambia|50|daily|48|2017
+|comment= {{Currency|50|GMD}} (US$1.25) per day.<ref name="CRHRP-2012"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Georgia|25|monthly|40|2017
+|comment= {{Currency|40|GEL}} (US$16) per month for private sector workers which has remained unchanged since the early {{Currency|135|GEL|linked=no}} (US$54) per month for public employees;<ref name="CRHRP-2012"/> {{Currency|960|GEL|linked=no}} (US$384) for doctors and {{Currency|600|GEL|linked=no}} (US$240) for nurses working in clinics involved in the state's universal healthcare program.<ref>{{cite web|url=https://civil.ge/archives/521133|title=Minimum Wage Established for Doctors and Nurses|location=Georgia (country)|work=Civil Georgia|date=2012-01-10|access-date=2023-02-07|archive-date=2023-01-17|archive-url=https://web.archive.org/web/20230117100638/https://civil.ge/archives/521133|url-status=live}}</ref>|workweek citation=}}
+
+{{List of minimum wages by country/Row|Germany|13.90|hourly|48|1 Jan 2026
+|comment= The monthly minimum wage in Germany is 2891.20€ that is based on 48 hours workweek at 13.90€ per hour.| workweek citation=<ref>Federal regulations set the working time of an employee to eight hours per day and limit the average workweek to a maximum of 48 hours per week. Collective bargaining agreements, however, may stipulate lower maximums, and in 2012 they stipulated on average 37.7 hours per week. These collective contracts directly or indirectly affecting 80 percent of the working population regulated the number of hours of work per week. According to the European Labor Force Survey, in 2011 the average full-time employee's workweek was 39.9 hours for women and 41.1 hours for men. The value given is the average of the average women and men workweek.</ref>}}
+
+{{List of minimum wages by country/Row|Ghana|18.19|daily|40|1 Jan 2024
+|comment= {{Currency|18.19|GHS}} (US$1.2) per day.<ref name="wageindicator"/><ref name=GhanaGovernment>{{citation |url=https://www.melr.gov.gh/files/publications/COMMUNIQUE_BY_THE_NATIONAL_TRIPARTITE_COMMITTEE_(NTC)_ON_THE_2024_NATIONAL_DAILY_MINIMUM_WAGE.pdf |title=Government Announces Increment in Minimum Wage/Salaries for Public Workers |publisher=Government of Ghana |access-date=2024-05-15}}</ref>}}
+
+{{List of minimum wages by country/Row|Greece|968|monthly|40|1 Apr 2025
+|comment=€1027 (US${{to USD|1027|EUR|round=yes}}) per month in 12 payments, €880 (US${{to USD|880|EUR|round=yes}}) per month in 14 payments.<ref>{{cite web |url=https://www.kepea.gr/katotatos-apo-1-apriliou-2024# |title=Καθορισμός κατώτατου μισθού και κατώτατου ημερομισθίου για τους υπαλλήλους και τους εργατοτεχνίτες όλης της χώρας από 1/4/2024 |date= |publisher=KEPEA |access-date=30 May 2024}}</ref>|workweek citation=}}
+|-
+| {{flag|Grenada}}
+| Minimum wage schedules set pay by occupation; for example, the minimum wage for domestic workers, for example, was {{Currency|4.50|XCD}} per hour, while that for a security guard was {{Currency|8.00|XCD|linked=no}} per hour.<ref name="CRHRP-2012" />
+|
+|
+| 40
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Guatemala|2527.90|monthly|48|1 Jan 2016
+|comment= {{Currency|81.87|GTQ}} (US$10.9) per day for agricultural and nonagricultural work and {{Currency|74.89|GTQ|linked=no}} (US$10) per day for work in export-sector regime factories. Minimum wage earners also are due a mandatory monthly bonus of Q&nbsp;250 (US$33), and salaried workers receive two mandatory yearly bonuses (the bono 14 and the Christmas bonus), each equivalent to one month's salary.<ref name="CRHRP-2012"/><ref name="wageindicator"/>
+|workweek citation=}}
+|-
+| {{flag|Guernsey}}
+| £12.60 per hour (US$16.90) for those aged 18+ <br />£11.35 per hour (US$15.20) for those aged 16–17.<ref name="guernsey:0">{{cite web |url=https://www.gov.gg/minimumwage |title=Minimum Wage - States of Guernsey }}</ref>
+|
+|
+|
+|
+|
+|
+| 1 Oct 2025<ref name="guernsey:0" />
+|-
+| {{flag|Guinea}}
+| The labor code allows the government to set a minimum hourly wage; however, the government has not exercised this provision except for setting the minimum wage for domestic workers at {{Currency|440,000|GNF}} (US$62) per month.<ref name="CRHRP-2012" />
+|
+|
+| 48
+|
+|
+|
+| {{dts|2017}}
+
+{{List of minimum wages by country/Row|Guinea-Bissau|19030|monthly|45|2017
+|comment= {{Currency|19,030|XOF}} (US$30) per month plus a bag of rice<ref>{{cite web | url=https://2009-2017.state.gov/j/drl/rls/hrrpt/2015/af/252691.htm | title=Guinea-Bissau | access-date=2024-02-10 | archive-date=2023-10-13 | archive-url=https://web.archive.org/web/20231013122333/https://2009-2017.state.gov/j/drl/rls/hrrpt/2015/af/252691.htm | url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Guyana|202|hourly|40|1 July 2013
+|comment= {{Currency|35,000|GYD}} (US$168) per month, or {{Currency|1,616|GYD|linked=no}} (US$7) per day, or {{Currency|202|GYD|linked=no}} (US$1) per hour.<ref>{{cite web |url=http://www.kaieteurnewsonline.com/2013/06/04/minimum-wage-order-covers-loopholes/ |title=Minimum Wage Order covers loopholes: Kaieteur News |publisher=Kaieteurnewsonline.com |date=4 June 2013 |access-date=4 Mar 2014 |archive-date=4 Mar 2014 |archive-url=https://web.archive.org/web/20140304133845/http://www.kaieteurnewsonline.com/2013/06/04/minimum-wage-order-covers-loopholes/ |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Haiti|36.25|hourly|48|1 Aug 2017
+|comment= {{Currency|290|HTG}} per day for servants for an eight-hour workday; {{Currency|400|HTG|linked=no}} per day for segment A industries; {{Currency|350|HTG|linked=no}} per day for segment B industries; G&nbsp;290 per day for segment C industries; G&nbsp;350 per day for companies with piece work that re-export; and {{Currency|350|HTG|linked=no}} per day for companies with piece work that exports.<ref>{{Cite web|url=https://www.haitilibre.com/en/news-21679-haiti-flash-minimum-wages-all-details.html|title=Haiti - FLASH : Minimum wages all details - HaitiLibre.com : Haiti news 7/7|website=www.haitilibre.com|accessdate=Apr 2, 2023|archive-date=Apr 1, 2023|archive-url=https://web.archive.org/web/20230401180801/https://www.haitilibre.com/en/news-21679-haiti-flash-minimum-wages-all-details.html|url-status=live}}</ref><ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.haitilibre.com/en/news-10972-haiti-economy-everything-you-need-to-know-about-the-new-minimum-wage.html |title=Haiti – Economy: Everything you need to know about the new Minimum Wage |publisher=Haitilibre.com |date=19 Apr 2014 |access-date=18 Aug 2014 |archive-date=29 Apr 2014 |archive-url=https://web.archive.org/web/20140429194711/http://www.haitilibre.com/en/news-10972-haiti-economy-everything-you-need-to-know-about-the-new-minimum-wage.html |url-status=live }}</ref><ref>{{cite web |url=http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=HTI&p_classification=12.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY |title=NATLEX |publisher=Ilo.org |access-date=4 Mar 2014 |archive-date=10 June 2015 |archive-url=https://web.archive.org/web/20150610221056/http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=HTI&p_classification=12.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY |url-status=live }}</ref><ref>{{cite web |url=http://www.workersrights.org/Freports/WRC%20Haiti%20Minimum%20Wage%20Report%2010%2015%2013.pdf |title=Stealing from the Poor |publisher=Workersrights.org |access-date=4 Mar 2014 |archive-url=https://web.archive.org/web/20180911223124/http://www.workersrights.org/Freports/WRC%20Haiti%20Minimum%20Wage%20Report%2010%2015%2013.pdf |archive-date=11 Sep 2018 |url-status=dead }}</ref>}}
+
+{{List of minimum wages by country/Row|Honduras|50.83|hourly|44|1 Jan 2024
+|comment= Minimum wages ranged from a low of {{Currency|8,134.08|HNL}} per month, L&nbsp;50.83 per hour to {{Currency|16,856.24|HNL|linked=no}} per month, {{Currency|105.35|HNL|linked=no}} per hour.<ref name="CRHRP-2012"/><ref name=wageindicator/><ref>{{cite web|url=https://www.laprensa.hn/economia/honduras-ajuste-salarial-empresas-pagaran-salario-minimo-EM17827210#google_vignette|title=Nuevo salario mínimo para 2024|language=es|publisher=LaPrensa.hn|access-date=9 Nov 2010}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Hong Kong|42.1|hourly|40|1 May 2025
+|comment= {{Currency|42.1|HKD}} (US$5.4) per hour is the [[minimum wage in Hong Kong]].<ref>{{cite web |url=http://www.labour.gov.hk/eng/news/mwo.htm |title=Labour Department – Employee Rights and Benefits |publisher=Labour.gov.hk |access-date=4 Mar 2014 |archive-date=8 Feb 2014 |archive-url=https://web.archive.org/web/20140208020514/http://www.labour.gov.hk/eng/news/mwo.htm |url-status=live }}</ref>|workweek citation=}}
+
+{{List of minimum wages by country/Row|Hungary|232000|monthly|40|1 Jan 2023
+|comment= {{Currency|232,000|HUF}} (US${{to USD|232000|HUN|round=yes}}) per month for unskilled labor, {{Currency|296,400|HUF|linked=no}} (US${{to USD|296400|HUN|round=yes}}) per month for skilled labor.<ref>{{cite news | url=https://www.reuters.com/markets/europe/hungary-government-employers-agree-16-minimum-wage-hike-2023-2022-12-15/ | title=Hungary government, employers agree on 16% minimum wage hike for 2023 | newspaper=Reuters | date=15 Dec 2022 | access-date=2023-04-27 | archive-date=2023-04-01 | archive-url=https://web.archive.org/web/20230401212333/https://www.reuters.com/markets/europe/hungary-government-employers-agree-16-minimum-wage-hike-2023-2022-12-15/ | url-status=live }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Iceland}}
+| Unlike the other Scandinavian countries, minimum wages are negotiated in various collectively bargained agreements and applied automatically to all employees in those occupations, regardless of union membership; while the agreements can be either industry- or sector-wide, and in some cases firm-specific, the minimum wage levels are occupation-specific.<ref name="CRHRP-2012" /><ref name="eurostat" />
+|
+|
+| 40
+|17.45
+|
+|
+| 3 Dec 2022  (conversion rate, 1 Sep 2023)
+
+{{List of minimum wages by country/Row|India|960|weekly|48|2015
+|comment= Though stipulated [[Minimum Wages Act 1948|by law]], it varies from {{Currency|160|INR}} (US${{to USD|160|IND|round=no}}) per day in [[Bihar]], to {{Currency|348|INR|linked=no}}/day (US${{to USD|348|IND|round=no}}) in [[Mumbai]] (2017),<ref name="tiss2017">{{cite web |title=Interview with Mr. Milind Ranade (Kachra Vahtuk Shramik Sangh Mumbai) |url=http://wastemumbai.tiss.edu/interviews/ |website=TISS Wastelines official website |publisher=Tata Institute of Social Sciences |access-date=20 Mar 2019 |archive-url=https://web.archive.org/web/20190327101203/http://wastemumbai.tiss.edu/interviews/ |archive-date=27 Mar 2019 |url-status=dead }}</ref> to {{Currency|750|INR|linked=no}} (US${{to USD|750|IND|round=yes}}) per day in Kerala. State governments set a separate minimum wage for agricultural workers.<ref name="CRHRP-2012"/> The minimum wages are set according to Minimum Wages Act, 1948.<ref>{{cite web|last=Wage Indicator Foundation|title=Minimum Wages India 2012 – Current Minimum Wage Rate India|url=http://www.paycheck.in/main/salary/minimumwages|access-date=10 Dec 2012|archive-date=26 Dec 2018|archive-url=https://web.archive.org/web/20181226013937/https://paycheck.in/salary/minimumwages|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Indonesia|2920000|monthly|40|1 Feb 2020
+|comment= Established by provincial and district authorities, which vary by province, district, and sector; the lowest minimum wage is in the province of Yogyakarta at {{Currency|1,704,608|IDR}} (US$121) per month and the highest is in Jakarta at {{Currency|4,276,349|IDR|linked=no}} (US$303) per month.<ref name="wageindicator"/><ref>{{cite web | url=https://ekonomi.bisnis.com/read/20200505/12/1236595/data-bps-rata-rata-upah-buruh-februari-2020-rp292-juta | title=DATA BPS: Rata-Rata Upah Buruh Februari 2020 Rp2,92 Juta {{pipe}} Ekonomi | date=5 May 2020 | access-date=15 October 2020 | archive-date=25 Nov 2020 | archive-url=https://web.archive.org/web/20201125044121/https://ekonomi.bisnis.com/read/20200505/12/1236595/data-bps-rata-rata-upah-buruh-februari-2020-rp292-juta | url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Iran|6114860|monthly|44|20 Mar 2024
+|workweek citation=<ref>{{cite book|url=https://books.google.com/books?id=LPWzmZDCu40C&q=iran+%22work+week%22&pg=PA53|title=Iran Company Laws and Regulations Handbook|access-date=3 June 2013|isbn=978-1-4330-6999-4|publisher=International Business Publications|date=3 Mar 2008}}{{Dead link|date=March 2024|bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|comment= 7,308,284 [[Iranian toman|toman]]s (equal to {{Currency|94,661,840|IRR}}), and to US$145 as of 2024) per month effective on the 2024 [[Nowruz|Persian New year]] ({{Currency|1,135,942,080|IRR}} per annum);<ref>{{cite news | url=https://www.eghtesadnews.com/fa/tiny/news-562397 | title=اعلام میزان افزایش حقوق کارگران در سال 1403 | newspaper=اقتصادنیوز | date=Mar 2024 }}</ref> set annually for each industrial sector and region. The standard workweek is 44 hours, and any work over 48 entitles the worker to overtime.<ref name="CRHRP-2012"/>}}
+
+{{List of minimum wages by country/Row|Iraq|250000|monthly|40|2014|comment={{Currency|250,000|IQD}} (US$214) per month.<ref name="CRHRP-2012"/>|workweek citation=}}
+
+{{List of minimum wages by country/Row|Ireland|15.76|hourly|39|1 Jan 2025|comment=[[Euro|€]]14.15 (US${{To USD round|13.5|EUR|round=no}}) per hour, with sub-minimal rates for those aged 19 €12.74 (90% minimum), aged 18 €11.32 (80% minimum) and for those under the age of 18 €9.91 (70% of minimum)<ref>{{cite web|url=https://www.citizensinformation.ie/en/employment/employment-rights-and-conditions/pay-and-employment/minimum-wage/|title=Minimum wage: Current minimum rates of pay|work=Citizens Information|date=1 Jan 2025|access-date=25 Aug 2025|archive-date=3 Feb 2020|archive-url=https://web.archive.org/web/20200203153839/https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/pay_and_employment/pay_inc_min_wage.html|url-status=live}}</ref>
+
+Eurostat calculates the monthly rate for Ireland as (hourly rate x 39 hours x 52 weeks) / 12 months.<ref>{{cite web|url=http://ec.europa.eu/eurostat/cache/metadata/en/earn_minw_esms.htm#comparability|title=Minimum wages (earn_minw)|publisher=[[eurostat]]|access-date=1 Jan 2016|archive-date=29 Dec 2015|archive-url=https://web.archive.org/web/20151229181331/http://ec.europa.eu/eurostat/cache/metadata/en/earn_minw_esms.htm#comparability|url-status=live}}</ref>}}
+|-
+| {{flag|Isle of Man}}
+| £8.25[[Pound sterling|&nbsp;stg]] per hour (US$10.18) for those aged 18+ <br /> £6.15 per hour (US$7.59) for those aged under 18 <br /> £7.30 per hour (US$9.01) for development workers.<ref>{{cite web |url=https://www.gov.im/categories/working-in-the-isle-of-man/employment-rights/minimum-wage/ |title=Current Minimum Wage Rates |date=1 Jan 2020 |access-date=24 Apr 2017 |archive-date=24 Mar 2017 |archive-url=https://web.archive.org/web/20170324084440/https://www.gov.im/categories/working-in-the-isle-of-man/employment-rights/minimum-wage/ |url-status=live }}</ref>
+|
+|
+|
+|
+|
+|
+| 1 Oct 2019{{List of minimum wages by country/Row|Israel|6443.85|monthly|42|1 Apr 2026
+|comment=₪6,443.85 [[Israeli new shekel|ILS]] (US${{to USD|6443.85|ISR|round=yes}}) per month; or ₪35.40 ILS (US${{to USD|35.40|ISR|round=no}}) per hour.<ref>{{cite web | url=https://www.gov.il/he/pages/minimum-wage?chapterIndex=2 | title=משרד העבודה | access-date=2026-04-01 }}</ref>|workweek citation=}}
+|-
+| {{flag|Italy}}
+| None; instead set generally through collective bargaining agreements on a sector-by-sector basis.<ref name="CRHRP-2012" /><ref name="kpmg">{{cite web|url=http://labour.govmu.org/English/Documents/Minimum%20Wage%20Web.pdf|title=Minimum wage requirements within Europe in the context of posting of workers Minimum wage requirements within Europe in the context of posting of workers|author=KPMG in Romania|year=2019|access-date=2019-07-20|archive-date=2018-09-21|archive-url=https://web.archive.org/web/20180921011220/http://labour.govmu.org/English/DOCUMENTS/MINIMUM%20WAGE%20WEB.PDF|url-status=dead}}</ref>
+|
+|
+| 40
+|
+|
+|
+| {{dts|2019}}
+
+{{List of minimum wages by country/Row|Jamaica|325|hourly|40|1 Apr 2023
+|comment= {{Currency|325|JMD}} (US${{to USD|325|JAM|round=yes}}) per hour.<ref>{{cite news|title=Jamaican government to increase minimum wage by 44%|url=https://apnews.com/article/jamaica-minimum-wage-increase-9c96f8244aaae85ea3f00fad6487fde2|access-date=24 Apr 2023|date=17 Mar 2023|archive-date=27 Apr 2023|archive-url=https://web.archive.org/web/20230427130801/https://apnews.com/article/jamaica-minimum-wage-increase-9c96f8244aaae85ea3f00fad6487fde2|url-status=live}}</ref> {{Currency|52000|JMD}} (US${{to USD|52000|JAM|round=yes}}) per month
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Japan|1023|hourly|40|31 Mar 2026
+|comment=Ranges from {{Currency|1,023|JPY}}–{{Currency|1,226|JPY|linked=no}} per hour (US$6.70-US$8.03); varies on a prefectural and industry basis.<ref>{{cite web|url=https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/minimumichiran/index.html|script-title=ja:地域別最低賃金の全国一覧|trans-title=National List of Regional Minimum Wages|language=ja|access-date=10 Oct 2025|archive-date=21 Sep 2025|archive-url=https://web.archive.org/web/20250921003515/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/minimumichiran/index.html|url-status=live}}</ref><ref>{{cite web|script-title=ja:特定最低賃金の全国一覧|trans-title=National List of Minimum Wages by industry|language=ja|access-date=10 Oct 2025|url=https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/chingin/newpage_43846.html|date=31 Dec 2024|archive-date=18 Sep 2025|archive-url=https://web.archive.org/web/20250918071108/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/chingin/newpage_43846.html|url-status=live}}</ref>
+|workweek citation=}}
+|-
+| {{flag|Jersey}}
+| £8.32 [[Pound sterling|stg]] per hour (US$10.27) for those aged 18+ <br /> £7.28 stg per hour (US$8.99) for trainees year 2.<br />£6.02 stg per hour (US$7.43) for trainees year 1.<ref>{{cite web |url=https://www.gov.je/Working/EmploymentRelations/Pages/MinimumWage.aspx |title=Minimum Wage |date=1 Jan 2020 |access-date=24 Apr 2020 |archive-date=3 Aug 2020 |archive-url=https://web.archive.org/web/20200803092609/https://www.gov.je/Working/EmploymentRelations/Pages/MinimumWage.aspx |url-status=live }}</ref>
+|
+|
+|
+|
+|
+|
+| 1 Apr 2020
+{{List of minimum wages by country/Row|Jordan|320|monthly|48|1 Jan 2025
+|comment= minimum wage 290 JOD ($409) per month
+|<nowiki>workweek citation=}}</nowiki>|<nowiki>workweek citation=}}</nowiki>
+
+<nowiki>{{List of minimum wages by country/Row|Kenya|6415.55|monthly|52|1 May 2017</nowiki>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Kiribati|1.30|hourly|40|1 Nov 2016
+|workweek citation=
+|comment= $A&nbsp;1.30 per hour for local businesses and companies, while the minimum wage for overseas-funded projects is $A&nbsp;3.00 an hour<ref name="CRHRP-2012"/><ref>{{cite web | url=http://www.islandlifemag.com/latest-news-pacific/kiribati-government-sets-new-minimum-wage/ | title=Kiribati Government sets new Minimum Wage | date=2 Nov 2016 | access-date=1 May 2018 | archive-date=2 May 2018 | archive-url=https://web.archive.org/web/20180502064554/http://www.islandlifemag.com/latest-news-pacific/kiribati-government-sets-new-minimum-wage/ | url-status=live }}</ref>
+}}
+|-
+| {{flag|North Korea}}
+| Averaging {{Currency|5,000 – 10,000|KPW|passthrough=yes}} (US$5.5 – US$11.1) per day.<ref name="CRHRP-2008" />
+|
+|
+|
+|
+|
+|
+| {{dts|2014}}
+
+{{List of minimum wages by country/Row|South Korea|11544|hourly|40|1 Jan 2023
+|workweek citation=
+|comment= {{Currency|9,620|KRW}} (US$7.29 as of 2 Feb 2023) per hour is the nominal [[minimum wage in South Korea]].<ref>{{cite web|url=http://www.minimumwage.go.kr/|title=Minimum Wage Council – Republic of Korea|access-date=29 Dec 2018|archive-date=11 Aug 2019|archive-url=https://web.archive.org/web/20190811124059/http://www.minimumwage.go.kr/|url-status=live}}</ref>}}
+
+{{List of minimum wages by country/Row|Kosovo|170|monthly|40|17 Aug 2011
+|workweek citation=
+|comment=€170 (US$224) per month for workers between 35 and 65 years of age; €130 (US$150) for workers under 35 years of age.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.kryeministri-ks.net/repository/docs/Vendimet_e_mbledhjes_se_33-te_te_Qeverise_2011.pdf |title=Republika e Kosoves |publisher=Kryeministri-ks.net |access-date=4 Mar 2014 |archive-date=27 Aug 2016 |archive-url=https://web.archive.org/web/20160827203154/http://www.kryeministri-ks.net/repository/docs/Vendimet_e_mbledhjes_se_33-te_te_Qeverise_2011.pdf |url-status=usurped }}</ref>
+}}
+
+{{List of minimum wages by country/Row|Kuwait|60|monthly|48|14 Apr 2010
+|comment= {{Currency|60|KWD}} (US$216) per month.<ref name="CRHRP-2012"/><ref>{{cite news |url=http://in.reuters.com/article/2010/04/14/idINIndia-47693120100414 |title=Kuwait sets minimum wage for first time |publisher=In.reuters.com |date=14 Apr 2010 |access-date=4 Mar 2014 |archive-date=6 Dec 2013 |archive-url=https://web.archive.org/web/20131206092754/http://in.reuters.com/article/2010/04/14/idINIndia-47693120100414 |url-status=dead }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Kyrgyzstan |2460|monthly|40|1 Jan 2024
+|comment= {{Currency|2,460|KGS}} (US$28) per month, nominally; used for administrative purposes. Will be raised to 2,865 som in 2025.<ref>{{cite web|title=В 2025 году минимальная зарплата кыргызстанцев составит 2 865 сомов|date=13 September 2024 |url=https://economist.kg/ekonomika/2024/09/13/v-2025-ghodu-minimalnaia-zarplata-kyrghyzstantsiev-sostavit-2-865-somov/|accessdate=4 November 2024}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Laos|1400000|monthly|48|2014
+|comment= {{Currency|800,000|LAK}} (US$100) per month; additionally, employers were required to pay a {{Currency|30,000|LAK|linked=no}} (US$3.74) meal allowance per day. The minimum wage for civil servants and state enterprise employees was last increased to {{Currency|1,400,000|LAK|linked=no}} (US$170) per month.<ref name="CRHRP-2012"/><ref name="LAOMIN-2012">{{cite web|url=http://laovoices.com/private-sector-to-pay-higher-minimum-wage-from-Jan/ |archive-url=https://archive.today/20130127172714/http://laovoices.com/private-sector-to-pay-higher-minimum-wage-from-Jan/ | title= Private sector to pay higher minimum wage from Jan, Lao Voices | url-status=dead |archive-date=27 January 2013 |access-date=15 July 2012 }}</ref><ref>{{cite web |url=http://www.vientianetimes.org.la/FreeContent/FreeConten_Minimum.htm |title=Vientiane Times |publisher=Vientiane Times |date=1 Jan 2012 |access-date=4 Mar 2014 |archive-date=3 Mar 2016 |archive-url=https://web.archive.org/web/20160303234420/http://www.vientianetimes.org.la/FreeContent/FreeConten_Minimum.htm |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row
+| Latvia
+| 780
+| monthly
+| 40
+| 1 Jan 2023
+| comment=€780 (US${{to USD|898|EUR|round=yes}}) per month.<ref name="Lafingo">{{cite web
+  |title=Minimālā alga Latvijā 2026. gadā
+  |url=https://www.lafingo.com/lv/minimala-alga-latvija/
+  |website=Lafingo
+  |date=1 January 2026
+ |access-date=4 August 2026
+  |language=lv
+  }}</ref>
+| workweek citation=<ref name="Lafingo" />
+}}
+
+{{List of minimum wages by country/Row|Lebanon|675000|monthly|48|1 Apr 2024
+|comment= {{Currency|18,000,000|LBP}} (US$200) per month, doubling the minimum wage of {{Currency|9,000,000|LBP}} set the year before, on 18 Apr 2023.<ref name="CRHRP-2012"/><ref>{{cite news|title=Cabinet approves doubling the minimum wage for private sector employees|url=https://today.lorientlejour.com/article/1409268/cabinet-approves-doubling-the-minimum-wage-for-private-sector-employees.html|website=L'Orient Today|date=4 April 2024|accessdate=9 June 2024}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Lesotho|1178|monthly|45|2014
+|comment= [[Lesotho loti|M]]&nbsp;1,178 (US$102) per month to M&nbsp;1,285 (US$112) per month; varied by sector.<ref name="CRHRP-2012"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Liberia|0.31|hourly|48|2014
+|comment= {{Currency|15|LRD}} (US$0.31) per hour not exceeding 8 hours per day, excluding benefits, for unskilled laborers; {{Currency|5,600|LRD|linked=no}} (US$114) per month for civil servants.<ref name="CRHRP-2012"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Libya|450|monthly|40|1 Mar 2011
+|comment= {{Currency|450|LYD}} (US$325) per month; the government heavily subsidizes rent and utilities.<ref name="CRHRP-2012"/><ref>{{cite news |last=Golovnina |first=Maria |url=https://www.reuters.com/article/2011/02/28/us-libya-shortages-idUSTRE71R7GY20110228 |title=Libyans grapple with soaring food prices, queues |publisher=Reuters |date=28 Feb 2011 |access-date=4 Mar 2014 |archive-date=26 Nov 2014 |archive-url=https://web.archive.org/web/20141126005348/http://www.reuters.com/article/2011/02/28/us-libya-shortages-idUSTRE71R7GY20110228 |url-status=live }}</ref><ref>{{cite web |url=http://ssf.ly/wp-content/uploads/2012/04/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AD-.%D8%A7%D8%AE%D8%B1-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84.pdf |title=?? |publisher=Ssf.ly |access-date=4 Mar 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131017170906/http://ssf.ly/wp-content/uploads/2012/04/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AD-.%D8%A7%D8%AE%D8%B1-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84.pdf |archive-date=17 Oct 2013 }}</ref><ref>{{cite web |url=http://www.ssa.gov/policy/docs/progdesc/ssptw/2012-2013/africa/libya.html |title=Social Security Programs Throughout the World: Africa, 2013 – Libya |publisher=Ssa.gov |access-date=4 Mar 2014 |archive-date=24 Aug 2019 |archive-url=https://web.archive.org/web/20190824123932/https://www.ssa.gov/policy/docs/progdesc/ssptw/2012-2013/africa/libya.html |url-status=live }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Liechtenstein}}
+| None<ref name="CRHRP-2012" />
+|
+|
+| 48
+|
+|
+|
+| {{dts|2014}}
+
+{{List of minimum wages by country/Row|Lithuania|7.05|hourly|40|1 Jan 2025
+|comment= €1,153 (US${{to USD|1153|EUR|round=yes}}) per month, €7.05 (US${{to USD|7.05|EUR|round=no}}) per hour for unskilled labor.<ref name="vdilrv:0">{{Cite web |title= Nuo 2026 m. sausio 1 d. – didesnis minimalus darbo užmokestis |url=https://vdi.lrv.lt/lt/naujienos/nuo-2026-m-sausio-1-d-didesnis-minimalus-darbo-uzmokestis-1xW/ |website=vdi.lrv.lt}}</ref>}}
+
+{{List of minimum wages by country/Row|Luxembourg|13.05|hourly|40|1 Apr 2023
+|comment=€2,508.24 (US${{to USD|2508.24|EUR|round=yes}}) per month, €14.50 (US${{to USD|14.50|EUR|round=no}}) per hour for unskilled workers over 18; increased by 20% for a skilled employee; decreased by 20% to 25% in the case of an adolescent worker.<ref>{{Cite web|url=https://wageindicator.org/salary/minimum-wage/luxemburg/|title=Minimum wage - Luxembourg|website=wageIndicator.org|accessdate=Apr 2, 2023|archive-date=Sep 1, 2018|archive-url=https://web.archive.org/web/20180901220001/https://wageindicator.org/salary/minimum-wage/luxemburg/|url-status=live}}</ref><ref name="eurostat"/><ref>{{cite web |url=http://www.mss.public.lu/publications/parametres_sociaux/index.html |title=Ministère de la Sécurité Sociale du Grand-Duché de Luxembourg – Paramètres sociaux |publisher=Mss.public.lu |access-date=4 Mar 2014 |archive-date=27 Aug 2019 |archive-url=https://web.archive.org/web/20190827062841/http://www.mss.public.lu/publications/parametres_sociaux/index.html |url-status=dead }}</ref><ref>{{cite web|url=http://www.guichet.publicser.lu/entreprises/en/ressources-humaines/remuneration/paiement-remunerations/salaire/ |title=Social minimum wage and indexation of salaries – Entreprises // Luxembourg |publisher=Guichet.public.lu |access-date=4 Mar 2014}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Macau|6656|monthly|40|1 Nov 2020
+|comment= {{Currency|6,656|MOP}} (US$833) per month.<ref>{{Cite web|date=17 Apr 2020|title=Lawmakers pass minimum wage bill, excluding maids, disabled|url=https://macaonews.org/lawmakers-pass-minimum-wage-bill-excluding-maids-disabled/|access-date=4 Jan 2021|website=Macao News|language=en-US|archive-date=7 Jan 2021|archive-url=https://web.archive.org/web/20210107153724/https://macaonews.org/lawmakers-pass-minimum-wage-bill-excluding-maids-disabled/|url-status=dead}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Madagascar|674.60|hourly|41|1 Jan 2015
+|comment= {{Currency|133,013.40|MGA}} (US$30.82) per month, {{Currency|767.40|MGA|linked=no}}. per hour for non-agricultural workers; {{Currency|134,920|MGA|linked=no}} (US$31.26) per month, 674.60&nbsp;Ar. per hour for agricultural workers.<ref name="CRHRP-2012"/><ref name=wageindicator/>
+|workweek citation=<ref>The standard workweek was 40 hours in nonagricultural and service industries and 42.5 hours in the agricultural sector.</ref>}}
+
+{{List of minimum wages by country/Row|Malawi|4126.2|weekly|48|1 Jan 2016
+|comment= {{Currency|687.70|MWK}}(US$0.40) per day.<ref name="CRHRP-2012"/><ref name="wageindicator"/><ref>{{cite web |url=http://www.nyasatimes.com/2012/07/27/malawi-increase-minimum-wage-rate-over-100-percent/ |title=Malawi increase minimum wage rate over 100 percent {{pipe}} Malawi Nyasa Times – Malawi breaking news in Malawi |publisher=Nyasatimes.com |access-date=4 Mar 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140306014608/http://www.nyasatimes.com/2012/07/27/malawi-increase-minimum-wage-rate-over-100-percent/ |archive-date=6 Mar 2014 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Malaysia|1500|monthly|45|1 May 2022
+|comment= {{Currency|1,500|MYR}} (US$336) per month.<ref>{{cite web |url=https://althr.my/resources/minimum-wage-2023-deadline-employers-malaysia |title=Minimum Wage 2023: What's the Deadline for Employers in Malaysia? |access-date=12 Jan 2023 |archive-date=9 Feb 2023 |archive-url=https://web.archive.org/web/20230209003732/https://althr.my/resources/minimum-wage-2023-deadline-employers-malaysia |url-status=live }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Maldives}}
+| None; {{Currency|3,100|MVR}} (US$242) per month in the government sector.<ref name="CRHRP-2012" />
+|
+|
+| 48
+|
+|
+|
+| {{dts|2014}}
+
+{{List of minimum wages by country/Row|Mali|28465|monthly|48|2014
+|comment= {{Currency|28,465|XOF}} (US$57), supplemented by a required package of benefits, including social security and health care.<ref name="CRHRP-2012"/>
+|workweek citation= <ref>The legal workweek is 40 hours, except for work in the agricultural sector. The legal workweek for agricultural employees ranges from 42 to 48 hours, depending on the season.</ref>}}
+
+{{List of minimum wages by country/Row|Malta|9508|annually|40|1 Jan 2022
+|comment= €792.3 (US$767) per month.<ref>{{cite web|url=http://countryeconomy.com/national-minimum-wage/malta|archive-url=https://web.archive.org/web/20130511065741/http://countryeconomy.com/national-minimum-wage/malta|url-status=live|archive-date=May 11, 2013|title=National Minimum Wage National Standing Order|publisher=Justiceservices.gov.mt|access-date=4 Mar 2014}}</ref><ref>{{cite web | url=https://countryeconomy.com/national-minimum-wage/malta | title=Malta National Minimum Wage - NMW 2022 | access-date=2022-09-25 | archive-date=2022-09-25 | archive-url=https://web.archive.org/web/20220925113450/https://countryeconomy.com/national-minimum-wage/malta | url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Marshall Islands|2|hourly|40|6 Mar 1986
+|comment= [[United States dollar|US$]]2 per hour for government and private sector employees.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=MHL&p_classification=12.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY |title=NATLEX |publisher=Ilo.org |date=25 Aug 2011 |access-date=4 Mar 2014 |archive-date=4 Mar 2014 |archive-url=https://web.archive.org/web/20140304163544/http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=MHL&p_classification=12.02&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY |url-status=live }}</ref>
+|workweek citation=<ref>No legal standard workweek; 40 hours per week has been used for comparison purposes.</ref>}}
+
+{{List of minimum wages by country/Row|Mauritania|25.962|hourly|40|2023
+|comment= {{Currency|25.962|MRU}} (US${{to USD|25.962|MRT|round=no}}) per hour for general minimum wage rates.<ref name=MR:2023>{{cite act |title=مرسوم يتضمن رفع الأجر الأدنى المضمون بين المهن |trans-title=Decree raising the Guaranteed Interprofessional Minimum Wage |prefix=No. |number=2022-187 |articletype=Art. |article=1 |date=20 December 2022 |url=https://www.msgg.gov.mr/sites/default/files/2023-03/J.O.-1528A-DU-28.02.2023.pdf}}</ref><br>{{Currency|24.612|MRU}} (US${{to USD|24.612|MRT|round=no}}) per hour for the agriculture sector.<ref name=MR:2023b>{{cite act |title=مرسوم يتضمن رفع الأجر الأدنى المضمون بين المهن |trans-title=Decree raising the Guaranteed Interprofessional Minimum Wage |prefix=No. |number=2022-187 |articletype=Art. |article=2 |date=20 December 2022 |url=https://www.msgg.gov.mr/sites/default/files/2023-03/J.O.-1528A-DU-28.02.2023.pdf}}</ref>
+|workweek citation=<ref name=MR:2023/><ref name=MR:2023b/>}}
+
+{{List of minimum wages by country/Row|Mauritius|2035|weekly|45|2019
+|comment= {{Currency|2,035|MUR}} (US$56.77)  per week for an unskilled worker in the [[Export Processing Zone]](EPZ); {{Currency|2,035|MUR|linked=no}} per week for an unskilled factory worker outside the EPZ plus a "salary compensation" of {{Currency|90|MUR|linked=no}} per week; set by the government by sector, and increased each year based on the inflation rate. Both categories of workers also benefit from a "special allowance" from the revenue agency which means that all full-time workers in Mauritius earn a minimum wage of {{Currency|2,250|MUR|linked=no}} (US$62.76) per week or {{Currency|9,000|MUR|linked=no}} (US$251.05) per month <ref>{{Cite web| url=https://www.lexpress.mu/article/322366/salaire-minimum-montant-base-fixe-rs-8-140| title=Salaire minimum: Le montant de base fixé à Rs 8 140| date=8 Dec 2017| access-date=20 July 2019| archive-date=20 July 2019| archive-url=https://web.archive.org/web/20190720061953/https://www.lexpress.mu/article/322366/salaire-minimum-montant-base-fixe-rs-8-140| url-status=live}}</ref><ref>{{cite web|url=http://labour.govmu.org/English/Documents/Minimum%20Wage%20Web.pdf | archive-url=https://web.archive.org/web/20180304123354/http://labour.govmu.org/English/Documents/Minimum%20Wage%20Web.pdf |title=Introduction of a National Minimum Wage for the Republic of Mauritius|author=KPMG in Romania|year=2017|archive-date=Mar 4, 2018}}</ref><ref name="CRHRP-2012"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Mexico|8480|monthly|48|2025
+|comment= {{Currency|278.80|MXN}} (US${{to USD|278.80|MEX|round=no}}) per day; Mex$419.88 (US${{to USD|419.88|MEX|round=no}}) per day on the Free Zone of the Northern Border. Day off is paid according to Mexican labor legislation so the total amount of paid hours is 56 (Art. 69) <ref name="mex">{{cite journal|access-date=5 Dec 2024|date=5 Dec 2024|periodical=Expansion|title=Salario mínimo aumentará 12% en 2025|url=https://expansion.mx/economia/2024/12/04/aumento-salario-minimo-2025-sheinbaum}}<!-- auto-translated by Module:CS1 translator --></ref>
+|workweek citation=}}
+{{List of minimum wages by country/Row|Moldova|4000|monthly|40|1 Jan 2023
+|comment= {{Currency|4,000|MDL}} (US$222) per month in the private sector.<ref>{{cite web |url=https://www.orbitax.com/news/archive.php/Moldova-Increases-Minimum-Mont-51561 |title=Moldavia increases minimum salary for 2023 |publisher=orbitax.com |access-date=19 Apr 2023 |archive-date=27 Apr 2023 |archive-url=https://web.archive.org/web/20230427133523/https://www.orbitax.com/news/archive.php/Moldova-Increases-Minimum-Mont-51561 |url-status=live }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Monaco}}
+| €1,779.82 (US${{to USD|1779.82|EUR|round=yes}}) per month, or €10.53 (US${{to USD|10.53|EUR|round=no}}) per hour; same as the French minimum wage, plus a 5% adjustment.<ref>{{Cite web|url=https://monservicepublic.gouv.mc/en/themes/employment/employees/contracts-and-pay/wages-in-the-principality|title=Wages in the Principality|website=monservicepublic.gouv.mc|accessdate=Apr 2, 2023|archive-date=Apr 2, 2023|archive-url=https://web.archive.org/web/20230402163148/https://monservicepublic.gouv.mc/en/themes/employment/employees/contracts-and-pay/wages-in-the-principality|url-status=live}}</ref>
+| {{nts|24092}}
+|
+| 39
+| {{nts|11.88}}
+|
+| 17%<ref>{{cite web |url=http://data.worldbank.org/indicator/NY.GDP.PCAP.CD |title=GDP per capita (current US$) {{pipe}} Data {{pipe}} Table |publisher=Data.worldbank.org |access-date=4 Mar 2014 |archive-date=11 May 2011 |archive-url=https://web.archive.org/web/20110511123254/http://data.worldbank.org/indicator/NY.GDP.PCAP.CD |url-status=live }}</ref>
+| 1 Jan 2019
+
+{{List of minimum wages by country/Row|Mongolia|792000|monthly|40|1 Apr 2025
+|comment= {{Currency|792,000|MNT}} (US$229) per month.<ref>{{Cite web|url=https://news.mn/en/801309/#:~:text=The%20current%20minimum%20wage%20in,income%20for%20the%20tax%20year.|title=Mongolia raises the minimum wage|website=news.mn|date=18 Dec 2024|access-date=18 Dec 2024|archive-date=27 December 2024|archive-url=https://web.archive.org/web/20241227131122/https://news.mn/en/801309/|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Montenegro|450|monthly|40|1 Jan 2022
+|comment= €450 (US$511) netto per month.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.poreskauprava.gov.me/vijesti/122181/OBAVJEsTENJE.html?alphabet=cyr |title=Детаљи |publisher=Poreskauprava.gov.me |access-date=4 Mar 2014 |archive-date=26 Aug 2018 |archive-url=https://web.archive.org/web/20180826113723/http://www.poreskauprava.gov.me/vijesti/122181/OBAVJEsTENJE.html?alphabet=cyr |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Morocco|691.10|weekly|44|1 July 2015
+|comment= {{Currency|3,500|MAD}} (US$349) per month<ref>{{Cite web|url=https://industries.ma/smig-smag-la-revalorisation-entre-en-vigueur-ce-mois/|archiveurl=https://web.archive.org/web/20160223165929/http://lavieeco.com/news/economie/salaires-entre-50-et-208-dh-de-plus-par-mois-pour-150-000-fonctionnaires-29799.html|url-status=dead|title=Salaires : Entre 50 et 208 DH de plus par mois pour 150 000 fonctionnaires - La Vie éco|archivedate=Feb 23, 2016|accessdate=Apr 2, 2023}}</ref> in public sector, {{Currency|3,111|MAD|linked=no}} (US$310) per month in private sector,<ref>{{Cite web|url=https://medias24.com/2022/09/01/hausse-immediate-du-smig-de-5-et-du-smag-de-10/|archiveurl=https://web.archive.org/web/20160503171754/http://www.usinenouvelle.com/article/maroc-a-la-veille-de-l-augmentation-du-smig-faible-progression-des-salaires-dans-le-secteur-prive-en-2014.N333381|url-status=dead|title=Maroc : à la veille de l'augmentation du SMIG, faible progression des salaires dans le secteur privé en 2014|date=Sep 1, 2023|archivedate=May 3, 2016|accessdate=Apr 2, 2023|via=www.usinenouvelle.com}}</ref> 84.37 Dh, (US$8.42) per day for agricultural workers.<ref>{{Cite web |url=https://industries.ma/smig-smag-la-revalorisation-entre-en-vigueur-ce-mois// |title=SMAG : minimum agriculture wage |date=Sep 2022 |access-date=2023-06-21 |archive-date=2023-06-21 |archive-url=https://web.archive.org/web/20230621084547/https://industries.ma/smig-smag-la-revalorisation-entre-en-vigueur-ce-mois/ |url-status=live }}</ref>
+|workweek citation= <ref>The law provides for a 44- to 48-hour maximum workweek.</ref>}}
+
+{{List of minimum wages by country/Row|Mozambique|4941.68|monthly|40|1 April 2024
+|comment= Set for Eight different economic sectors; ranges from {{Currency|4,941.68|MZN}} (US$78) per month in the public sector, to {{Currency|17,881.32|MZN|linked=no}} (US$281) per month in the financial sector.<ref>{{Cite web|author=松永篤(Matsunaga Atsushi)|url=https://www.jetro.go.jp/biznews/2024/06/c4ce2b7a4bea90c4.html|title=2024年4月から適用の法定最低賃金を発表（モザンビーク）(Legal minimum wage to be implemented from April 2024 announced(Mozambique)|publisher =[[:w:Japan External Trade Organization]]
+|date =5 June 2024|accessdate=6 June 2024}}</ref><ref name="CRHRP-2012"/><ref name="wageindicator"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Myanmar|450|hourly|44|1 Sep 2015
+|comment= {{Currency|3,600|MMK}} per day, {{Currency|450|MMK|linked=no}} per hour.<ref name="CRHRP-2012"/><ref>{{cite web|url=http://qz.com/491250/myanmars-new-minimum-wage-about-35-cents-an-hour-is-too-steep-for-some-chinese-owned-factories/ |title=At 35 cents an hour, Myanmar's new minimum wage is too steep for some Chinese-owned factories |date=31 Aug 2015 |access-date=1 Sep 2015 |url-status=live |archive-url=https://web.archive.org/web/20160810091333/http://qz.com/491250/myanmars-new-minimum-wage-about-35-cents-an-hour-is-too-steep-for-some-chinese-owned-factories/ |archive-date=10 Aug 2016 }}</ref><ref>{{Cite web|url=https://www.reuters.com/article/2015/08/29/us-myanmar-economy-wages-idUSKCN0QY0A620150829|title=Myanmar sets $2.80 daily minimum wage in bid to boost investment|website=[[Reuters]]|date=29 August 2015 |accessdate=Apr 2, 2023|archive-date=Nov 10, 2015|archive-url=https://web.archive.org/web/20151110043831/http://www.reuters.com/article/2015/08/29/us-myanmar-economy-wages-idUSKCN0QY0A620150829|url-status=live}}</ref>
+|workweek citation=}}
+|-
+| {{flag|Namibia}}
+| None; the mining, construction, security and agricultural sectors set basic levels of pay through collective bargaining.<ref name="CRHRP-2012" />
+|
+|
+| 45
+|
+|
+|
+| {{dts|2014}}
+|-
+| {{flag|Nauru}}
+| None; there is a graduated salary system for public service officers and employees, none for private-sector workers.<ref name="CRHRP-2012" />
+|
+|
+| 40<ref>By regulation the workweek in both the public and private sectors was 35 hours for office workers and 40 hours for manual laborers.</ref>
+|
+|
+|
+| {{dts|2014}}
+
+{{List of minimum wages by country/Row|Nepal|19550|monthly|48|July 2025
+|comment= {{Currency|19,550|NPR}} (US${{to USD|19550|NPL|round=no}}) per month<ref>{{Cite web |date=2025-05-04 |title=Minimum Wage in Nepal 2025|url=https://frontline.com.np/blog/minimum-wage-in-nepal/ |website=Frontline |language=en }}</ref>}}
+
+{{List of minimum wages by country/Row|Netherlands|2549.73|monthly|40|1 Jan 2026
+|comment= €2,549.73 (US${{to USD|2549.73|EUR|round=yes}}) per month, and €14.71 (US${{to USD|14.71|EUR}}) per hour for persons 21 and older; between 30–80% (as low as €4.41 per hour) of this amount for persons aged 15–20.<ref>{{cite web|url=https://www.rijksoverheid.nl/onderwerpen/minimumloon/bedragen-minimumloon/bedragen-minimumloon-2026|title=Bedragen minimumloon 2026|publisher=Rijksoverheid|date=1 January 2025|access-date=9 December 2025|archive-date=9 December 2025|archive-url=https://web.archive.org/web/20251209081603/https://www.rijksoverheid.nl/onderwerpen/minimumloon/bedragen-minimumloon/bedragen-minimumloon-2026|url-status=live}}</ref> An additional holiday allowance of 8% of the annual wage is paid in May or June, prorated for the time worked in the year.
+|workweek citation=<ref>The law does not establish a specific number of hours as constituting a full workweek, but most workweeks are 36, 38 or 40 hours long.</ref>}}
+
+{{List of minimum wages by country/Row|New Zealand|23.50|hourly|40|1 Apr 2025
+|comment=[[New Zealand dollar|$NZ&nbsp;]]23.50 (US$14.23) per hour for workers 18 years old or older, and $NZ&nbsp;18.80 (US$11.38) per hour for those aged 16 or 17 or in training; there is no statutory minimum wage for employees who are aged 15 years or under.<ref name=Order2021>{{cite web|url=https://www.employment.govt.nz/pay-and-hours/pay-and-wages/minimum-wage/minimum-wage-rates-and-types|access-date=6 May 2025|archive-date=22 Jan 2023|archive-url=https://web.archive.org/web/20230122223114/https://www.employment.govt.nz/hours-and-wages/pay/minimum-wage/minimum-wage-rates/|url-status=live |title=Minimum wage rates and types {{pipe}} Employment New Zealand }}</ref>}}
+
+{{List of minimum wages by country/Row|Nicaragua|4414|monthly|48|1 Mar 2024
+|comment= Set for nine different economic sectors; ranges from [[Nicaraguan córdoba|C$]]5,721 (US$155) per month in the agricultural sector to C$12,803 (US$348) per month in the financial sector.<ref>{{cite web|url=https://www.bloomberglinea.com/2024/02/29/salario-minimo-de-nicaragua-2024-cuanto-ganaran-los-trabajadores-a-partir-del-1-de-marzo/|title=Salario mínimo de Nicaragua 2024: cuánto ganarán los trabajadores a partir del 1 de marzo|date=29 February 2024 |language=es|publisher=[[Bloomberg L.P.]]|access-date=29 Feb 2024}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Niger|30047|monthly|40|17 Aug 2012
+|comment= {{Currency|30,047|XOF}} (US$60) per month.<ref name="CRHRP-2012"/><ref name="wageindicator"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Nigeria|70000|monthly|40|1 May 2024
+|comment= {{Currency|70,000|NGN}} per month (following the recent devaluation of the [[naira]] has fallen to US$44.28).<ref>{{Cite web|author=Takashi Oku(奥貴史)|url=https://www.jetro.go.jp/biznews/2023/12/91fba2017ed06dd0.html|title=Nigeria revises minimum wage for first time in five years(5年ぶりに最低賃金を改定（ナイジェリア）)|date=6 Aug 2024|publisher=[[:w:Japan External Trade Organization]]（独立行政法人日本貿易振興機構）|accessdate=25 Aug 2024}}</ref>
+
+However, workers who meet the following conditions are exempt from the minimum wage:<ref>{{Cite web|author=SimmonsCooper Partners|url=https://resource.scp-law.com/2024/07/31/the-2024-minimum-wage-act-a-closer-look-at-whats-new-and-whats-not/|title=The 2024 Minimum Wage Act: A Closer Look at What's New and What's Not|date=31 July 2024|accessdate=25 Aug 2024}}</ref>
+*Part-Time and Commission-Based Employees
+*Businesses with fewer than 25 employees
+*Seasonal Workers: Employees
+*Maritime and Aviation Employees
+*Domestic Workers
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|North Macedonia|10500|monthly|40|1 Apr 2021
+|comment= {{Currency|22,146|MKD}}, (US$406) gross per month.<ref name="boeckler">{{cite web |url=http://www.boeckler.de/pdf/ta_mwdb_v0116.pdf |title=WSI – Mindestlohndatenbank: Inhaltsverzeichnis |publisher=Boeckler.de |access-date=4 Apr 2016 |archive-date=28 Apr 2016 |archive-url=https://web.archive.org/web/20160428215719/http://www.boeckler.de/pdf/ta_mwdb_v0116.pdf |url-status=live }}</ref><ref>{{cite web|url=http://www.mtsp.gov.mk/default-mk.asp?ItemID=DC9918B360C3E646A8547C79C441379A|title=МТСП|publisher=Mtsp.gov.mk|access-date=4 Mar 2014|url-status=dead|archive-url=https://web.archive.org/web/20140304163321/http://www.mtsp.gov.mk/default-mk.asp?ItemID=DC9918B360C3E646A8547C79C441379A|archive-date=4 Mar 2014}}</ref><ref>{{Deprecated archive|url=https://archive.today/20160216110228/http://webcache.googleusercontent.com/search?q=cache:2EpP0-wsP8AJ:www.fibre2fashion.com/news/textile-news/newsdetails.aspx%3Fnews_id=122446+&cd=1&hl=en&ct=clnk&gl=us|title=Macedonian govt increases minimum wage in textile sector}}</ref>
+|workweek citation=}}
+|-
+| {{flag|Northern Cyprus}}
+| {{Currency|24000|TRY}}. (US$795 as of 19 Jan)
+|
+|
+| 40
+|
+|
+|
+| 1 Jan 2024
+|-
+| {{flag|Norway}}
+| None; wages normally fall within a national scale negotiated by labor, employers, and local governments.<ref name="CRHRP-2012" />
+|
+|
+| 37.5
+|
+|
+|
+| {{dts|2014}}
+
+{{List of minimum wages by country/Row|Oman|325|monthly|45|1 July 2013
+|comment= {{Currency|225|OMR}} (US$592) per month plus allowances of {{Currency|100|OMR|linked=no}} (US$263) per month for citizens; does not apply to foreign workers.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.zawya.com/story/Oman_hikes_private_sector_minimum_wages-GN_28042013_290442/ |title=Oman hikes private sector minimum wages |publisher=Zawya |date=28 Apr 2013 |access-date=4 Mar 2014 |archive-date=14 Jan 2019 |archive-url=https://web.archive.org/web/20190114044603/https://www.zawya.com/story/Oman_hikes_private_sector_minimum_wages-GN_28042013_290442/ |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Pakistan|37500|monthly|48|1 June 2026
+|comment= [[United States dollar|US$]]4.00 per day (1100 Pkr); does not include foreign workers {{Currency|37,500|PKR}} (US${{to USD|37500|PAK|round=yes}}) per month.<ref name="CRHRP-2012"/><ref name="wageindicator"/><ref name=ilodatabase>{{cite news|title=ILO Global Wage Database 2012|date=11 Dec 2009|url=http://www.ilo.org/travail/areasofwork/wages-and-income/WCMS_142568/lang--en/index.htm|publisher=International Labour Organisation|access-date=8 Mar 2013|archive-date=26 Dec 2018|archive-url=https://web.archive.org/web/20181226013934/http://www.ilo.org/travail/areasofwork/wages-and-income/WCMS_142568/lang--en/index.htm|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Palau|3.00|hourly|40|1 Oct 2014
+|comment= [[United States dollar|US$]]3.00 per hour; does not include foreign workers.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.radioaustralia.net.au/international/radio/program/pacific-beat/pay-rise-for-palaus-poor-as-government-sets-minimum-wage/1130982 |title=Pay rise for Palau's poor as government sets minimum wage |website=ABC Radio Australia |publisher=Radioaustralia.net.au |date=15 May 2013 |access-date=18 Aug 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140407095951/http://www.radioaustralia.net.au/international/radio/program/pacific-beat/pay-rise-for-palaus-poor-as-government-sets-minimum-wage/1130982 |archive-date=7 Apr 2014}}</ref>|workweek citation=<ref>There is no legislation concerning maximum hours of work; 40 hours a week was used for the purpose of calculating an annual wage.</ref>}}
+|-
+| {{flag|Palestine}}
+| ₪1,880 [[Israeli new shekel|ILS]] (US${{to USD|1880|ISR|round=yes}}) per month;<ref>{{Cite web|author=Government of Palestine|title=Decisions taken by the Palestinian Cabinet during its session No. 121.|url=http://www.palestinecabinet.gov.ps/portal/Decree/DetailsEn/523fbeab-8642-418e-aa16-b959e042e51a|date=2022-08-23|accessdate=2023-01-23|archive-date=2023-01-23|archive-url=https://web.archive.org/web/20230123003912/http://www.palestinecabinet.gov.ps/portal/Decree/DetailsEn/523fbeab-8642-418e-aa16-b959e042e51a|url-status=live}}</ref><ref>{{Cite web|author=[[Palestinian Central Bureau of Statistics]]|url=https://www.pcbs.gov.ps/post.aspx?lang=en&ItemID=4353|title=Press Release on the Results of the Labour Force Survey Third Quarter (July – Sep, 2022) Round|date=2022-11-08|accessdate=2023-01-23|archive-date=2023-01-23|archive-url=https://web.archive.org/web/20230123003916/https://www.pcbs.gov.ps/post.aspx?lang=en&ItemID=4353|url-status=live}}</ref><ref>[http://carim-south.eu/carim/public/legaltexts/LE3PAL1204_1034.pdf The Labour Law No. (7) of 2000 AD, Article 68] {{Webarchive|url=https://web.archive.org/web/20210227083858/http://carim-south.eu/carim/public/legaltexts/LE3PAL1204_1034.pdf |date=2021-02-27 }}: "The actual working hours per week shall be forty five hours."</ref>
+|{{nts|{{#expr:(1880*12/3.23)round0}}|year=2023}}
+|
+|45
+|{{nts|{{#expr:(1880*12/3.23/52/45)round2}}|year=2023}}
+|
+|
+| {{dts|2022}}
+{{List of minimum wages by country/Row|Panama|1.53|hourly|48|1 Jan 2018
+|comment= {{Currency|1.53|PAB}} to {{Currency|4.45|PAB|linked=no}} (US$1.53 – US$4.45) per hour, depending on region and sector. Food and the use of housing facilities were considered part of the salary for some workers, such as domestic and agricultural workers. Salaries for domestic workers ranged from B/.250 to B/.275 (US$250-US$275) per month. The agricultural and construction sectors received the lowest and highest minimum wages, respectively.<ref name="CRHRP-2012"/><ref name="Minimum Wages Panama">{{cite web|title=Telemetro Reporta|url=http://www.telemetro.com/noticias/2012/01/01/nota88070.html|work=Article|publisher=Telemetro|access-date=3 June 2012|archive-url=https://web.archive.org/web/20120627070159/http://www.telemetro.com/noticias/2012/01/01/nota88070.html|archive-date=27 June 2012|url-status=dead}}</ref><ref>{{cite web |url=http://www.mitradel.gob.pa/portal/page/portal/PGMITRADEL/Planificacion/Salario |title=Departamento De Analisis De Productividad Y Salario |publisher=Mitradel.gob.pa |access-date=4 Mar 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140226000243/http://www.mitradel.gob.pa/portal/page/portal/PGMITRADEL/Planificacion/Salario |archive-date=26 Feb 2014 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Papua New Guinea|3.2|hourly|44|1 Aug 2014
+|comment= {{Currency|3.20|PGK}} (US$1) per hour.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.lcci.org.pg/wp-content/uploads/2013/03/8-Mar-2013_2.pdf |title=Lae Chamber Of Commerce Inc. |access-date=4 Mar 2014 |archive-date=4 Oct 2013 |archive-url=https://web.archive.org/web/20131004225129/http://www.lcci.org.pg/wp-content/uploads/2013/03/8-Mar-2013_2.pdf |url-status=live }}</ref>
+|workweek citation=<ref>The law limits the workweek to 42 hours per week in urban areas and 44 hours per week in rural.</ref>}}
+
+{{List of minimum wages by country/Row|Paraguay|2798309|monthly|48|1 July 2024
+|comment= {{Currency|2,798,309|PYG}} (US$363) per month; The law discriminates against domestic workers, who are legally entitled to only 40 percent of the minimum wage. The law mandates that housing and food be counted towards domestic worker's salary.<ref name="CRHRP-2012"/><ref name="wageindicator"/><ref>{{cite web|url=https://www.infobae.com/america/america-latina/2024/06/18/santiago-pena-aumento-por-decreto-el-salario-minimo-en-paraguay-sera-de-usd-370/ |title= Santiago Peña aumentó por decreto el salario mínimo en Paraguay: será de USD 370|periodical=[[Infobae]]|date= 18 June 2024|language=es}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Peru|1130|monthly|48|1 June 2022
+|comment= {{Currency|1130|PEN}} (US$318) per month.<ref>{{cite journal|access-date=3 Apr 2022|date=3 Apr 2022|periodical=Gestión|title=Gobierno subió a S/ 1,025 el salario mínimo|url=https://gestion.pe/economia/gobierno-subio-a-s-1025-el-salario-minimo-remuneracion-minima-vital-pedro-castillo-mef-mtpe-noticia/|archive-date=3 Jan 2023|archive-url=https://web.archive.org/web/20230103022927/https://gestion.pe/economia/gobierno-subio-a-s-1025-el-salario-minimo-remuneracion-minima-vital-pedro-castillo-mef-mtpe-noticia/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Philippines|645|daily|40|18 July 2025
+|comment=Ranges from {{Currency|386|PHP}} (US$6.02) daily non-agricultural wage in [[Bangsamoro]] to {{Currency|695|PHP|linked=no}} (US$11.57) daily non-agricultural wage in [[Metro Manila]].<ref>{{cite news |title=DOLE: Wage board approves P50 pay hike in NCR |url=https://newsinfo.inquirer.net/2076662/dole-wage-board-approves-p50-pay-hike-in-ncr |access-date=30 June 2025}}</ref><ref>{{cite web |title=BARMM private sector workers to receive P50 daily wage hike beginning July 2025 |url=https://bangsamoro.gov.ph/news/latest-news/barmm-private-sector-workers-to-receive-p50-daily-wage-hike-beginning-july-2025/ |access-date=30 June 2025}}</ref>
+|workweek citation= <ref>By law the standard workweek is 48 hours for most categories of industrial workers and 40 hours for government workers, with an eight-hour-per-day limit.</ref>}}
+
+{{List of minimum wages by country/Row|Poland|4806|monthly|40|1 Jan 2026
+|comment= {{Currency|4806|PLN}} (US${{to USD|4806|POL|round=yes}}) per month, or {{Currency|31.40|PLN|linked=no}} (US${{to USD|31.40|POL}}) per hour (for certain types of contracts) is the [[minimum wage in Poland]].<ref>{{Cite web|url= https://www.gov.pl/web/rodzina/minimalne-wynagrodzenie-za-prace|title= Minimalne wynagrodzenie za pracę|access-date=2026-05-14|archive-url=https://web.archive.org/web/20260402081218/https://www.gov.pl/web/rodzina/minimalne-wynagrodzenie-za-prace|archive-date=2026-04-02|url-status=live}}</ref><ref name="wageindicator"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Portugal|820|monthly|40|1 Jan 2024
+|comment= €956.66 per month (US${{to USD|700|EUR|round=yes}}) in 12 payments; €820 per month (US${{to USD|600|EUR|round=yes}}) in 14 payments for full-time workers, rural workers, and domestic employees ages 18 and older.<ref>{{cite web|url=https://dre.pt/web/guest/home/-/dre/117503933/details/maximized|title=Decreto-Lei n.º 117/2018|language=pt|access-date=2018-12-29|archive-date=2018-12-29|archive-url=https://web.archive.org/web/20181229171913/https://dre.pt/web/guest/home/-/dre/117503933/details/maximized|url-status=live}}</ref><ref name="eurostat"/>
+|workweek citation=
+|effective citation=}}
+|-
+| {{flag|Qatar}}
+| Minimum wage in Qatar is 1,800 Qar, US$274 per month
+|
+|
+| 48
+|
+|
+|
+| {{dts|2025}}
+
+{{List of minimum wages by country/Row|Romania|4050|monthly|40|1 Jan 2025
+|workweek citation=
+|comment= {{Currency|4,050|RON}} (US$915) per month; else {{Currency|
+24.55|RON|linked=no}} (US$5.5) per hour for a full-time schedule of 165 hours per month is the [[minimum wage in Romania]].<ref>{{cite web|title=Se majorează salariul de bază minim brut pe ţară garantat în plată| url=https://www.juridice.ro/706727/se-majoreaza-salariul-de-baza-minim-brut-pe-tara-garantat-in-plata.html|language=ro|work=juridice|location=Bucharest|access-date=2024-01-10|ref=none|archive-date=2023-01-10|archive-url=https://web.archive.org/web/20230110185817/https://www.juridice.ro/706727/se-majoreaza-salariul-de-baza-minim-brut-pe-tara-garantat-in-plata.html|url-status=dead}}</ref>}}
+
+{{List of minimum wages by country/Row|Russia|27093|monthly|40|1 Jan 2026|comment=27,093[[Russian rouble|₽]] (US$346,32) (Federal, in some territories more, for example, 39,730₽ (US$507,86) in Moscow)<ref>{{Cite web|url=https://www.consultant.ru/law/hotdocs/91688.html|title=From January 1, 2026, the minimum wage will be 27,093 rubles per month.|access-date=31 Dec 2025}}</ref>}}
+|-
+| {{flag|Rwanda}}
+| None; ranges from {{Currency|500|RWF}} to {{Currency|1,000|RWF|linked=no}} (US$0.83 to US$1.66) per day in the tea industry and {{Currency|1,500|RWF|linked=no}} to {{Currency|5,000|RWF|linked=no}} (US$2.50 to US$8.30) per day in the construction industry.<ref name="CRHRP-2012" />
+|
+|
+| 45
+|
+|
+|
+| {{dts|2013}}
+
+{{List of minimum wages by country/Row|Saint Kitts and Nevis|9|hourly|40|1 Nov 2014
+|comment= {{Currency|9.00|XCD}} per hour.<ref name="CRHRP-2012"/><ref>{{Cite web |url=https://www.ilo.org/dyn/natlex/docs/SERIAL/83686/92581/F493764489/KNA83686.pd |title=Saint Christopher and Nevis – Statuory Rules and Orders – Nº 35 of 2008 – The Labour (Minimum Wage) (National Minimum Wage) Order, 2008 |access-date=2013-10-02 |archive-date=2014-03-04 |archive-url=https://web.archive.org/web/20140304194031/https://www.ilo.org/dyn/natlex/docs/SERIAL/83686/92581/F493764489/KNA83686.pd |url-status=live }}</ref><ref name=Hewlett>{{cite news|last1=Hewlett|first1=LK|title=Minimum Wage Increases By 12.5%|url=http://www.thestkittsnevisobserver.com/2014/09/19/minimum-wages.html|access-date=24 Sep 2014|publisher=The St Kitts Nevis Observer|date=22 Sep 2014|url-status=dead|archive-url=https://archive.today/20140924140507/http://www.thestkittsnevisobserver.com/2014/09/19/minimum-wages.html|archive-date=24 September 2014}}</ref>
+|workweek citation=<ref>The law provides for a 40- to 44-hour workweek.</ref>}}
+|-
+| {{flag|Saint Lucia}}
+| Minimum wage for some sectors; {{Currency|300|XCD}} (US$111) per month for office clerks; {{Currency|200|XCD|linked=no}} (US$74) for shop assistants; {{Currency|160|XCD|linked=no}} (US$59) for messengers.<ref name="CRHRP-2012" />
+|
+|
+| 40
+|
+|
+|
+| {{dts|2013}}
+
+{{List of minimum wages by country/Row| Saint Vincent and the Grenadines|125|weekly|40|1 July 2008
+|comment= Set sector by sector; for example, {{Currency|56|XCD}} ($20.74) per day for agriculture workers (shelter not provided); {{Currency|40|XCD|linked=no}} (US$14.81) per day for industrial workers; and {{Currency|25|XCD|linked=no}} per day for household domestic workers.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://dol.gov.vc/index.php?option=com_content&view=article&id=56&Itemid=89 |title=Current Minimum Wages |publisher=Dol.gov.vc |access-date=4 Mar 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140306111324/http://dol.gov.vc/index.php?option=com_content&view=article&id=56&Itemid=89 |archive-date=6 Mar 2014 }}</ref><ref>[http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=VCT&p_classification=22&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY Saint Vincent and the Grenadines > Specific categories of workers – Database of national labour, social security and related human rights legislation] [[International Labour Organization]] {{webarchive |url=https://web.archive.org/web/20140304193749/http://www.ilo.org/dyn/natlex/natlex_browse.details?p_lang=en&p_country=VCT&p_classification=22&p_origin=COUNTRY&p_sortby=SORTBY_COUNTRY |date=4 Mar 2014 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Samoa|2|hourly|40|2012
+|comment= {{Currency|2.00|WST}} (US$0.89) per hour for the private sector; {{Currency|2.65|WST|linked=no}} (US$1.18) for the public sector.<ref name="CRHRP-2012"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|San Marino|1501.49|monthly|37.5|1 Jan 2017
+|comment= [[Euro|€]]1501.49 (US$1735) per month; or €9.24 (US$10) per hour for the lowest paying industry<ref>{{Cite web|url=http://www.csdl.sm/contratti-industria-e-artigianato-le-tabelle-retributive/|title=CSDL – Confederazione Sammarinese del Lavoro » Le Tabelle Retributive – Industria e artigianato e gli altri settori privati|access-date=2017-11-29|archive-date=2018-04-09|archive-url=https://web.archive.org/web/20180409105302/http://www.csdl.sm/contratti-industria-e-artigianato-le-tabelle-retributive/|url-status=dead}}</ref><ref name="CRHRP-2012"/><ref>{{Cite web|url=https://www.cdls.sm/|archiveurl=https://web.archive.org/web/20141027165210/http://www.cdls.sm/index.php?option=com_docman&task=doc_download&gid=283&Itemid=4|url-status=dead|title=Confederazione Democratica Lavoratori Sammarinese – Confederazione Democratica Lavoratori Sammarinese|archivedate=Oct 27, 2014|accessdate=Apr 2, 2023}}</ref>
+|workweek citation=<ref>The law sets the workweek at 36 hours in the public sector and 37.5 hours for industry and private businesses.</ref>}}
+|-
+| {{flag|São Tomé and Príncipe}}
+| None; Db: 3000,00 (US$145) per month for civil servants<ref name="CRHRP-2011" />
+|1740
+|
+|
+|
+|
+|
+| 2025
+{{List of minimum wages by country/Row|Saudi Arabia|4000|monthly|48|2 Feb 2013
+|comment={{Currency|4,000|SAR}} (US$1066,66) per month for public sector; does not apply to foreign workers. There are no minimum wage in private sector.<ref name="CRHRP-2012"/><ref>[http://www.arabnews.com/saudi-arabia/nitaqat-enforce-minimum-salaries-citizens Nitaqat to enforce minimum salaries for citizens] {{Webarchive|url=https://web.archive.org/web/20180314150013/http://www.arabnews.com/saudi-arabia/nitaqat-enforce-minimum-salaries-citizens |date=2018-03-14 }} Arab News. 25 Dec 2012.</ref>}}
+
+{{List of minimum wages by country/Row|Senegal|182.95|hourly|40|1 Jan 1996
+|comment= {{Currency|209.10|XOF}} (US$0.42) per hour for general workers and {{Currency|182.95|XOF|linked=no}} (US$0.37) per hour for agricultural workers.<ref name="CRHRP-2012"/><ref name="wageindicator"/><ref>{{cite web |url=http://www.ilo.org/dyn/travail/docs/849/D%C3%A9cret%20no.96-154.pdf |title=Journal Officiel de La Republique du Senegal – Décret nº 96-141 en date du 19 février 1996 |access-date=9 Oct 2013 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20140304193649/http://www.ilo.org/dyn/travail/docs/849/D%C3%A9cret%20no.96-154.pdf |archive-date=4 Mar 2014 }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Serbia|172.54|hourly|40|1 Jan 2022
+|comment={{Currency|53,915|RSD}} (460eu or $510) monthly.<ref>{{cite web |url=https://take-profit.org/en/statistics/wages/serbia/ |title=Serbia Wages: Minimum and Average |website=take-profit.org |date=First Quarter 2023 |access-date=2023-07-24 |archive-date=2023-04-09 |archive-url=https://web.archive.org/web/20230409211027/https://take-profit.org/en/statistics/wages/serbia/ |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Seychelles|26.7|hourly|40|1 Jan 2014
+|comment= {{Currency|26|SCR}}/<small>70</small> (US$1.9) per hour for all workers other than casual workers; {{Currency|30|SCR|linked=no}}/<small>78</small> (US$2.1) per hour for casual workers.<ref name="CRHRP-2012"/><ref>{{cite web|url=http://www.employment.gov.sc/minimum-wage |title=Minimum Wage |access-date=17 Mar 2015 |url-status=live |archive-url=https://web.archive.org/web/20160304030340/http://www.employment.gov.sc/minimum-wage |archive-date=4 Mar 2016 }}</ref><ref>{{cite web |url=http://www.nation.sc/article.html?id=240057 |title=Nation Home |publisher=Nation.sc |access-date=18 Aug 2014 |archive-date=7 Apr 2014 |archive-url=https://web.archive.org/web/20140407081608/http://www.nation.sc/article.html?id=240057 |url-status=live }}</ref>
+|workweek citation=<ref>The legal maximum workweek varied from 45 to 55 hours, depending on the economic sector.</ref>}}
+
+{{List of minimum wages by country/Row|Sierra Leone|500000|monthly|40|1 Jan 2015
+|comment={{Currency|500,000|SLL}} (US$57) per month.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.sierra-leone.org/Laws/1997-1.pdf |title=Act: Supplement to the Sierra Leine Gazette Vol. CXXVIII No. 24 |publisher=Sierra-leone.org |access-date=4 Mar 2014 |archive-date=24 Oct 2018 |archive-url=https://web.archive.org/web/20181024161412/http://www.sierra-leone.org/Laws/1997-1.pdf |url-status=live }}</ref><ref>{{cite web |url=http://news.sl/drwebsite/publish/article_200520228.shtml |archive-url=https://web.archive.org/web/20130927125925/http://news.sl/drwebsite/publish/article_200520228.shtml |url-status=dead |archive-date=27 Sep 2013 |title=In Sierra Leone, "Minimum Wage for Workers is 21,000"...Says Labour Minister |publisher=News.sl |access-date=4 Mar 2014 }}</ref><ref>{{Cite web |url=http://awoko.org/2014/10/31/sierra-leone-news-parliament-approves-minimum-wage/ |title=Sierra Leone News: Parliament approves minimum wage – awoko.org |access-date=2015-03-17 |archive-date=2015-06-04 |archive-url=https://web.archive.org/web/20150604115124/http://awoko.org/2014/10/31/sierra-leone-news-parliament-approves-minimum-wage/ |url-status=live }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Singapore}}
+| None.<ref name="CRHRP-2012" /> However, two exceptions: 1) Cleaner jobs to have a minimum wage of {{Currency|1,200|SGD}} (US$860) per month effective July 2019.<ref>{{cite news |url=https://www.mom.gov.sg/employment-practices/progressive-wage-model/cleaning-sector |title=Progressive Wage Model for the cleaning sector. |access-date=12 June 2020 |archive-date=25 July 2020 |archive-url=https://web.archive.org/web/20200725034712/https://www.mom.gov.sg/employment-practices/progressive-wage-model/cleaning-sector |url-status=live }}</ref> 2) Security guards to have a minimum wage of S$1,100 (US$802) per month effective Sep 2016.<ref>[https://web.archive.org/web/20150120194400/http://business.asiaone.com/news/higher-wages-security-guards-Sep-2016 AsiaOne]. Sep 2016.</ref>
+|
+|
+| 44
+|
+|
+|
+| {{dts|2019}}
+
+{{List of minimum wages by country/Row|Slovakia|4.03|hourly|40|1 Jan 2023
+|comment= €700 (US${{to USD|700|EUR|round=yes}}) per month, or €4.03 (US${{to USD|4.03|EUR|round=no}}) per hour.<ref name="wageindicator"/><ref>{{cite web |url=https://accace.com/minimum-wage-increase-in-slovakia/ |title=Minimum wage in Slovakia will increase from Jan 1, 2023 |publisher=accace.com |date=31 Dec 2022 |access-date=27 Apr 2023 |archive-date=26 Mar 2023 |archive-url=https://web.archive.org/web/20230326144441/https://accace.com/minimum-wage-increase-in-slovakia/ |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Slovenia|1203.36|monthly|40|1 Jan 2023
+|comment= €1203.36 (US${{to USD|1203.36|EUR|round=yes}}) per month.<ref name="wageindicator"/><ref name="eurostat"/><ref>{{cite web |url=https://www.gov.si/novice/2023-01-12-dvig-minimalne-place-za-100-evrov/ |title=Dvig minimalne plače za 100 evrov |date=12 January 2023 |publisher= |access-date=1 Feb 2023 |archive-date=2023-01-15 |archive-url=https://web.archive.org/web/20230115101331/https://www.gov.si/novice/2023-01-12-dvig-minimalne-place-za-100-evrov/ |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Solomon Islands|3.2|hourly|45|1 May 2008
+|comment= {{Currency|4|SBD}} (US$0.55) per hour for all workers except those in the fishing and agricultural sectors, who received {{Currency|3.20|SBD|linked=no}} per hour.<ref name="CRHRP-2012"/>}}
+|-
+| {{flag|Somalia}}
+| None.<ref name="CRHRP-2012" />
+|
+|
+| 48
+|
+|
+|
+| {{dts|2013}}
+
+{{List of minimum wages by country/Row |South Africa |30.23 |hourly |45 |1 Mar 2026 |comment={{Currency|30.23|ZAR}} (US${{To USD |30.23|ZAF}}) per hour for all workers, except for [[Expanded Public Works Programme]] workers who have a minimum of {{Currency|16.62|ZAR}} (US${{To USD |16.62|ZAF}}).<ref>{{cite news |first=Ernest |last=Mabuza |date=4 February 2026 |title=National minimum wage rises to R30.23 an hour from March 1 |newspaper=TimesLIVE |url=https://www.timeslive.co.za/news/south-africa/2026-02-04-national-minimum-wage-rises-to-r3023-an-hour-from-march-1/ |access-date=27 April 2026}}</ref> }}
+|-
+|{{flag|South Sudan}}
+| None.<ref>{{Cite web|url=http://www.mywage.org/southsudan/home/labor-law/work-and-wages|title=Work and Wages Laws, Basic Wages, Work Hours in South Sudan - Mywage.org/SouthSudan|accessdate=Apr 2, 2023|archive-date=Mar 26, 2018|archive-url=https://web.archive.org/web/20180326064253/https://mywage.org/southsudan/home/labor-law/work-and-wages|url-status=live}}</ref>
+|
+|
+|
+|
+|
+|
+| {{dts|2011}}
+
+{{List of minimum wages by country/Row|Spain|1230|monthly|40|1 Jan 2023
+|comment= €1,260 (US${{to USD|1230|EUR|round=yes}}) per month in 12 payments, €1,080 (US${{to USD|1080|EUR|round=yes}}) per month in 14 payments.<ref>{{Cite web|url=https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-3982|title=Real Decreto 99/2023, de 14 de febrero, por el que se fija el salario mínimo interprofesional para 2023|website=boe.es|pages=23120–23124|access-date=17 Mar 2020|archive-date=7 Mar 2023|archive-url=https://web.archive.org/web/20230307045703/https://boe.es/diario_boe/txt.php?id=BOE-A-2023-3982|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Sri Lanka|27000|monthly|48|1 April 2025
+|comment= {{Currency|27,000|LKR}} (US$89.70) per month.The minimum wages are set according to National Minimum Wage of Workers Act, No. 3 of 2016.<ref name="wageindicator"/><ref>{{Cite web|author=Yuki Oi(大井裕貴)|url=https://www.jetro.go.jp/biznews/2025/08/d0771125ff2e6355.html|title=スリランカ政府、最低賃金を引き上げ（スリランカ）|trans-title=Sri Lankan government raises minimum wage (Sri Lanka)|date=Aug 5, 2025|publisher=Japan External Trade Organization（日本貿易振興機構）|accessdate=Aug 7, 2025}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Sudan|425|monthly|40|2013
+|comment= {{Currency|425|SDG}} (US$0.95 as of Aug 2021) per month.<ref>{{Cite news|date=27 Dec 2019|title=Sudan to lift fuel subsidies gradually in 2020: minister|work=[[Reuters]]|url=https://www.reuters.com/article/us-sudan-economy-idUSKBN1YV1LY|access-date=17 Aug 2021|archive-date=17 Aug 2021|archive-url=https://web.archive.org/web/20210817161022/https://www.reuters.com/article/us-sudan-economy-idUSKBN1YV1LY|url-status=live}}</ref> See [[Minimum wage in Sudan]].
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Suriname|52.47|hourly|40|1 April 2025
+|comment= {{Currency|52.47|SRD}} (US${{to USD|52.47|SUR|round=no}}) per hour.<ref>{{Cite web |url=https://www.dna.sr/media/vm2mao52/sb_2019___101.pdf |title=Wet Minimumloon 2019  |publisher=dna.sr |date=12 Sep 2019 |access-date=22 Oct 2025 |archive-date=1 Jun 2025 |archive-url=https://web.archive.org/web/20250601110029/https://www.dna.sr/media/vm2mao52/sb_2019___101.pdf |url-status=live }}</ref><ref>{{cite web |url=https://www.dna.sr/media/0o5h5h0j/s-b-_2024_no-_31__wet_van_19_maart_2024__houdende_wijziging_van_de_wet_minimumloon__s-b-_2019_no-_101_.pdf |title=Wet wijziging Minimumloon 2024 |publisher=dna.sr |date=27 March 2024 |access-date=22 Oct 2025 |archive-date=1 Jun 2025 |archive-url=https://web.archive.org/web/20250601110043/https://www.dna.sr/media/0o5h5h0j/s-b-_2024_no-_31__wet_van_19_maart_2024__houdende_wijziging_van_de_wet_minimumloon__s-b-_2019_no-_101_.pdf |url-status=live }}</ref><ref>{{Cite web |url=https://gov.sr/beschikking-nieuwe-minimumuurloon-gepubliceerd-en-is-officieel-van-kracht/ |title=minimumuurloon SB 2025 No. 33  |publisher=gov.sr |date=27 Mar 2025 |access-date=22 Oct 2025 |archive-date=1 Jun 2025 |archive-url=https://web.archive.org/web/20250601164857/https://gov.sr/beschikking-nieuwe-minimumuurloon-gepubliceerd-en-is-officieel-van-kracht/ |url-status=live }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Sweden}}
+| None; in Sweden the law provides for the right of workers to form and join independent unions to bargain wages collectively, and it prohibits antiunion discrimination.<ref name="CRHRP-2012" />
+|
+|
+| 40
+|
+|
+|
+| {{dts|2017}}
+|-
+| {{flag|Switzerland}}
+| As of 2024, three cantons have official minimum salaries: {{Currency|20.60|CHF}} (US${{to USD|20.60|CHE|round=no}}) per hour in the [[Cantons of Switzerland|canton]] of [[Canton of Jura|Jura]]; {{Currency|21.09|CHF}} (US${{to USD|21.09|CHE|round=no}}) per hour in the canton of [[Canton of Neuchâtel|Neuchâtel]], {{Currency|24.32|CHF}} (US${{to USD|24.32|CHE|round=no}}) in the canton of [[Canton of Geneva|Geneva]];<ref>{{cite web | url=https://www.ge.ch/appliquer-salaire-minimum-genevois/montant-calcul-du-salaire-minimum#:~:text=Depuis%20le%201er%20janvier%202024,heure%20au%201er%20janvier%202023 | title=Montant et calcul du salaire minimum | date=17 Oct 2023 | access-date=3 Mar 2024 | archive-date=3 Mar 2024 | archive-url=https://web.archive.org/web/20240303195050/https://www.ge.ch/appliquer-salaire-minimum-genevois/montant-calcul-du-salaire-minimum#:~:text=Depuis%20le%201er%20janvier%202024,heure%20au%201er%20janvier%202023 | url-status=live }}</ref> the rest of the country has no minimum wage.<ref>{{Cite news|url=https://www.thelocal.ch/20171123/jura-parliament-finally-agrees-minimum-wage-of-20-francs-per-hour|title=Jura parliament finally agrees minimum wage of 20 francs per hour|date=23 Nov 2017|access-date=28 Nov 2017|language=en|archive-date=1 Dec 2017|archive-url=https://web.archive.org/web/20171201035859/https://www.thelocal.ch/20171123/jura-parliament-finally-agrees-minimum-wage-of-20-francs-per-hour|url-status=live}}</ref> There are a minority of the voluntary ''General Labour Contracts'' (GLC, collective labour agreements), reached on a sector-by-sector basis,<ref>{{cite web| url=http://www.seco.admin.ch/themen/00385/00420/00430/index.html| title=Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen| publisher=Swiss State Secretariat for Economic Affairs SECO, Swiss Federal Department of Economic Affairs, Education and Research EAER| location=Neuchâtel| date=1 May 2014| language=de, fr, it| access-date=20 May 2014| archive-date=20 May 2014| archive-url=https://web.archive.org/web/20140520220517/http://www.seco.admin.ch/themen/00385/00420/00430/index.html| url-status=live}}</ref> contain minimum compensation clauses, which provide for compensation ranging from {{Currency|2,200|CHF|linked=no}} to {{Currency|4,200|CHF|linked=no}} (US${{to USD|2200|CHE|round=yes}} to US${{to USD|4200|CHE|round=yes}}) per month for unskilled workers and {{Currency|2,800|CHF|linked=no}} to {{Currency|5,300|CHF|linked=no}} (US${{to USD|2800|CHE|round=yes}} to US${{to USD|5300|CHE|round=yes}}) per month for skilled employees.<ref name="CRHRP-2012" /> On 18 May 2014, Swiss voters rejected a federal [[Referendums by country#Switzerland|initiative]] (by 76.3%) that would have enforced ''GLCs'' for every sector and set the hourly minimum wage at {{Currency|22|CHF|linked=no}} (US${{to USD|22|CHE|round=no}}, or [[Purchasing power parity|PPP]]-adjusted US$12.55).<ref>{{cite news|last=Eddy|first=Melissa|title=Swiss Defeat Minimum Wage by Large Margin|url=https://www.nytimes.com/2014/05/19/business/international/swiss-defeat-minimum-wage-by-large-margin.html|access-date=18 May 2014|newspaper=New York Times|date=18 May 2014|archive-date=19 May 2014|archive-url=https://web.archive.org/web/20140519015918/http://www.nytimes.com/2014/05/19/business/international/swiss-defeat-minimum-wage-by-large-margin.html|url-status=live}}</ref><ref>{{cite web| url=http://www.bfs.admin.ch/bfs/portal/de/index/themen/17/03/blank/key/2014/023.html| title=Abstimmungen – Indikatoren, Abstimmung vom 18. Mai 2014: Mindestlohn-Initiative| publisher=Swiss Federal Office of Statistics, Swiss Federal Administration| location=Neuchâtel| date=18 May 2014| language=de, fr| access-date=20 May 2014| archive-date=21 May 2014| archive-url=https://web.archive.org/web/20140521031436/http://www.bfs.admin.ch/bfs/portal/de/index/themen/17/03/blank/key/2014/023.html| url-status=live}}</ref>
+|
+|
+| 41.7<ref>The law sets a maximal 45-hour workweek for blue- and white-collar workers in industry, services, and retail trades and a 50-hour workweek for all other workers. The law limits annual overtime to 170 hours for those working 45 hours a week and 140 hours for those working 50 hours a week. Based on the Swiss Federal Office of Statistics the typical workweek is 41.7 hours.</ref><ref>{{cite web| url=http://www.bfs.admin.ch/bfs/portal/de/index/themen/03/02/blank/data/07.html| title=Betriebsübliche Arbeitszeit nach Wirtschaftsabteilungen (NOGA 2008), in Stunden pro Woche, 1990-2013| publisher=Swiss Federal Office of Statistics, Swiss Federal Administration| location=Neuchâtel| type=statistics| format=XLS| language=de, fr| access-date=20 May 2014| quote=Total=41.7| archive-date=21 May 2014| archive-url=https://web.archive.org/web/20140521031234/http://www.bfs.admin.ch/bfs/portal/de/index/themen/03/02/blank/data/07.html| url-status=live}}</ref>
+|
+|
+|
+| {{dts|2014}}
+|-
+| {{flag|Syria}}
+| {{Currency|12,560|SYP}}/= (US$105) per month}}
+| {{nts|96}}
+| {{nts|2850}}
+| 40
+| {{nts|0.4}}
+| {{nts|1.37}}
+| {{nts|54}}%
+| {{dts|2013}}
+|-
+|{{flag|Taiwan}}
+|NT$ 29,500 (c.US$908) per month; NT$ 196 (US$6.06) per hour is the [[minimum wage in Taiwan]].<ref>{{cite web |title=Taiwan raises minimum monthly wage by 4.08%|url=https://focustaiwan.tw/business/202409040007|website=focustaiwan |date=2 Jan 2025 |access-date=2 Jan 2025 |archive-date=25 Nov 2023 |archive-url=https://web.archive.org/web/20231125194208/https://focustaiwan.tw/business/202309140006 |url-status=live }}</ref>
+| {{nts|11973}}
+| {{nts|23432}}
+| 40
+| {{nts|5.76}}
+| {{nts|11.27}}
+| {{nts|33.7%}}
+| 1 Jan 2026
+{{List of minimum wages by country/Row|Tajikistan|1000|monthly|40|1 Sep 2025
+|comment= 
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Tanzania|40000|monthly|45|1 July 2013
+|comment= Varies by sector from {{Currency|40,000|TZS}}/= (US$17) per month, to {{Currency|400,000|TZS|linked=no}}/= (US$174) per month.<ref name="CRHRP-2012"/><ref name="wageindicator"/>
+|workweek citation=<ref>According to the Ministry of Labour, there was no standard legal workweek for private sector workers, but most private employers retained a six-day, 44- to 48-hour workweek</ref>}}
+
+{{List of minimum wages by country/Row|Thailand|2296|weekly|48|1 Jan 2023
+|comment= Ranges from {{Currency|328|THB}} to {{Currency|354|THB|linked=no}} (US$9.01–US$9.72) per day and up, depending on the cost of living in various provinces; set by provincial tripartite wage committees that sometimes include only employer representatives.<ref>{{cite news|last=Charoensuthipan|first=Penchan|url=https://www.tilleke.com/insights/new-minimum-wages-in-thailand/|title=New Minimum Wages in Thailand|work=tilleke.com|date=20 Aug 2022|access-date=16 Jan 2023|archive-date=28 Nov 2022|archive-url=https://web.archive.org/web/20221128184836/https://www.tilleke.com/insights/new-minimum-wages-in-thailand/|url-status=live}}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row| Timor-Leste |115|monthly|44|22 June 2012
+|comment= [[United States dollar|US$]]115 per month.<ref name="CRHRP-2012"/><ref>{{cite web |url=http://www.macauhub.com.mo/en/2012/06/05/national-minimum-wage-for-private-sector-in-east-timor-set-at-us115/ |title=National minimum wage for private sector in East Timor set at US$115 |work=Macauhub English |date=5 June 2012 |access-date=4 Mar 2014 |archive-date=9 Apr 2014 |archive-url=https://web.archive.org/web/20140409120852/http://www.macauhub.com.mo/en/2012/06/05/national-minimum-wage-for-private-sector-in-east-timor-set-at-us115/ |url-status=live }}</ref>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Togo|35000|monthly|40|1 Jan 2012
+|comment= {{Currency|35,000|XOF}} (US$70) per month.<ref name="CRHRP-2012"/><ref name="wageindicator"/>
+|workweek citation=}}
+|-
+| {{flag|Tonga}}
+| None<ref name="CRHRP-2012" />
+|
+|
+| 40
+|
+|
+|
+| {{dts|2013}}
+
+{{List of minimum wages by country/Row| Trinidad and Tobago |15.00|hourly|40|1 Jan 2015
+|comment= {{Currency|15.00|TTD}} (US${{to USD|15|TTO|round=no}}) per hour;<ref>{{Cite web|url=https://www.finance.gov.tt/2014/09/08/budget-statement-2015-presentation/|title=Budget Statement 2015 – Ministry of Finance|website=www.finance.gov.tt|accessdate=Apr 2, 2023|archive-date=Apr 2, 2023|archive-url=https://web.archive.org/web/20230402161652/https://www.finance.gov.tt/2014/09/08/budget-statement-2015-presentation/|url-status=live}}</ref> (US${{to USD|355|TTO|round=yes}}) per month
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Tunisia|465|monthly|48|2020
+|comment= For the industrial sector: {{Currency|465|TND}} (US$166) per month for a 48-hour workweek and {{Currency|401|TND|linked=no}} (US$143) per month for a 40‑hour workweek.<ref>{{Cite web|language=fr|url=https://www.jurisitetunisie.com/tunisie/index/SMIG.htm|title=SMIG - salaire minimum interprofessionnel garanti dans les secteurs non agricoles régis par le code du travail (2000-2020)|date=28 Dec 2020|access-date=29 July 2021|archive-date=24 July 2021|archive-url=https://web.archive.org/web/20210724021318/https://jurisitetunisie.com/tunisie/index/SMIG.htm|url-status=live}}</ref>
+|workweek citation=}}
+|-
+| {{flag|Tuvalu}}
+| None; the minimum annual salary in the public sector was approximately [[Australian dollar|$A]]&nbsp;3,000 to $A&nbsp;4,000 (US$3,120 to US$4,160).<ref name="CRHRP-2012" />
+|
+|
+|
+|
+|
+|
+| {{dts|2013}}
+
+{{List of minimum wages by country/Row|Uganda|130000|monthly|40|1 July 2017
+|comment= {{Currency|130,000|UGX}}/= (US$34.58) per month.<ref name="CRHRP-2012"/><ref name="wageindicator"/><ref name="ilodatabase"/>
+|workweek citation=}}
+
+{{List of minimum wages by country/Row|Ukraine|8647|monthly|40|1 Jan 2026
+|comment= {{Currency|8,647|UAH}} (US$204.24) per month,<br /> {{Currency|52.00|UAH|linked=no}} (US$1.23) per hour,<br /> annual wage US$2,450.91<ref name="wageindicator"/><ref name="minfin">{{cite web |url=http://index.minfin.com.ua/index/salary/ |title=Мінімальна заробітна плата |access-date=18 Dec 2025 |archive-date=11 May 2017 |archive-url=https://web.archive.org/web/20170511215411/http://index.minfin.com.ua/index/salary/ |url-status=live }}</ref>
+|workweek citation=}}
+|-
+| {{flag|United Arab Emirates}}
+| No mandated wage.
+|
+|
+| 48 (reduced during [[Ramadan]])
+|
+|
+|
+| {{dts|4 April 2025}}
+
+{{List of minimum wages by country/Row|United Kingdom|12.71|hourly|40|1 Apr 2025
+|comment= The [[National Minimum Wage Act 1998|minimum wage in the United Kingdom]] is: <br /> £12.71[[Pound sterling|&nbsp;stg]] (US${{to USD|12.71|GBR|round=no}}) per hour for those aged 21+ (also known as the [[National Living Wage]] <br /> £10.85 (US${{to USD|10.85|GBR|round=no}}) per hour for those aged 18–20<br /> £8 (US${{to USD|8|GBR|round=no}}) per hour aged under 18, and those aged 19 or over who are in their first year of apprenticeship.<ref>{{cite web |url=https://www.gov.uk/national-minimum-wage-rates |title=National Minimum Wage and National Living Wage rates |website=GOV.UK |date=4 April 2025 }}</ref> Workers under the school leaving age (usually 16, however varies by region and time of birth in the year, also whether or not they have a [[National Insurance Number]]) are not eligible for national minimum wage, as well as certain specialised industries and job roles.<ref>{{cite web |url=https://www.gov.uk/national-minimum-wage/who-gets-the-minimum-wage |title=Who Gets the minumum wage|website=GOV.UK |date=28 July 2026 }}</ref>}}
+
+{{List of minimum wages by country/Row|United States|7.25|hourly|40|1 Jan 2025
+|comment=The federal nationwide [[minimum wage in the United States]] is [[United States dollar|US$]]7.25 per hour.<ref name=minwage>{{Cite web |title=State Minimum Wage Laws |url=https://www.dol.gov/agencies/whd/minimum-wage/state |website=[[Wage and Hour Division]] (WHD) |publisher=[[United States Department of Labor]] |access-date=2022-01-03 |archive-date=2019-11-27 |archive-url=https://web.archive.org/web/20191127215936/https://www.dol.gov/whd/minwage/america.htm |url-status=live }} Click on states on that map to see exact [[List of US states by minimum wage|minimum wage info by state]]. See bottom of page for [[District of Columbia]] and [[Territories of the United States|U.S. territories]].</ref> [[List of US states by minimum wage|States may also set a minimum]], in which case the higher of the two is controlling; some territories are exempt and have lower rates.<ref name="minwage"/> {{As of|2022|January|3|df=US}}, effective state minimum wage rates range from US$7.25 to US$16.66 per hour, with an average of about $12.00 across all minimum wage workers as of 2019.<ref name=paycor>[https://www.paycor.com/resource-center/articles/minimum-wage-by-state Minimum Wage by State 2022 Increases vs 2021 - Paycor] {{Webarchive|url=https://web.archive.org/web/20220103051618/https://www.paycor.com/resource-center/articles/minimum-wage-by-state/ |date=2022-01-03 }}.</ref><ref>{{cite news |url= https://www.epi.org/minimum-wage-tracker/ |title= Minimum Wage Tracker |publisher= Economic Policy Institute |access-date= 2018-09-03 |archive-date= 2021-11-12 |archive-url= https://web.archive.org/web/20211112163931/https://www.epi.org/minimum-wage-tracker/ |url-status= live }}</ref><ref name=table>[https://www.dol.gov/agencies/whd/mw-consolidated Consolidated Minimum Wage Table] {{Webarchive|url=https://web.archive.org/web/20220101180619/https://www.dol.gov/agencies/whd/mw-consolidated |date=2022-01-01 }}. From: [[Wage and Hour Division]] of the [[U.S. Department of Labor]]. See [[List of U.S. state and territory abbreviations|abbreviations list]].</ref> Local government minimum wages exist as well, the highest of which reach to $17.13 per hour.<ref>[https://www.investopedia.com/articles/investing/080515/top-5-us-cities-highest-minimum-wage.asp The Top 5 U.S. Cities With the Highest Minimum Wage] {{Webarchive|url=https://web.archive.org/web/20220103152336/https://www.investopedia.com/articles/investing/080515/top-5-us-cities-highest-minimum-wage.asp |date=2022-01-03 }}. 27 June 2021. By Greg DePersio. Reviewed by Ebony Howard. [[Investopedia]].</ref>}}
+
+{{List of minimum wages by country/Row|Uruguay|22268|monthly|48|2024
+|comment= {{Currency|22,268|UYU}} (US$507) per month.<ref>{{cite web|access-date=2 Jan 2022|date=29 Dec 2022|title=El salario mínimo nacional aumenta a $21.106 desde el 1º de enero|url=https://www.gub.uy/ministerio-trabajo-seguridad-social/comunicacion/noticias/salario-minimo-nacional-aumenta-21106-desde-1o-enero|trans-title=|language=|archive-date=3 Jan 2023|archive-url=https://web.archive.org/web/20230103022744/https://www.gub.uy/ministerio-trabajo-seguridad-social/comunicacion/noticias/salario-minimo-nacional-aumenta-21106-desde-1o-enero|url-status=live}}</ref>}}
+
+{{List of minimum wages by country/Row|Uzbekistan|920000|monthly|40|1 June 2022
+|comment= {{Currency|920,000|UZS}} (US$71) per month.<ref name="Uzbekistan-2022">{{cite web |url=https://www.gazeta.uz/ru/2022/05/20/wages/ |title=Зарплаты повышаются с 1 июня |work=Газета.uz |date=20 May 2022 |language=ru |access-date=21 June 2022 |archive-date=21 June 2022 |archive-url=https://web.archive.org/web/20220621133110/https://www.gazeta.uz/ru/2022/05/20/wages/ |url-status=live }}</ref><!--<ref name="CRHRP-2012"/><ref>{{cite web|url=http://www.goldenpages.uz/zarplata/?#.UkGF6NIvrQ0 |title=Минимальная зарплата в Узбекистане на сегодня и динамика изменения – Справочник Узбекистана |publisher=Goldenpages.uz |access-date=4 Mar 2014}}</ref>-->|workweek citation=}}
+
+{{List of minimum wages by country/Row|Vanuatu|170|hourly|40|20 Aug 2012
+|comment= {{Currency|30,000|VUV}} (US$323) per month, {{Currency|170|VUV|linked=no}} per hour.<ref name="CRHRP-2012"/><ref>{{cite news |last=Cullwick |first=Jonas |url=http://www.dailypost.vu/content/wells-accepts-vt30000-new-minimum-wage |title=Wells accepts Vt30,000 as new minimum wage |newspaper=Vanuatu Daily Post |access-date=4 Mar 2014 |archive-date=4 Oct 2013 |archive-url=https://web.archive.org/web/20131004230347/http://www.dailypost.vu/content/wells-accepts-vt30000-new-minimum-wage |url-status=dead }}</ref>
+|workweek citation=}}
+|-
+| {{flag|Venezuela}}
+| The minimum wage in Venezuela is [[Venezuelan bolívar|Bs.]]&nbsp;400,000 per month, including a food bond the total raises up to Bs.&nbsp;800,000, which is equivalent to about US$0.86 as 26 Nov 2020.<ref>{{cite web |url=https://www.dw.com/es/suben-el-salario-m%C3%ADnimo-en-venezuela-ahora-son-46-d%C3%B3lares/a-53264867 |title=They raised the minimum wage in Venezuela: now it is US$4.60 (Apr 2020) |date=27 Apr 2020 |website=dw.com |publisher=DW News |access-date=26 Nov 2020 |archive-date=17 Dec 2020 |archive-url=https://web.archive.org/web/20201217224117/https://www.dw.com/es/suben-el-salario-m%C3%ADnimo-en-venezuela-ahora-son-46-d%C3%B3lares/a-53264867 |url-status=live }}</ref><ref>{{cite web |url=http://www.bcv.org.ve/tasas-informativas-sistema-bancario |title=Central bank of venezuela official exchange rates as Nov 26th |website=bcv.org.ve |access-date=26 Nov 2020 |archive-date=19 Nov 2020 |archive-url=https://web.archive.org/web/20201119151018/http://www.bcv.org.ve/tasas-informativas-sistema-bancario |url-status=live }}</ref><ref>{{cite web |url=http://www.finanzasdigital.com/2020/04/anuncian-ajuste-del-salario-minimo-integral-a-bs-800-000/ |title=Minister of Labor announces new adjustment of the integral minimum wage to Bs.&nbsp;800,000 |date=27 Apr 2020 |website=finanzasdigital.com |access-date=26 Nov 2020 |archive-date=24 Sep 2020 |archive-url=https://web.archive.org/web/20200924150734/https://www.finanzasdigital.com/2020/04/anuncian-ajuste-del-salario-minimo-integral-a-bs-800-000/ |url-status=dead }}</ref>
+|10.32
+|
+|
+|
+|
+|
+| 1 May 2020
+{{List of minimum wages by country/Row|Vietnam|5310000|monthly|40|1 Jan 2026
+|comment= Varies by region; Region I: {{Currency|5,310,000|VND}} per month; Region II: {{Currency|4,730,000|VND|linked=no}} per month; Region III: {{Currency|4,140,000|VND|linked=no}} per month and Region IV: {{Currency|3,700,000|VND|linked=no}} per month.<ref>{{cite web |url=https://vnexpress.net/chu-de/luong-toi-thieu-vung-8402 |title= Lương tối thiểu vùng |language=vi |website=vnexpress.net |access-date=23 Nov 2025}}</ref>
+|workweek citation=}}
+|-
+| {{flag|Yemen}}
+| None; the minimum civil service wage was {{Currency|21,000|YER}} ($100) per month.
+|
+|
+|48
+|
+|
+|
+| {{dts|2013}}
+
+{{List of minimum wages by country/Row|Zambia|993.60|monthly|48| 10 Sep 2018
+|comment= Varies by sector; {{Currency|993.60|ZMW}} (US$81) per month for domestic workers. Shop workers' minimum wage is {{Currency|1,698.60|ZMW|linked=no}} with transport, lunch and housing allowances inclusive, and wages increasing according to the grades of employees, with the minimum wage of the highest grade in this category being {{Currency|3,558.90|ZMW|linked=no}}. In the general workers' category, which includes receptionists and guards among others, the minimum wage for category one workers is {{Currency|1,698.60|ZMW|linked=no}}, while the highest category is at {{Currency|3,151.61|ZMW|linked=no}}.<ref>"[https://www.lusakatimes.com/2018/09/08/government-almost-doubles-minimum-wages-domestic-workers-to-earn-close-to-k1-000/ Government almost doubles minimum wages, domestic workers to earn close to K1,000] {{Webarchive|url=https://web.archive.org/web/20190818154512/https://www.lusakatimes.com/2018/09/08/government-almost-doubles-minimum-wages-domestic-workers-to-earn-close-to-k1-000/ |date=2019-08-18 }}". Lusakatimes.com. 8 Sep 2018. Retrieved 5 October 2018.</ref>
+|workweek citation=}}
+|-
+| {{flag|Zimbabwe}}
+| None, except for agricultural and domestic workers; government regulations for each of the 22 industrial sectors specify minimum wages. The minimum wage for all mine workers is currently pegged at $227 per month.<ref name="CRHRP-2008">{{cite web|url=https://www.state.gov/g/drl/rls/hrrpt/2008/index.htm |archive-url=https://web.archive.org/web/20090226071617/http://www.state.gov/g/drl/rls/hrrpt/2008/index.htm |url-status=dead |archive-date=26 Feb 2009 |title=Country Reports on Human Rights Practices 2007 |publisher=State.gov |date=23 Feb 2009 |access-date=4 Mar 2014}}</ref>
+|
+|
+|
+|
+|
+|
+| {{dts|2012}}
+|}
+
+==OECD==
+[[Organisation for Economic Co-operation and Development]].
+
+*'''Note:''' "Annual working hours" = Annual wages divided by hourly wages.
+
+{{Static row numbers}}{{mw-datatable}}{{sticky header}}{{Table alignment}}
+{| class="wikitable sortable mw-datatable static-row-numbers sticky-header-multi col1left" style="text-align:center; font-size:95%"
+|+OECD Real minimum wages (US dollar)<ref>{{cite web |title=Real minimum wages |publisher=OECD |url=https://stats.oecd.org/Index.aspx?DataSetCode=RMW |access-date=2020-10-25 |archive-date=2013-05-14 |archive-url=https://web.archive.org/web/20130514000023/https://stats.oecd.org/index.aspx?DataSetCode=RMW |url-status=live }}</ref>
+! rowspan=3|Country !!colspan=5|2023 !!colspan=5|2024
+|-
+! colspan=2|Nominal !! colspan=2|PPP !!rowspan=2|Annual working<br>hours||colspan=2|Nominal !! colspan=2|PPP !!rowspan=2|Annual working<br>hours
+|-
+! Annual !! Hourly !! Annual !! Hourly ||Annual !! Hourly !! Annual !! Hourly
+|-
+| {{flag|Australia}} || 30,008 || 13.1 || 31,676 || 12.4 || 1,976 || 30,861 || 13.4 || 32,576 || 12.6 || 1,976
+|-
+| {{flag|Belgium}} || 26,234 || 10.2 || 31,218 || 10.9 || 2,086 || 26,601 || 10.3 || 31,654 || 11.0 || 2,086
+|-
+| {{flag|Brazil}} || 2,984 || 3.5 || 6,370 || 7.0 || 1,846 || 3,144 || 4.0 || 6,712 || 7.7 || 1,937
+|-
+| {{flag|Bulgaria}} || 5,312 || 3.5 || 12,342 || 7.0 || 1,846 || 6,193 || 4.0 || 14,390 || 7.7 || 1,937
+|-
+| {{flag|Canada}} || 23,856 || 9.9 || 27,282 || 10.1 || 2,080 || 24,455 || 10.0 || 27,967 || 10.2 || 2,080
+|-
+| {{flag|Chile}} || 5,438 || 2.1 || 10,274 || 3.0 || 2,346 || 5,787 || 2.2 || 10,931 || 3.1 || 2,346
+|-
+| {{flag|Colombia}} || 4,249 || 1.2 || 10,566 || 2.6 || 2,920 || 4,467 || 1.2 || 11,107 || 2.7 || 2,920
+|-
+| {{flag|Costa Rica}} || 8,851 || 1.2 || 13,172 || 2.6 || 2,920 || 9,050 || 1.2 || 13,469 || 2.7 || 2,920
+|-
+| {{flag|Croatia}} || 9,457 || 3.5 || 17,197 || 7.0 || 1,846 || 10,910 || 4.0 || 19,839 || 7.7 || 1,937
+|-
+| {{flag|Czech Republic}} || 9,160 || 3.3 || 14,370 || 5.4 || 2,000 || 9,769 || 3.5 || 15,326 || 5.8 || 2,000
+|-
+| {{flag|Estonia}} || 9,748 || 3.4 || 13,519 || 4.9 || 2,020 || 10,651 || 3.6 || 14,770 || 5.2 || 2,019
+|-
+| {{flag|France}} || 22,980 || 13.2 || 28,653 || 12.0 || 2,289 || 23,025 || 11.2 || 28,710 || 12.1 || 2,189
+|-
+| {{flag|Germany}} || 26,523 || 10.0 || 33,855 || 11.5 || 2,033 || 26,679 || 10.3 || 34,053 || 11.8 || 2,033
+|-
+| {{flag|Greece}} || 11,883 || 3.7 || 19,170 || 5.2 || 2,507 || 12,388 || 4.0 || 19,984 || 5.7 || 2,507
+|-
+| {{flag|Hungary}} || 7,994 || 2.8 || 15,096 || 5.2 || 2,112 || 8,755 || 2.9 || 16,534 || 5.5 || 2,086
+|-
+| {{flag|Ireland}} || 25,978 || 10.8 || 26,090 || 9.9 || 2,080 || 28,592 || 11.0 || 28,716 || 10.1 || 2,080
+|-
+| {{flag|Israel}} || 18,482 || 8.1 || 18,406 || 6.9 || 2,232 || 18,821 || 8.0 || 18,745 || 6.9 || 2,232
+|-
+| {{flag|Japan}} || 13,712 || 8.1 || 20,511 || 8.0 || 2,080 || - || - || - || - || -
+|-
+| {{flag|Latvia}} || 8,155 || 2.8 || 13,827 || 4.4 || 2,086 || 9,092 || 2.8 || 15,415 || 4.3 || 2,086
+|-
+| {{flag|Lithuania}} || 10,988 || 2.8 || 18,675 || 4.9 || 1,959 || 12,001 || 3.8 || 20,397 || 6.7 || 1,965
+|-
+| {{flag|Luxembourg}} || 32,456 || 13.3 || 33,879 || 12.4 || 2,077 || 33,393 || 13.4 || 34,857 || 12.5 || 2,095
+|-
+| {{flag|Malta}} || 11,112 || 3.5 || 16,822 || 7.0 || 1,846 || 12,019 || 4.0 || 18,194 || 7.7 || 1,937
+|-
+| {{flag|Mexico}} || 3,086 || 0.6 || 5,141 || 1.1 || 2,080 || 3,536 || 0.7 || 5,892 || 1.2 || 2,080
+|-
+| {{flag|Netherlands}} || 28,482 || 10.5 || 34,049 || 11.0 || 2,253 || 29,862 || 10.5 || 35,699 || 11.0 || 2,253
+|-
+| {{flag|New Zealand}} || 28,925 || 10.8 || 32,163 || 10.4 || 2,080 || 29,001 || 11.5 || 32,247 || 11.0 || 2,035
+|-
+| {{flag|Peru}} || 3,342 || 3.5 || 6,434 || 7.0 || 1,846 || 3,277 || 4.0 || 6,308 || 7.7 || 1,937
+|-
+| {{flag|Poland}} || 11,091 || 3.2 || 21,303 || 6.6 || 2,086 || 12,426 || 3.4 || 24,730 || 6.9 || 2,086
+|-
+| {{flag|Portugal}} || 11,795 || 4.4 || 18,808 || 6.1 || 2,086 || 12,875 || 4.5 || 19,814 || 6.3 || 2,086
+|-
+| {{flag|Romania}} || 8,286 || 3.5 || 18,059 || 7.0 || 1,846 || 9,134 || 4.0 || 19,907 || 7.7 || 1,937
+|-
+| {{flag|Slovak Republic}} || 9,343 || 2.1 || 15,292 || 3.2 || 3,145 || 9,741 || 2.1 || 15,944 || 3.2 || 3,319
+|-
+| {{flag|Slovenia}} || 15,937 || 5.5 || 24,501 || 7.7 || 2,086 || 16,286 || 5.7 || 25,038 || 7.9 || 2,086
+|-
+| {{flag|South Korea}} || 18,107 || 6.5 || 26,467 || 7.8 || 2,508 || 18,138 || 7.2 || 26,512 || 8.6 || 2,508
+|-
+| {{flag|Spain}} || 16,820 || 5.6 || 25,660 || 7.1 || 2,086 || 17,184 || 6.8 || 26,216 || 8.6 || 2,086
+|-
+| {{flag|Turkey}} || 6,790 || 2.4 || 17,747 || 6.2 || 2,086 || 7,317 || 2.6 || 19,123 || 6.7 || 2,086
+|-
+| {{flag|United Kingdom}} || 27,995 || 12.23 || 31,136 || 10.2 || 2,079 || 29,735 || 10.4 || 33,071 || 10.5 || 2,079
+|-
+| {{flag|United States}} || 15,525 || 7.4 || 15,525 || 7.4 || 2,080 || 15,080 || 7.3 || 15,080 || 7.3 || 2,080
+|}
+
+== See also ==
+* [[Kaitz index]]
+* [[List of ASEAN countries and subdivisions by minimum wage]]
+* [[List of countries by average annual labor hours]]
+* [[List of countries by average wage]]
+* [[List of countries by median wage]]
+* [[List of countries by labour productivity]]
+* [[List of countries by wealth per adult]]
+* [[List of minimum wage laws]]
+* [[List of European countries by minimum wage]]
+* [[List of U.S. states by minimum wage]]
+* [[List of minimum wages in Canada]]
+* [[List of minimum wages in China (PRC)]]
+* [[Minimum Wages Act 1948]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{Finance country lists}}
+
+{{DEFAULTSORT:Minimum Wages By Country}}
+[[Category:Minimum wage|*]]
+[[Category:Lists of countries by economic indicator|Minimum wages]]
+[[Category:Law-related lists|Minimum wages]]
