@@ -1,11 +1,57 @@
 # 工业化阶段世界地图项目 — 进度存档
 
-工作目录：`C:\Users\Administrator\Desktop\zhihu\task\industrial_stage_map`
-**状态：2024/2040/2055三张工业化阶段地图 + 最低工资分析图均已完成（2026-09-23）**。
+工作目录：`C:\Users\Administrator\Desktop\zhihu\task\capitalism_world_system_analysis\repo\projects\industrial_stage_map`
+（原 `Desktop\zhihu\task\industrial_stage_map` 已不存在，2026-09-24 整目录搬入 capitalism_world_system_analysis 仓库并推送 GitHub）
+**状态：1995/2024/2040/2055 四张工业化阶段地图 + 最低工资分析图均已完成（2026-09-24）**。
+- 1995年：`out/world_industrial_stage_map_1995.png` + **`out/工业化阶段清单_1995.md`**（各类清单+指标数值）、`data/final_1995.csv`
 - 2024年：`out/world_industrial_stage_map_v2.png` + **`out/工业化阶段清单_2024.md`**（各类清单+指标数值）+ `out/report_v2.md`、`data/final_v2.csv`
 - 2040年：`out/world_industrial_stage_map_2040.png` + **`out/工业化阶段清单_2040.md`**、`data/final_2040.csv`
 - 2055年：`out/world_industrial_stage_map_2055.png` + **`out/工业化阶段清单_2055.md`**、`data/final_2055.csv`
 - 最低工资分析：`out/minwage_by_stage_2024.png` + `out/最低工资_2024.md`
+
+---
+
+## 1995年地图（2026-09-24新增）
+
+### 规则（用户规格）
+- 记分 score = 人均发电量/标准发电量 + 人均钢产量/标准钢产量，**≥2 达标**（用户书面即 >=2；实测无恰好=2.000的国家，故与 >2 无差异）
+- 标准（人均电kWh/人均钢kg）：成熟 4000/400；中后期 3000/300；中期 1000/100；起步 500/50；**四档均未达 → 准备**
+- **不设发达国家档**（用户明确"不要划分发达国家，只有积累工业国的差异"）——美日西欧等一律按记分归类
+- 五档+其他<1000万共6色，配色与2024/2040/2055各图完全一致（成熟#e8590c/中后期#ffa94d/中期#ffd43b/起步#a9d08e/准备#adb5bd/未分类#b39ddb）
+- 国家名单与2024年图一致（96实体），1995年人口不足1000万者（阿联酋/约旦/以色列）仍按记分着色
+
+### 数据来源（1995年）
+- 人口：UN WPP2024 历史值（raw/owid_pop_lr.csv 的 Population 列）1995年，全球 5,758,878,977
+- **电力：EIA《International Energy Annual 2005》Table 6.3 净发电量 1995（TWh）**——raw/iea2005/table63.xls
+  （来源：Wayback 存档的 eia_2005.zip；含 1980-2005 全部国家，按 FIPS 码定位）
+- **钢铁：世界钢铁协会《Steel Statistical Yearbook 2003》Table "Total Production of Crude Steel" 1995（kt）**
+  ——raw/worldsteel_ssy2003.pdf，pdfplumber 解析（Table 4/7，位于 PDF 第14-16页，0-based 13/14/15）
+- 兜底：多米尼加/危地马拉 SSY 该年空格 → USGS《Minerals Yearbook 1995》Vol.3 表11（"--"无产出/"NA"未报告）按0计；南苏丹1995未独立按0计
+
+### 1995结果（96实体）
+| 类别 | 国数 | 人口 | 占全球 |
+|---|---|---|---|
+| 成熟工业化国家 | 17 | 9.73亿 | 16.9% |
+| 工业化中后期国家 | 3 | 1.30亿 | 2.3% |
+| 工业化中期国家 | 16 | 5.52亿 | 9.6% |
+| 工业化起步国家 | 10 | 15.17亿 | 26.3% |
+| 准备工业化国家 | 50 | 23.49亿 | 40.8% |
+| 其他<1000万 | — | 2.38亿 | 4.1% |
+- 成熟17国：美俄日德法英意韩加台澳荷沙捷比瑞典阿联酋；中后期3国：乌克兰/西班牙/波兰；中期16国：巴西/墨西哥/土耳其/南非/阿根廷/乌兹别克/罗马尼亚/委内瑞拉/马来西亚/哈萨克/智利/希腊/葡萄牙/阿塞拜疆/塔吉克/以色列
+- **起步10国含中国（起步档得分3.13，人均电784kWh/钢78kg）**、埃及/伊朗/泰国/哥伦比亚/朝鲜/伊拉克/叙利亚/古巴/约旦；准备50国含印度/印尼/巴基斯坦（与"500/50≈中国1990"的项目前提一致）
+- 临界（2.0±0.2）：英2.08、意2.19（成熟档边界）；乌1.97、西1.84、波2.16、南非1.97、以1.92、哈1.86（中后期档边界）；乌兹2.12、阿塞2.11、伊朗1.98（中期档边界）；叙2.08、突1.94、阿1.85（起步档边界）
+- 脚本链：63（EIA电力）→64（SSY钢铁）→65_compute_1995 → 66_verify_1995（独立重算0错误）→67_draw_map_1995 →68_crop_check_1995 →69_report_lists_1995
+
+### 关键经验（本轮新增）
+- **口径差异必须披露**：1995用EIA净发电量，2024用Ember/OWID毛发电量，二者系统差约5%（52个重合国中位比值1.052）。
+  敏感性检验（66_verify_1995）：若1995改用OWID毛口径，**伊朗、乌克兰、南非、以色列4国会跨档**（乌克兰中后期→成熟）。已在图注与清单md中说明
+- **EIA IEA2005 数据获取**：eia.gov 的 API 需 key、bulk 页面为 JS，**Wayback 存档的 iea_2005.zip 可直接下载**
+  （https://web.archive.org/web/20080702212032if_/http://www.eia.doe.gov/pub/international/iea2005/iea_2005.zip）
+- **SSY2003 PDF 解析**：`pdftotext -layout` 会串行错位（**不可用**），但 **pdfplumber 的 `page.extract_text()`**（非layout模式）
+  对每个表格页能给出干净的行文本；更稳的是按表头年份词的 x 中心分桶。校验锚点：1995 解析国家合计 752,094 kt vs 表内 World 752,271 kt（差0.02%）
+- **OWID grapher CSV 可直接 curl**：`https://ourworldindata.org/grapher/electricity-generation.csv?v=1&csvType=full&useColumnShortNames=true`
+  （1995年仅覆盖91实体/52国，不足以支撑1995年全球地图，故改用EIA）
+- 南苏丹 ADM0_A3=SDS 别名（沿用）；绘图注释行距不足会导致末行贴底/裁切，注释块行距 0.018、说明块起笔 sub_y-0.023 可放下4行注释
 
 ---
 
