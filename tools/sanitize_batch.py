@@ -35,7 +35,10 @@ RULES = [
     ('两天周末', '双休'),
     ('周末两天', '双休'),
 ]
-RULES = [(re.compile(ASCII_GUARD % re.escape(a)), b) for a, b in RULES]
+# The ASCII guard exists only to protect GOV/ZF inside tokens such as
+# percent-encoded URLs or data-pid="…QZFo"; applying it to the Chinese terms
+# would wrongly skip 东方大国GOV / 东方大国2000年, so they stay unguarded.
+RULES = [(re.compile(re.escape(a)), b) for a, b in RULES]
 RULES.append((re.compile(ASCII_GUARD % 'GOV'), '政府'))
 RULES.append((re.compile(ASCII_GUARD % 'ZF'), '政府'))
 

@@ -18,7 +18,8 @@ BASE = r"C:\Users\Administrator\Desktop\zhihu\task\capitalism_world_system_analy
 WORK = os.path.join(BASE, 'work')
 
 LANGS = [('cn', 'txt'), ('en', 'en_txt'), ('es', 'es_txt'), ('pt', 'pt_txt'),
-         ('fr', 'fr_txt'), ('ru', 'ru_txt'), ('ar', 'ar_txt')]
+         ('fr', 'fr_txt'), ('ru', 'ru_txt'), ('ar', 'ar_txt'),
+         ('sw', 'sw_txt'), ('hi', 'hi_txt'), ('bn', 'bn_txt'), ('id', 'id_txt')]
 
 
 def split_notes(text):

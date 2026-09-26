@@ -12,11 +12,12 @@ for t in CN:
     first = open(os.path.join(WORK, 'txt', t + '.txt'), encoding='utf-8').readline().strip()
     TITLES[t] = first[2:].strip()
 
-for lang in ('en', 'es', 'pt', 'fr', 'ru', 'ar'):
+for lang in ('en', 'es', 'pt', 'fr', 'ru', 'ar', 'sw', 'hi', 'bn', 'id'):
     names = []
     for t in CN:
-        out = os.path.join(WORK, lang + '_html' if lang != 'cn' else 'cn_html')
-        src = os.path.join(WORK, lang + '_txt' if lang != 'cn' else 'txt', t + '.txt')
+        src = os.path.join(WORK, lang + '_txt', t + '.txt')
+        if not os.path.exists(src):
+            continue      # language has no translation of this batch
         first = open(src, encoding='utf-8').readline().strip()
         tr = first[2:].strip()
         import re

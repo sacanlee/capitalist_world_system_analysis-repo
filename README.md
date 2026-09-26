@@ -57,6 +57,20 @@ The September 2026 batch (8 new articles: the long-wave essays, the rise of Chin
 
 The 26 September 2026 addition — *Is Another Movement to Overthrow Capital Possible in the 21st Century?* — joins the same seven languages.
 
+### Revision note (26 September 2026)
+
+A defect in the HTML extraction step was found and fixed: when an in-text citation
+marker was converted to `[n]`, the text that followed it to the end of that text node
+was dropped, truncating every paragraph whose citations sat mid-paragraph. **25
+articles** were affected (≈18,600 Chinese characters in 499 places). All affected
+articles have been re-extracted and the missing passages translated back into every
+published language; 219 translated PDFs plus their Chinese originals were rebuilt,
+and the published tree refreshed in place. New verifiers now guard the pipeline:
+`verify_cn_vs_src.py` checks every article block by block against the saved web page,
+`check_numbers.py` requires the recovered numerals to appear in each translation,
+`check_patched.py` audits patches for insert-only edits, and
+`sync_articles.py` refreshes `articles/` from `pdf/` without touching the layout.
+
 ## Translation Notes
 
 - The author is a **Marxist**; the translations are made within the Marxist conceptual framework (historical materialism, class analysis, the capitalist world-system, imperialism, surplus value, etc.).
@@ -84,7 +98,13 @@ The `tools/` directory holds the scripts that produce everything under `articles
 | `TRANSLATION_SPEC.md` | the format and terminology rules every translation follows |
 | `build_lang_html.py <lang>` | translated text + notes JSON + original images → per-language HTML (bilingual notes section, footer) |
 | `to_pdf.py <lang> [outdir]` | Headless-Edge batch HTML → PDF |
-| `verify_new.py` | QA: title line, in-text `[n]` vs notes JSON, `[NOTES]` numbering, `[IMAGE n]` counts |
+| `verify_new.py [title …]` | QA: title line, in-text `[n]` vs notes JSON, `[NOTES]` numbering, `[IMAGE n]` counts (whole corpus by default) |
+| `verify_cn_vs_src.py` | completeness audit: every block of the saved web page must appear in the Chinese text |
+| `check_patched.py` | audits translation patches against a backup — insert-only edits expected |
+| `check_numbers.py` | language-independent check: numeric tokens recovered from the source must be present in each translation |
+| `find_clusters.py` | locates "orphan fragment" sites left behind where several citation markers were glued together |
+| `make_patches.py` / `plan_patch.py` / `make_worklist.py` / `make_task_files.py` | derive the per-article repair worklists and agent task files |
+| `plan_rebuild.py` / `rebuild_all_langs.py` | recompute which files really changed and rebuild their HTML + PDF |
 | `gen_only.py` | writes per-language whitelists so a run touches only one batch of articles |
 | `rebuild_articles_structure.py` | rebuilds the whole `articles/<language>/<category>/` tree |
 | `add_new_articles.py` | incremental (non-destructive) addition of a new batch to the tree (September 2026 batch) |

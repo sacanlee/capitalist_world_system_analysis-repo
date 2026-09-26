@@ -18,9 +18,11 @@ from lxml import html as lh
 
 BASE = r"C:\Users\Administrator\Desktop\zhihu\task\capitalism_world_system_analysis"
 SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "articles_in_chinese")
-CN_HTML = os.path.join(BASE, "work", "cn_html")
-TXT = os.path.join(BASE, "work", "txt")
-NOTES = os.path.join(BASE, "work", "notes")
+# EXTRACT_OUT lets a dry run write elsewhere (e.g. a temp dir for diffing)
+WORK = os.environ.get("EXTRACT_OUT", os.path.join(BASE, "work"))
+CN_HTML = os.path.join(WORK, "cn_html")
+TXT = os.path.join(WORK, "txt")
+NOTES = os.path.join(WORK, "notes")
 AUTHOR_URL = "https://www.zhihu.com/people/zui-zui-yao-yuan-de-lu-32/posts"
 AUTHOR_NAME = "最最遥远的路"
 for d in (CN_HTML, TXT, NOTES):
@@ -188,6 +190,9 @@ def process(f):
             notes.append({'num': ncounter[0], 'text': txt, 'url': u})
             span = lh.Element('span'); span.set('class', 'note-ref')
             span.text = '[%d]' % ncounter[0]
+            # a <sup> in mid-paragraph carries the rest of the paragraph in its
+            # .tail; removing the element would drop it, so move it onto the marker
+            span.tail = sup.tail
             sup.addprevious(span)
             p = sup.getparent()
             if p is not None:
