@@ -12,7 +12,7 @@ This repository publishes the author's articles — originally written in Chines
 
 ```
 repo/
-├── articles/           — the multilingual article collection (500 PDFs, 11 languages)
+├── articles/           — the multilingual article collection (507 PDFs, 11 languages)
 │   ├── Chinese/        (中文原文)
 │   │   ├── world-system-mechanisms/    世界体系基本机制 — the basic mechanisms of the world-system; the historical fate of capitalism
 │   │   ├── southern-capitalism/        南方资本主义的发展 — the development of capitalism in the South (excluding India)
@@ -49,20 +49,23 @@ repo/
 
 | Language | Articles |
 |---|---|
-| Chinese, English, Français, Español, português, العربية, Русский | 50 |
+| Chinese, English, Français, Español, português, العربية, Русский | 51 |
 | Kiswahili, Bahasa Indonesia | 42 |
 | हिन्दी, বাংলা | 33 |
 
 The September 2026 batch (8 new articles: the long-wave essays, the rise of China in the world-system, reformism, autarky, the two-day weekend, which countries can still become developed before 2055, and AI programming) has been translated into Chinese, English, French, Spanish, Portuguese, Russian and Arabic. The remaining four languages carry the original 42-article collection.
+
+The 26 September 2026 addition — *Is Another Movement to Overthrow Capital Possible in the 21st Century?* — joins the same seven languages.
 
 ## Translation Notes
 
 - The author is a **Marxist**; the translations are made within the Marxist conceptual framework (historical materialism, class analysis, the capitalist world-system, imperialism, surplus value, etc.).
 - The style of translation is **elegant yet accessible** (典雅通俗).
 - Chinese internet slang used by the author is translated according to its real meaning, e.g.:
-  - 东大 / 东方大国 = **China**
-  - 西大 / 西方大国 = **United States**
+  - 东大 / 东方大国 / 龙国 = **China**
+  - 西大 / 西方大国 / 米国 = **United States**
   - 天竺 / 南大 / 南方大国 = **India**
+  - 欧国 = **EU**
   - ZF / GOV = **government**
   - 波斯 = **Iran**
   - 双休 (two days off per week) = **two-day weekend**
@@ -76,14 +79,16 @@ The `tools/` directory holds the scripts that produce everything under `articles
 | Script | Purpose |
 |---|---|
 | `extract_full.py <src_dir>` | Zhihu HTML archive → clean Chinese HTML + structured text (with `[IMAGE n]`, `[n]` citation markers, `[图注: ]`, `[表格]`) + notes JSON |
-| `sanitize_new.py` | rewrites Chinese internet slang into plain country/government names |
+| `sanitize_new.py` | rewrites Chinese internet slang into plain country/government names (September 2026 batch) |
+| `sanitize_batch.py <cn-title> [...]` | same, generic version; adds 龙国 / 米国 / 欧国 |
 | `TRANSLATION_SPEC.md` | the format and terminology rules every translation follows |
 | `build_lang_html.py <lang>` | translated text + notes JSON + original images → per-language HTML (bilingual notes section, footer) |
 | `to_pdf.py <lang> [outdir]` | Headless-Edge batch HTML → PDF |
 | `verify_new.py` | QA: title line, in-text `[n]` vs notes JSON, `[NOTES]` numbering, `[IMAGE n]` counts |
 | `gen_only.py` | writes per-language whitelists so a run touches only one batch of articles |
 | `rebuild_articles_structure.py` | rebuilds the whole `articles/<language>/<category>/` tree |
-| `add_new_articles.py` | incremental (non-destructive) addition of a new batch to the tree |
+| `add_new_articles.py` | incremental (non-destructive) addition of a new batch to the tree (September 2026 batch) |
+| `add_articles.py <category> <cn-title> [...]` | generic incremental addition of one batch to the tree |
 | `pdf_check.py <pdf> <prefix> [pages]` | renders PDF pages to PNG for visual inspection |
 
 `work/txt/*.txt` (Chinese) and `work/<lang>_txt/*.txt` use the **Chinese title as the filename**; the

@@ -1,4 +1,7 @@
-# 新文章翻译规范（2026-09-25 批次，8 篇）
+# 新文章翻译规范（2026-09-25 批次 8 篇 + 2026-09-26 批次 1 篇）
+
+> 批次差异：2026-09-26 批次新增网络语 `龙国`→中国、`米国`→美国、`欧国`→欧盟，
+> 已并入 `sanitize_batch.py`（通用版，可传多个标题）。其余规则两批一致。
 
 作者「最最遥远的路」是马克思主义者。全部译文必须在马克思主义/历史唯物主义的语境下
 （世界体系、中心—半外围—外围、阶级分析、帝国主义、剩余价值、改良主义等），
@@ -51,6 +54,7 @@
 | 印度 | India | India | India | Índia | Inde | Индия | الهند |
 | 中国 | China | China | China | China | Chine | Китай | الصين |
 | 美国 | US | the US / the United States | EE. UU. / Estados Unidos | EUA / Estados Unidos | États-Unis | США | الولايات المتحدة |
+| 欧盟 | EU | the EU | la UE | a UE | l'UE | ЕС | الاتحاد الأوروبي |
 | 政府 | government | government | gobierno | governo | gouvernement | правительство | الحكومة |
 | 双休 | two-day weekend (双休日) | two-day weekend | fin de semana de dos días | fim de semana de dois dias | week-end de deux jours | двухдневные выходные | عطلة نهاية الأسبوع ليومين |
 
