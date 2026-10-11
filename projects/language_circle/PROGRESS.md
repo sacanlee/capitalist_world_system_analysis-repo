@@ -58,3 +58,10 @@
 ## 脚本链（幂等，改归属只改 circles_def.py 后重跑01→05）
 circles_def.py(唯一圈层数据源) → map_common.py(公共地图层) → 01_aggregate → 02_verify → 03_draw_map →
 04_draw_table → 05_draw_subcircle_maps
+
+## Git / 发布（2026-10-11）
+- 已合入 repo（`...\capitalism_world_system_analysis\repo`，分支 main）并推送 GitHub：
+  commit `2d2f1a0` "Add language-circle world maps (8 spheres, 15 sub-spheres, bilingual)"，
+  远端 git@github.com:sacanlee/capitalist_world_system_analysis-repo.git（含 README 的 Projects 章节更新）
+- 提交内容：projects/language_circle/ 全部（scripts/data/raw/out 五图/README/PROGRESS/.gitignore）
+- 未提交（与本次无关，保持原样）：projects/industrial_stage_map/out 的 PNG 增删、projects/productive labor/
