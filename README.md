@@ -31,8 +31,19 @@ repo/
 │   ├── বাংলা/
 │   ├── Bahasa Indonesia/
 │   └── Русский/
-└── projects/           — coding projects related to this analysis (to be added)
+└── projects/           — quantitative analyses behind the essays (see Projects below)
+    ├── industrial_stage_map/   world maps of industrialisation stages, 1995 / 2010 / 2024 / 2040 / 2055
+    └── language_circle/        bilingual world maps of the eight language-and-culture spheres
 ```
+
+## Projects
+
+- **`projects/industrial_stage_map/`** — world maps of industrialisation stages (1995 / 2010 measured,
+  2024 V2, 2040 / 2055 projections), classifying countries by per-capita electricity and crude steel.
+- **`projects/language_circle/`** — bilingual (中文 / English) world maps of the eight language-and-culture
+  spheres and their 15 sub-spheres (top-level map + per-sphere sub-sphere maps + statistics table),
+  with 2025 / 2055 population and 2025 births per sphere (UN WPP2024 Medium variant).
+  Boundaries follow China's official standard map; 132 countries covered, 96.2% of world population 2025.
 
 ## Categories
 
